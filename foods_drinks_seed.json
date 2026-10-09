@@ -1,0 +1,4594 @@
+[
+  {
+    "name": "חזה עוף מבושל",
+    "category": "חלבונים",
+    "calories": 165,
+    "protein_g": 31,
+    "carbs_g": 0,
+    "fat_g": 3.6
+  },
+  {
+    "name": "חזה עוף נא",
+    "category": "חלבונים",
+    "calories": 120,
+    "protein_g": 22.5,
+    "carbs_g": 0,
+    "fat_g": 2.6
+  },
+  {
+    "name": "שוק עוף מבושל",
+    "category": "חלבונים",
+    "calories": 209,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 10.9
+  },
+  {
+    "name": "כרע עוף מבושלת",
+    "category": "חלבונים",
+    "calories": 229,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 14
+  },
+  {
+    "name": "כנף עוף מבושלת",
+    "category": "חלבונים",
+    "calories": 203,
+    "protein_g": 30.5,
+    "carbs_g": 0,
+    "fat_g": 8.1
+  },
+  {
+    "name": "פרגית מבושלת",
+    "category": "חלבונים",
+    "calories": 209,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 10.9
+  },
+  {
+    "name": "עוף שלם צלוי",
+    "category": "חלבונים",
+    "calories": 239,
+    "protein_g": 27,
+    "carbs_g": 0,
+    "fat_g": 14
+  },
+  {
+    "name": "חזה הודו מבושל",
+    "category": "חלבונים",
+    "calories": 135,
+    "protein_g": 30,
+    "carbs_g": 0,
+    "fat_g": 1
+  },
+  {
+    "name": "בשר הודו טחון מבושל",
+    "category": "חלבונים",
+    "calories": 203,
+    "protein_g": 27,
+    "carbs_g": 0,
+    "fat_g": 10
+  },
+  {
+    "name": "עוף טחון מבושל",
+    "category": "חלבונים",
+    "calories": 189,
+    "protein_g": 23,
+    "carbs_g": 0,
+    "fat_g": 11
+  },
+  {
+    "name": "בקר טחון 15% שומן מבושל",
+    "category": "חלבונים",
+    "calories": 250,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 15
+  },
+  {
+    "name": "בקר טחון 10% שומן מבושל",
+    "category": "חלבונים",
+    "calories": 217,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 12
+  },
+  {
+    "name": "אנטריקוט בקר מבושל",
+    "category": "חלבונים",
+    "calories": 291,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 21
+  },
+  {
+    "name": "סינטה בקר מבושלת",
+    "category": "חלבונים",
+    "calories": 271,
+    "protein_g": 27,
+    "carbs_g": 0,
+    "fat_g": 17.5
+  },
+  {
+    "name": "פילה בקר מבושל",
+    "category": "חלבונים",
+    "calories": 250,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 15
+  },
+  {
+    "name": "צלעות בקר מבושלות",
+    "category": "חלבונים",
+    "calories": 320,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 24
+  },
+  {
+    "name": "כתף בקר מבושלת",
+    "category": "חלבונים",
+    "calories": 300,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 21
+  },
+  {
+    "name": "שריר בקר מבושל",
+    "category": "חלבונים",
+    "calories": 245,
+    "protein_g": 30,
+    "carbs_g": 0,
+    "fat_g": 13
+  },
+  {
+    "name": "חזה בקר מבושל",
+    "category": "חלבונים",
+    "calories": 250,
+    "protein_g": 31,
+    "carbs_g": 0,
+    "fat_g": 13
+  },
+  {
+    "name": "רוסטביף",
+    "category": "חלבונים",
+    "calories": 171,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 7
+  },
+  {
+    "name": "פסטרמה בקר",
+    "category": "חלבונים",
+    "calories": 130,
+    "protein_g": 20,
+    "carbs_g": 3,
+    "fat_g": 4
+  },
+  {
+    "name": "קורנביף",
+    "category": "חלבונים",
+    "calories": 251,
+    "protein_g": 27,
+    "carbs_g": 0,
+    "fat_g": 15
+  },
+  {
+    "name": "אסאדו בקר מבושל",
+    "category": "חלבונים",
+    "calories": 350,
+    "protein_g": 22,
+    "carbs_g": 0,
+    "fat_g": 30
+  },
+  {
+    "name": "פלטה בקר מבושלת",
+    "category": "חלבונים",
+    "calories": 340,
+    "protein_g": 23,
+    "carbs_g": 0,
+    "fat_g": 28
+  },
+  {
+    "name": "סטייק T-bone מבושל",
+    "category": "חלבונים",
+    "calories": 280,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 20
+  },
+  {
+    "name": "פילה בקר שמן מבושל",
+    "category": "חלבונים",
+    "calories": 290,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 22
+  },
+  {
+    "name": "עגל מבושל",
+    "category": "חלבונים",
+    "calories": 180,
+    "protein_g": 30,
+    "carbs_g": 0,
+    "fat_g": 6
+  },
+  {
+    "name": "בקר מעושן",
+    "category": "חלבונים",
+    "calories": 133,
+    "protein_g": 20,
+    "carbs_g": 2,
+    "fat_g": 5
+  },
+  {
+    "name": "כבד עוף מבושל",
+    "category": "חלבונים",
+    "calories": 167,
+    "protein_g": 24,
+    "carbs_g": 0.9,
+    "fat_g": 6.5
+  },
+  {
+    "name": "כבד בקר מבושל",
+    "category": "חלבונים",
+    "calories": 191,
+    "protein_g": 29,
+    "carbs_g": 5.1,
+    "fat_g": 5.3
+  },
+  {
+    "name": "לב בקר מבושל",
+    "category": "חלבונים",
+    "calories": 165,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 4.7
+  },
+  {
+    "name": "לשון בקר מבושלת",
+    "category": "חלבונים",
+    "calories": 284,
+    "protein_g": 19,
+    "carbs_g": 3,
+    "fat_g": 22
+  },
+  {
+    "name": "כתף כבש מבושלת",
+    "category": "חלבונים",
+    "calories": 285,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 20
+  },
+  {
+    "name": "צלעות כבש מבושלות",
+    "category": "חלבונים",
+    "calories": 294,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 21
+  },
+  {
+    "name": "שוק כבש מבושל",
+    "category": "חלבונים",
+    "calories": 258,
+    "protein_g": 28,
+    "carbs_g": 0,
+    "fat_g": 16
+  },
+  {
+    "name": "כבש טחון מבושל",
+    "category": "חלבונים",
+    "calories": 283,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 20
+  },
+  {
+    "name": "צלעות טלה מבושלות",
+    "category": "חלבונים",
+    "calories": 300,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 23
+  },
+  {
+    "name": "חזה ברווז מבושל",
+    "category": "חלבונים",
+    "calories": 201,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 11
+  },
+  {
+    "name": "ברווז צלוי",
+    "category": "חלבונים",
+    "calories": 337,
+    "protein_g": 19,
+    "carbs_g": 0,
+    "fat_g": 28
+  },
+  {
+    "name": "אווז צלוי",
+    "category": "חלבונים",
+    "calories": 305,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 22
+  },
+  {
+    "name": "סלמון מבושל",
+    "category": "חלבונים",
+    "calories": 206,
+    "protein_g": 22,
+    "carbs_g": 0,
+    "fat_g": 12
+  },
+  {
+    "name": "סלמון נא",
+    "category": "חלבונים",
+    "calories": 208,
+    "protein_g": 20,
+    "carbs_g": 0,
+    "fat_g": 13
+  },
+  {
+    "name": "סלמון אפוי",
+    "category": "חלבונים",
+    "calories": 208,
+    "protein_g": 20,
+    "carbs_g": 0,
+    "fat_g": 13
+  },
+  {
+    "name": "פילה סלמון מעושן",
+    "category": "חלבונים",
+    "calories": 117,
+    "protein_g": 18,
+    "carbs_g": 0,
+    "fat_g": 4
+  },
+  {
+    "name": "טונה משומרת במים",
+    "category": "חלבונים",
+    "calories": 116,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 0.8
+  },
+  {
+    "name": "טונה משומרת בשמן",
+    "category": "חלבונים",
+    "calories": 198,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 10
+  },
+  {
+    "name": "טונה טרייה מבושלת",
+    "category": "חלבונים",
+    "calories": 184,
+    "protein_g": 30,
+    "carbs_g": 0,
+    "fat_g": 6.3
+  },
+  {
+    "name": "סטייק טונה צרוב",
+    "category": "חלבונים",
+    "calories": 130,
+    "protein_g": 29,
+    "carbs_g": 0,
+    "fat_g": 1
+  },
+  {
+    "name": "בקלה מבושל",
+    "category": "חלבונים",
+    "calories": 105,
+    "protein_g": 23,
+    "carbs_g": 0,
+    "fat_g": 0.9
+  },
+  {
+    "name": "בקלה מעושן",
+    "category": "חלבונים",
+    "calories": 100,
+    "protein_g": 23,
+    "carbs_g": 0,
+    "fat_g": 0.8
+  },
+  {
+    "name": "אמנון מבושל",
+    "category": "חלבונים",
+    "calories": 128,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 2.7
+  },
+  {
+    "name": "דניס מבושל",
+    "category": "חלבונים",
+    "calories": 121,
+    "protein_g": 22,
+    "carbs_g": 0,
+    "fat_g": 3.5
+  },
+  {
+    "name": "לברק מבושל",
+    "category": "חלבונים",
+    "calories": 124,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 2.5
+  },
+  {
+    "name": "מושט מבושל",
+    "category": "חלבונים",
+    "calories": 128,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 2.7
+  },
+  {
+    "name": "בס מבושל",
+    "category": "חלבונים",
+    "calories": 124,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 2.5
+  },
+  {
+    "name": "קרפיון מבושל",
+    "category": "חלבונים",
+    "calories": 162,
+    "protein_g": 22,
+    "carbs_g": 0,
+    "fat_g": 7
+  },
+  {
+    "name": "בורי מבושל",
+    "category": "חלבונים",
+    "calories": 130,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 3
+  },
+  {
+    "name": "סול מבושל",
+    "category": "חלבונים",
+    "calories": 92,
+    "protein_g": 21,
+    "carbs_g": 0,
+    "fat_g": 1
+  },
+  {
+    "name": "הרינג מבושל",
+    "category": "חלבונים",
+    "calories": 217,
+    "protein_g": 24.6,
+    "carbs_g": 0,
+    "fat_g": 12.4
+  },
+  {
+    "name": "מקרל מבושל",
+    "category": "חלבונים",
+    "calories": 262,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 18
+  },
+  {
+    "name": "סרדינים בשמן",
+    "category": "חלבונים",
+    "calories": 208,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 11.5
+  },
+  {
+    "name": "פורל מבושל",
+    "category": "חלבונים",
+    "calories": 168,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 7.5
+  },
+  {
+    "name": "פורל מעושן",
+    "category": "חלבונים",
+    "calories": 160,
+    "protein_g": 23,
+    "carbs_g": 0,
+    "fat_g": 7
+  },
+  {
+    "name": "הליבוט מבושל",
+    "category": "חלבונים",
+    "calories": 111,
+    "protein_g": 23,
+    "carbs_g": 0,
+    "fat_g": 1.6
+  },
+  {
+    "name": "דג חרב מבושל",
+    "category": "חלבונים",
+    "calories": 172,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 8
+  },
+  {
+    "name": "טילפיה מבושלת",
+    "category": "חלבונים",
+    "calories": 128,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 2.7
+  },
+  {
+    "name": "דג ים מבושל",
+    "category": "חלבונים",
+    "calories": 105,
+    "protein_g": 22,
+    "carbs_g": 0,
+    "fat_g": 2
+  },
+  {
+    "name": "שרימפס מבושל",
+    "category": "חלבונים",
+    "calories": 99,
+    "protein_g": 24,
+    "carbs_g": 0.2,
+    "fat_g": 0.3
+  },
+  {
+    "name": "קלמארי מבושל",
+    "category": "חלבונים",
+    "calories": 92,
+    "protein_g": 15.6,
+    "carbs_g": 3.1,
+    "fat_g": 1.4
+  },
+  {
+    "name": "סרטנים מבושלים",
+    "category": "חלבונים",
+    "calories": 97,
+    "protein_g": 19.4,
+    "carbs_g": 0,
+    "fat_g": 1.5
+  },
+  {
+    "name": "לובסטר מבושל",
+    "category": "חלבונים",
+    "calories": 89,
+    "protein_g": 19,
+    "carbs_g": 0,
+    "fat_g": 0.9
+  },
+  {
+    "name": "צדפות מבושלות",
+    "category": "חלבונים",
+    "calories": 148,
+    "protein_g": 25,
+    "carbs_g": 5,
+    "fat_g": 2
+  },
+  {
+    "name": "מולים מבושלים",
+    "category": "חלבונים",
+    "calories": 172,
+    "protein_g": 24,
+    "carbs_g": 7,
+    "fat_g": 4.7
+  },
+  {
+    "name": "תמנון מבושל",
+    "category": "חלבונים",
+    "calories": 164,
+    "protein_g": 30,
+    "carbs_g": 4.4,
+    "fat_g": 2.1
+  },
+  {
+    "name": "ביצה קשה",
+    "category": "חלבונים",
+    "calories": 155,
+    "protein_g": 13,
+    "carbs_g": 1.1,
+    "fat_g": 11
+  },
+  {
+    "name": "ביצה שלמה",
+    "category": "חלבונים",
+    "calories": 143,
+    "protein_g": 12.6,
+    "carbs_g": 0.7,
+    "fat_g": 9.5
+  },
+  {
+    "name": "חלבון ביצה",
+    "category": "חלבונים",
+    "calories": 52,
+    "protein_g": 11,
+    "carbs_g": 0.7,
+    "fat_g": 0.2
+  },
+  {
+    "name": "חלמון ביצה",
+    "category": "חלבונים",
+    "calories": 322,
+    "protein_g": 16,
+    "carbs_g": 3.6,
+    "fat_g": 27
+  },
+  {
+    "name": "ביצת שליו",
+    "category": "חלבונים",
+    "calories": 158,
+    "protein_g": 13,
+    "carbs_g": 0.4,
+    "fat_g": 11
+  },
+  {
+    "name": "טופו קשה",
+    "category": "חלבונים",
+    "calories": 144,
+    "protein_g": 17,
+    "carbs_g": 3,
+    "fat_g": 9
+  },
+  {
+    "name": "טופו רך",
+    "category": "חלבונים",
+    "calories": 76,
+    "protein_g": 8,
+    "carbs_g": 1.9,
+    "fat_g": 4.8
+  },
+  {
+    "name": "טופו מעושן",
+    "category": "חלבונים",
+    "calories": 150,
+    "protein_g": 17,
+    "carbs_g": 4,
+    "fat_g": 9
+  },
+  {
+    "name": "טמפה",
+    "category": "חלבונים",
+    "calories": 195,
+    "protein_g": 20,
+    "carbs_g": 8,
+    "fat_g": 11
+  },
+  {
+    "name": "סייטן",
+    "category": "חלבונים",
+    "calories": 120,
+    "protein_g": 25,
+    "carbs_g": 4,
+    "fat_g": 0.5
+  },
+  {
+    "name": "פצפוצי סויה",
+    "category": "חלבונים",
+    "calories": 350,
+    "protein_g": 50,
+    "carbs_g": 30,
+    "fat_g": 1
+  },
+  {
+    "name": "אדממה מבושלת",
+    "category": "חלבונים",
+    "calories": 122,
+    "protein_g": 11,
+    "carbs_g": 10,
+    "fat_g": 5
+  },
+  {
+    "name": "עדשים מבושלות",
+    "category": "חלבונים",
+    "calories": 116,
+    "protein_g": 9,
+    "carbs_g": 20,
+    "fat_g": 0.4
+  },
+  {
+    "name": "עדשים אדומות מבושלות",
+    "category": "חלבונים",
+    "calories": 116,
+    "protein_g": 9,
+    "carbs_g": 20,
+    "fat_g": 0.4
+  },
+  {
+    "name": "עדשים שחורות מבושלות",
+    "category": "חלבונים",
+    "calories": 116,
+    "protein_g": 9,
+    "carbs_g": 20,
+    "fat_g": 0.4
+  },
+  {
+    "name": "גרגירי חומוס מבושלים",
+    "category": "חלבונים",
+    "calories": 164,
+    "protein_g": 8.9,
+    "carbs_g": 27,
+    "fat_g": 2.6
+  },
+  {
+    "name": "שעועית שחורה מבושלת",
+    "category": "חלבונים",
+    "calories": 132,
+    "protein_g": 8.9,
+    "carbs_g": 24,
+    "fat_g": 0.5
+  },
+  {
+    "name": "שעועית לבנה מבושלת",
+    "category": "חלבונים",
+    "calories": 139,
+    "protein_g": 9.7,
+    "carbs_g": 25,
+    "fat_g": 0.35
+  },
+  {
+    "name": "שעועית אדומה מבושלת",
+    "category": "חלבונים",
+    "calories": 127,
+    "protein_g": 8.7,
+    "carbs_g": 22.8,
+    "fat_g": 0.5
+  },
+  {
+    "name": "שעועית אזוקי מבושלת",
+    "category": "חלבונים",
+    "calories": 128,
+    "protein_g": 7.5,
+    "carbs_g": 25,
+    "fat_g": 0.5
+  },
+  {
+    "name": "פול מבושל",
+    "category": "חלבונים",
+    "calories": 110,
+    "protein_g": 7.6,
+    "carbs_g": 19.7,
+    "fat_g": 0.4
+  },
+  {
+    "name": "אפונה מבושלת",
+    "category": "חלבונים",
+    "calories": 84,
+    "protein_g": 5.4,
+    "carbs_g": 15.6,
+    "fat_g": 0.2
+  },
+  {
+    "name": "נקניקיית עוף",
+    "category": "חלבונים",
+    "calories": 172,
+    "protein_g": 20,
+    "carbs_g": 1,
+    "fat_g": 9
+  },
+  {
+    "name": "פסטרמה עוף",
+    "category": "חלבונים",
+    "calories": 100,
+    "protein_g": 17,
+    "carbs_g": 3,
+    "fat_g": 2.5
+  },
+  {
+    "name": "חזה עוף מעושן",
+    "category": "חלבונים",
+    "calories": 130,
+    "protein_g": 24,
+    "carbs_g": 2,
+    "fat_g": 3
+  },
+  {
+    "name": "סלמי",
+    "category": "חלבונים",
+    "calories": 407,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 34
+  },
+  {
+    "name": "קבנוס",
+    "category": "חלבונים",
+    "calories": 420,
+    "protein_g": 24,
+    "carbs_g": 3,
+    "fat_g": 34
+  },
+  {
+    "name": "מרגז מבושל",
+    "category": "חלבונים",
+    "calories": 320,
+    "protein_g": 20,
+    "carbs_g": 2,
+    "fat_g": 26
+  },
+  {
+    "name": "המבורגר בקר מבושל",
+    "category": "חלבונים",
+    "calories": 250,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 15
+  },
+  {
+    "name": "קינואה מבושלת",
+    "category": "דגנים",
+    "calories": 120,
+    "protein_g": 4.4,
+    "carbs_g": 21.3,
+    "fat_g": 1.9
+  },
+  {
+    "name": "אורז לבן מבושל",
+    "category": "דגנים",
+    "calories": 130,
+    "protein_g": 2.7,
+    "carbs_g": 28,
+    "fat_g": 0.3
+  },
+  {
+    "name": "אורז חום מבושל",
+    "category": "דגנים",
+    "calories": 123,
+    "protein_g": 2.7,
+    "carbs_g": 26,
+    "fat_g": 1
+  },
+  {
+    "name": "אורז בסמטי מבושל",
+    "category": "דגנים",
+    "calories": 121,
+    "protein_g": 3,
+    "carbs_g": 25,
+    "fat_g": 0.4
+  },
+  {
+    "name": "אורז יסמין מבושל",
+    "category": "דגנים",
+    "calories": 129,
+    "protein_g": 2.7,
+    "carbs_g": 28,
+    "fat_g": 0.3
+  },
+  {
+    "name": "אורז מלא מבושל",
+    "category": "דגנים",
+    "calories": 123,
+    "protein_g": 2.7,
+    "carbs_g": 26,
+    "fat_g": 1
+  },
+  {
+    "name": "אורז דביק מבושל",
+    "category": "דגנים",
+    "calories": 97,
+    "protein_g": 2,
+    "carbs_g": 21,
+    "fat_g": 0.2
+  },
+  {
+    "name": "אורז ארבוריו מבושל",
+    "category": "דגנים",
+    "calories": 130,
+    "protein_g": 2.4,
+    "carbs_g": 28,
+    "fat_g": 0.3
+  },
+  {
+    "name": "פסטה מבושלת",
+    "category": "דגנים",
+    "calories": 131,
+    "protein_g": 5,
+    "carbs_g": 25,
+    "fat_g": 1.1
+  },
+  {
+    "name": "פסטה מחיטה מלאה מבושלת",
+    "category": "דגנים",
+    "calories": 124,
+    "protein_g": 5,
+    "carbs_g": 27,
+    "fat_g": 0.5
+  },
+  {
+    "name": "ספגטי מבושל",
+    "category": "דגנים",
+    "calories": 158,
+    "protein_g": 5.8,
+    "carbs_g": 31,
+    "fat_g": 0.9
+  },
+  {
+    "name": "מקרוני מבושל",
+    "category": "דגנים",
+    "calories": 131,
+    "protein_g": 5,
+    "carbs_g": 25,
+    "fat_g": 1.1
+  },
+  {
+    "name": "נודלס אורז מבושלים",
+    "category": "דגנים",
+    "calories": 109,
+    "protein_g": 1.8,
+    "carbs_g": 25,
+    "fat_g": 0.2
+  },
+  {
+    "name": "נודלס ביצים מבושלים",
+    "category": "דגנים",
+    "calories": 138,
+    "protein_g": 5,
+    "carbs_g": 25,
+    "fat_g": 2
+  },
+  {
+    "name": "אטריות סובה מבושלות",
+    "category": "דגנים",
+    "calories": 99,
+    "protein_g": 5,
+    "carbs_g": 21,
+    "fat_g": 0.1
+  },
+  {
+    "name": "קוסקוס מבושל",
+    "category": "דגנים",
+    "calories": 112,
+    "protein_g": 3.8,
+    "carbs_g": 23,
+    "fat_g": 0.2
+  },
+  {
+    "name": "בורגול מבושל",
+    "category": "דגנים",
+    "calories": 83,
+    "protein_g": 3.1,
+    "carbs_g": 18.6,
+    "fat_g": 0.2
+  },
+  {
+    "name": "חיטה מבושלת",
+    "category": "דגנים",
+    "calories": 123,
+    "protein_g": 5,
+    "carbs_g": 27,
+    "fat_g": 0.5
+  },
+  {
+    "name": "כוסמת מבושלת",
+    "category": "דגנים",
+    "calories": 92,
+    "protein_g": 3.4,
+    "carbs_g": 19.9,
+    "fat_g": 0.6
+  },
+  {
+    "name": "דוחן מבושל",
+    "category": "דגנים",
+    "calories": 119,
+    "protein_g": 3.5,
+    "carbs_g": 23,
+    "fat_g": 1
+  },
+  {
+    "name": "גריסים מבושלים",
+    "category": "דגנים",
+    "calories": 120,
+    "protein_g": 4,
+    "carbs_g": 24,
+    "fat_g": 0.5
+  },
+  {
+    "name": "סולת מבושלת",
+    "category": "דגנים",
+    "calories": 100,
+    "protein_g": 3,
+    "carbs_g": 22,
+    "fat_g": 0.3
+  },
+  {
+    "name": "פתיתים מבושלים",
+    "category": "דגנים",
+    "calories": 130,
+    "protein_g": 4,
+    "carbs_g": 26,
+    "fat_g": 0.5
+  },
+  {
+    "name": "שיבולת שועל יבשה",
+    "category": "דגנים",
+    "calories": 389,
+    "protein_g": 17,
+    "carbs_g": 66,
+    "fat_g": 7
+  },
+  {
+    "name": "שיבולת שועל מבושלת",
+    "category": "דגנים",
+    "calories": 71,
+    "protein_g": 2.5,
+    "carbs_g": 12,
+    "fat_g": 1.5
+  },
+  {
+    "name": "קוואקר מהיר",
+    "category": "דגנים",
+    "calories": 379,
+    "protein_g": 13,
+    "carbs_g": 68,
+    "fat_g": 6.5
+  },
+  {
+    "name": "סובין שיבולת שועל",
+    "category": "דגנים",
+    "calories": 246,
+    "protein_g": 17,
+    "carbs_g": 66,
+    "fat_g": 7
+  },
+  {
+    "name": "גרנולה",
+    "category": "דגנים",
+    "calories": 471,
+    "protein_g": 10,
+    "carbs_g": 64,
+    "fat_g": 20
+  },
+  {
+    "name": "מוזלי",
+    "category": "דגנים",
+    "calories": 400,
+    "protein_g": 10,
+    "carbs_g": 66,
+    "fat_g": 10
+  },
+  {
+    "name": "קורנפלקס",
+    "category": "דגנים",
+    "calories": 357,
+    "protein_g": 7,
+    "carbs_g": 84,
+    "fat_g": 0.4
+  },
+  {
+    "name": "דגני בוקר מלאים",
+    "category": "דגנים",
+    "calories": 380,
+    "protein_g": 8,
+    "carbs_g": 80,
+    "fat_g": 3
+  },
+  {
+    "name": "פתיתי תירס",
+    "category": "דגנים",
+    "calories": 357,
+    "protein_g": 7,
+    "carbs_g": 84,
+    "fat_g": 0.4
+  },
+  {
+    "name": "לחם לבן",
+    "category": "דגנים",
+    "calories": 265,
+    "protein_g": 9,
+    "carbs_g": 49,
+    "fat_g": 3.2
+  },
+  {
+    "name": "לחם מחיטה מלאה",
+    "category": "דגנים",
+    "calories": 247,
+    "protein_g": 13,
+    "carbs_g": 41,
+    "fat_g": 3.4
+  },
+  {
+    "name": "לחם שיפון",
+    "category": "דגנים",
+    "calories": 259,
+    "protein_g": 8.5,
+    "carbs_g": 48,
+    "fat_g": 3.3
+  },
+  {
+    "name": "לחם שאור",
+    "category": "דגנים",
+    "calories": 289,
+    "protein_g": 12,
+    "carbs_g": 56,
+    "fat_g": 1.7
+  },
+  {
+    "name": "לחם מחמצת",
+    "category": "דגנים",
+    "calories": 289,
+    "protein_g": 12,
+    "carbs_g": 56,
+    "fat_g": 1.7
+  },
+  {
+    "name": "לחם כוסמין",
+    "category": "דגנים",
+    "calories": 250,
+    "protein_g": 11,
+    "carbs_g": 44,
+    "fat_g": 3.5
+  },
+  {
+    "name": "לחם קל",
+    "category": "דגנים",
+    "calories": 200,
+    "protein_g": 12,
+    "carbs_g": 35,
+    "fat_g": 2
+  },
+  {
+    "name": "לחם דגנים",
+    "category": "דגנים",
+    "calories": 265,
+    "protein_g": 10,
+    "carbs_g": 46,
+    "fat_g": 4
+  },
+  {
+    "name": "לחם חלב",
+    "category": "דגנים",
+    "calories": 300,
+    "protein_g": 9,
+    "carbs_g": 52,
+    "fat_g": 5
+  },
+  {
+    "name": "לחם תירס",
+    "category": "דגנים",
+    "calories": 330,
+    "protein_g": 7,
+    "carbs_g": 55,
+    "fat_g": 9
+  },
+  {
+    "name": "פיתה",
+    "category": "דגנים",
+    "calories": 275,
+    "protein_g": 9,
+    "carbs_g": 55,
+    "fat_g": 1.2
+  },
+  {
+    "name": "פיתה מחיטה מלאה",
+    "category": "דגנים",
+    "calories": 250,
+    "protein_g": 10,
+    "carbs_g": 50,
+    "fat_g": 2
+  },
+  {
+    "name": "פיתה ערבית",
+    "category": "דגנים",
+    "calories": 275,
+    "protein_g": 9,
+    "carbs_g": 55,
+    "fat_g": 1.2
+  },
+  {
+    "name": "בגט",
+    "category": "דגנים",
+    "calories": 274,
+    "protein_g": 9,
+    "carbs_g": 55,
+    "fat_g": 1.5
+  },
+  {
+    "name": "לחמנייה",
+    "category": "דגנים",
+    "calories": 280,
+    "protein_g": 9.5,
+    "carbs_g": 51,
+    "fat_g": 4
+  },
+  {
+    "name": "טורטייה",
+    "category": "דגנים",
+    "calories": 306,
+    "protein_g": 8,
+    "carbs_g": 50,
+    "fat_g": 7
+  },
+  {
+    "name": "טורטיית חיטה מלאה",
+    "category": "דגנים",
+    "calories": 290,
+    "protein_g": 9,
+    "carbs_g": 48,
+    "fat_g": 6
+  },
+  {
+    "name": "מצות",
+    "category": "דגנים",
+    "calories": 395,
+    "protein_g": 10,
+    "carbs_g": 84,
+    "fat_g": 1.5
+  },
+  {
+    "name": "קרקר מחיטה מלאה",
+    "category": "דגנים",
+    "calories": 430,
+    "protein_g": 10,
+    "carbs_g": 70,
+    "fat_g": 12
+  },
+  {
+    "name": "פירורי לחם",
+    "category": "דגנים",
+    "calories": 395,
+    "protein_g": 13,
+    "carbs_g": 72,
+    "fat_g": 5
+  },
+  {
+    "name": "קרוטונים",
+    "category": "דגנים",
+    "calories": 407,
+    "protein_g": 11,
+    "carbs_g": 73,
+    "fat_g": 7
+  },
+  {
+    "name": "פופקורן אוויר",
+    "category": "דגנים",
+    "calories": 387,
+    "protein_g": 13,
+    "carbs_g": 78,
+    "fat_g": 4.5
+  },
+  {
+    "name": "קמח לבן",
+    "category": "דגנים",
+    "calories": 364,
+    "protein_g": 10,
+    "carbs_g": 76,
+    "fat_g": 1
+  },
+  {
+    "name": "קמח מלא",
+    "category": "דגנים",
+    "calories": 340,
+    "protein_g": 13,
+    "carbs_g": 72,
+    "fat_g": 2.5
+  },
+  {
+    "name": "קמח תירס",
+    "category": "דגנים",
+    "calories": 370,
+    "protein_g": 7,
+    "carbs_g": 79,
+    "fat_g": 3.9
+  },
+  {
+    "name": "קמח שיפון",
+    "category": "דגנים",
+    "calories": 350,
+    "protein_g": 10,
+    "carbs_g": 76,
+    "fat_g": 2
+  },
+  {
+    "name": "תירס מבושל",
+    "category": "דגנים",
+    "calories": 96,
+    "protein_g": 3.4,
+    "carbs_g": 21,
+    "fat_g": 1.5
+  },
+  {
+    "name": "תירס משומר",
+    "category": "דגנים",
+    "calories": 86,
+    "protein_g": 3.2,
+    "carbs_g": 19,
+    "fat_g": 1.2
+  },
+  {
+    "name": "תירס מתוק",
+    "category": "דגנים",
+    "calories": 86,
+    "protein_g": 3.2,
+    "carbs_g": 19,
+    "fat_g": 1.2
+  },
+  {
+    "name": "פריכית אורז",
+    "category": "דגנים",
+    "calories": 387,
+    "protein_g": 8,
+    "carbs_g": 82,
+    "fat_g": 3
+  },
+  {
+    "name": "פריכית תירס",
+    "category": "דגנים",
+    "calories": 380,
+    "protein_g": 7,
+    "carbs_g": 80,
+    "fat_g": 3
+  },
+  {
+    "name": "בייגלה",
+    "category": "דגנים",
+    "calories": 380,
+    "protein_g": 10,
+    "carbs_g": 70,
+    "fat_g": 3
+  },
+  {
+    "name": "לחם פומפרניקל",
+    "category": "דגנים",
+    "calories": 260,
+    "protein_g": 9,
+    "carbs_g": 48,
+    "fat_g": 3
+  },
+  {
+    "name": "תפוח",
+    "category": "פירות",
+    "calories": 52,
+    "protein_g": 0.3,
+    "carbs_g": 14,
+    "fat_g": 0.2
+  },
+  {
+    "name": "בננה",
+    "category": "פירות",
+    "calories": 89,
+    "protein_g": 1.1,
+    "carbs_g": 23,
+    "fat_g": 0.3
+  },
+  {
+    "name": "תפוז",
+    "category": "פירות",
+    "calories": 47,
+    "protein_g": 0.9,
+    "carbs_g": 12,
+    "fat_g": 0.1
+  },
+  {
+    "name": "אשכולית",
+    "category": "פירות",
+    "calories": 42,
+    "protein_g": 0.8,
+    "carbs_g": 11,
+    "fat_g": 0.1
+  },
+  {
+    "name": "מנדרינה",
+    "category": "פירות",
+    "calories": 53,
+    "protein_g": 0.8,
+    "carbs_g": 13,
+    "fat_g": 0.3
+  },
+  {
+    "name": "קלמנטינה",
+    "category": "פירות",
+    "calories": 47,
+    "protein_g": 0.8,
+    "carbs_g": 12,
+    "fat_g": 0.2
+  },
+  {
+    "name": "לימון",
+    "category": "פירות",
+    "calories": 29,
+    "protein_g": 1.1,
+    "carbs_g": 9,
+    "fat_g": 0.3
+  },
+  {
+    "name": "ליים",
+    "category": "פירות",
+    "calories": 30,
+    "protein_g": 0.7,
+    "carbs_g": 11,
+    "fat_g": 0.2
+  },
+  {
+    "name": "ענבים",
+    "category": "פירות",
+    "calories": 69,
+    "protein_g": 0.7,
+    "carbs_g": 18,
+    "fat_g": 0.2
+  },
+  {
+    "name": "תות שדה",
+    "category": "פירות",
+    "calories": 32,
+    "protein_g": 0.7,
+    "carbs_g": 7.7,
+    "fat_g": 0.3
+  },
+  {
+    "name": "אוכמניות",
+    "category": "פירות",
+    "calories": 57,
+    "protein_g": 0.7,
+    "carbs_g": 14,
+    "fat_g": 0.3
+  },
+  {
+    "name": "פטל",
+    "category": "פירות",
+    "calories": 52,
+    "protein_g": 1.2,
+    "carbs_g": 12,
+    "fat_g": 0.7
+  },
+  {
+    "name": "פטל שחור",
+    "category": "פירות",
+    "calories": 43,
+    "protein_g": 1.4,
+    "carbs_g": 10,
+    "fat_g": 0.5
+  },
+  {
+    "name": "דובדבנים",
+    "category": "פירות",
+    "calories": 50,
+    "protein_g": 1,
+    "carbs_g": 12,
+    "fat_g": 0.3
+  },
+  {
+    "name": "אבטיח",
+    "category": "פירות",
+    "calories": 30,
+    "protein_g": 0.6,
+    "carbs_g": 7.6,
+    "fat_g": 0.2
+  },
+  {
+    "name": "מלון",
+    "category": "פירות",
+    "calories": 34,
+    "protein_g": 0.8,
+    "carbs_g": 8,
+    "fat_g": 0.2
+  },
+  {
+    "name": "מלון קנטלופ",
+    "category": "פירות",
+    "calories": 34,
+    "protein_g": 0.8,
+    "carbs_g": 8,
+    "fat_g": 0.2
+  },
+  {
+    "name": "אננס",
+    "category": "פירות",
+    "calories": 50,
+    "protein_g": 0.5,
+    "carbs_g": 13,
+    "fat_g": 0.1
+  },
+  {
+    "name": "מנגו",
+    "category": "פירות",
+    "calories": 60,
+    "protein_g": 0.8,
+    "carbs_g": 15,
+    "fat_g": 0.4
+  },
+  {
+    "name": "פפאיה",
+    "category": "פירות",
+    "calories": 43,
+    "protein_g": 0.5,
+    "carbs_g": 11,
+    "fat_g": 0.3
+  },
+  {
+    "name": "קיווי",
+    "category": "פירות",
+    "calories": 61,
+    "protein_g": 1.1,
+    "carbs_g": 15,
+    "fat_g": 0.5
+  },
+  {
+    "name": "אפרסק",
+    "category": "פירות",
+    "calories": 39,
+    "protein_g": 0.9,
+    "carbs_g": 10,
+    "fat_g": 0.3
+  },
+  {
+    "name": "נקטרינה",
+    "category": "פירות",
+    "calories": 44,
+    "protein_g": 1.1,
+    "carbs_g": 11,
+    "fat_g": 0.3
+  },
+  {
+    "name": "שזיף",
+    "category": "פירות",
+    "calories": 46,
+    "protein_g": 0.7,
+    "carbs_g": 11,
+    "fat_g": 0.3
+  },
+  {
+    "name": "משמש",
+    "category": "פירות",
+    "calories": 48,
+    "protein_g": 1.4,
+    "carbs_g": 11,
+    "fat_g": 0.4
+  },
+  {
+    "name": "אגס",
+    "category": "פירות",
+    "calories": 57,
+    "protein_g": 0.4,
+    "carbs_g": 15,
+    "fat_g": 0.1
+  },
+  {
+    "name": "רימון",
+    "category": "פירות",
+    "calories": 83,
+    "protein_g": 1.7,
+    "carbs_g": 19,
+    "fat_g": 1.2
+  },
+  {
+    "name": "תאנה",
+    "category": "פירות",
+    "calories": 74,
+    "protein_g": 0.8,
+    "carbs_g": 19,
+    "fat_g": 0.3
+  },
+  {
+    "name": "תמר",
+    "category": "פירות",
+    "calories": 282,
+    "protein_g": 2.5,
+    "carbs_g": 75,
+    "fat_g": 0.4
+  },
+  {
+    "name": "אבוקדו",
+    "category": "פירות",
+    "calories": 160,
+    "protein_g": 2,
+    "carbs_g": 9,
+    "fat_g": 15
+  },
+  {
+    "name": "קוקוס טרי",
+    "category": "פירות",
+    "calories": 354,
+    "protein_g": 3.3,
+    "carbs_g": 15,
+    "fat_g": 33
+  },
+  {
+    "name": "גויאבה",
+    "category": "פירות",
+    "calories": 68,
+    "protein_g": 2.6,
+    "carbs_g": 14,
+    "fat_g": 1
+  },
+  {
+    "name": "ליצ'י",
+    "category": "פירות",
+    "calories": 66,
+    "protein_g": 0.8,
+    "carbs_g": 17,
+    "fat_g": 0.4
+  },
+  {
+    "name": "פסיפלורה",
+    "category": "פירות",
+    "calories": 97,
+    "protein_g": 2.2,
+    "carbs_g": 23,
+    "fat_g": 0.7
+  },
+  {
+    "name": "פיטאיה",
+    "category": "פירות",
+    "calories": 60,
+    "protein_g": 1.2,
+    "carbs_g": 13,
+    "fat_g": 0.4
+  },
+  {
+    "name": "קרמבולה",
+    "category": "פירות",
+    "calories": 31,
+    "protein_g": 1,
+    "carbs_g": 6.7,
+    "fat_g": 0.3
+  },
+  {
+    "name": "אפרסמון",
+    "category": "פירות",
+    "calories": 70,
+    "protein_g": 0.6,
+    "carbs_g": 19,
+    "fat_g": 0.2
+  },
+  {
+    "name": "חמוציות מיובשות",
+    "category": "פירות",
+    "calories": 308,
+    "protein_g": 0.1,
+    "carbs_g": 82,
+    "fat_g": 1.4
+  },
+  {
+    "name": "צימוקים",
+    "category": "פירות",
+    "calories": 299,
+    "protein_g": 3.1,
+    "carbs_g": 79,
+    "fat_g": 0.5
+  },
+  {
+    "name": "שזיפים מיובשים",
+    "category": "פירות",
+    "calories": 240,
+    "protein_g": 2.2,
+    "carbs_g": 64,
+    "fat_g": 0.4
+  },
+  {
+    "name": "משמש מיובש",
+    "category": "פירות",
+    "calories": 241,
+    "protein_g": 3.4,
+    "carbs_g": 63,
+    "fat_g": 0.5
+  },
+  {
+    "name": "תאנים מיובשות",
+    "category": "פירות",
+    "calories": 249,
+    "protein_g": 3.3,
+    "carbs_g": 64,
+    "fat_g": 0.9
+  },
+  {
+    "name": "תמרים מיובשים",
+    "category": "פירות",
+    "calories": 282,
+    "protein_g": 2.5,
+    "carbs_g": 75,
+    "fat_g": 0.4
+  },
+  {
+    "name": "תפוח מיובש",
+    "category": "פירות",
+    "calories": 243,
+    "protein_g": 0.9,
+    "carbs_g": 66,
+    "fat_g": 0.3
+  },
+  {
+    "name": "בננה מיובשת",
+    "category": "פירות",
+    "calories": 346,
+    "protein_g": 3.9,
+    "carbs_g": 88,
+    "fat_g": 1.8
+  },
+  {
+    "name": "אננס משומר",
+    "category": "פירות",
+    "calories": 60,
+    "protein_g": 0.4,
+    "carbs_g": 15,
+    "fat_g": 0.1
+  },
+  {
+    "name": "אפרסק משומר",
+    "category": "פירות",
+    "calories": 70,
+    "protein_g": 0.5,
+    "carbs_g": 18,
+    "fat_g": 0.1
+  },
+  {
+    "name": "חמוצית",
+    "category": "פירות",
+    "calories": 44,
+    "protein_g": 0.9,
+    "carbs_g": 10,
+    "fat_g": 0.6
+  },
+  {
+    "name": "למון גראס",
+    "category": "פירות",
+    "calories": 99,
+    "protein_g": 1.8,
+    "carbs_g": 25,
+    "fat_g": 0.5
+  },
+  {
+    "name": "עגבנייה",
+    "category": "ירקות",
+    "calories": 18,
+    "protein_g": 0.9,
+    "carbs_g": 3.9,
+    "fat_g": 0.2
+  },
+  {
+    "name": "עגבניות שרי",
+    "category": "ירקות",
+    "calories": 18,
+    "protein_g": 0.9,
+    "carbs_g": 3.9,
+    "fat_g": 0.2
+  },
+  {
+    "name": "עגבנייה מיובשת בשמש",
+    "category": "ירקות",
+    "calories": 258,
+    "protein_g": 14,
+    "carbs_g": 55,
+    "fat_g": 3
+  },
+  {
+    "name": "מלפפון",
+    "category": "ירקות",
+    "calories": 15,
+    "protein_g": 0.7,
+    "carbs_g": 3.6,
+    "fat_g": 0.1
+  },
+  {
+    "name": "חסה",
+    "category": "ירקות",
+    "calories": 15,
+    "protein_g": 1.4,
+    "carbs_g": 2.9,
+    "fat_g": 0.2
+  },
+  {
+    "name": "חסה רומית",
+    "category": "ירקות",
+    "calories": 17,
+    "protein_g": 1.2,
+    "carbs_g": 3.3,
+    "fat_g": 0.3
+  },
+  {
+    "name": "חסה אייסברג",
+    "category": "ירקות",
+    "calories": 14,
+    "protein_g": 0.9,
+    "carbs_g": 3,
+    "fat_g": 0.1
+  },
+  {
+    "name": "רוקט",
+    "category": "ירקות",
+    "calories": 25,
+    "protein_g": 2.6,
+    "carbs_g": 3.7,
+    "fat_g": 0.7
+  },
+  {
+    "name": "עולש",
+    "category": "ירקות",
+    "calories": 17,
+    "protein_g": 0.9,
+    "carbs_g": 3.4,
+    "fat_g": 0.2
+  },
+  {
+    "name": "אנדיב",
+    "category": "ירקות",
+    "calories": 17,
+    "protein_g": 1.3,
+    "carbs_g": 3.4,
+    "fat_g": 0.2
+  },
+  {
+    "name": "תרד",
+    "category": "ירקות",
+    "calories": 23,
+    "protein_g": 2.9,
+    "carbs_g": 3.6,
+    "fat_g": 0.4
+  },
+  {
+    "name": "תרד מבושל",
+    "category": "ירקות",
+    "calories": 23,
+    "protein_g": 3,
+    "carbs_g": 3.8,
+    "fat_g": 0.3
+  },
+  {
+    "name": "קייל",
+    "category": "ירקות",
+    "calories": 49,
+    "protein_g": 4.3,
+    "carbs_g": 8.8,
+    "fat_g": 0.9
+  },
+  {
+    "name": "קייל מבושל",
+    "category": "ירקות",
+    "calories": 28,
+    "protein_g": 1.9,
+    "carbs_g": 5.6,
+    "fat_g": 0.4
+  },
+  {
+    "name": "פאק צ'וי",
+    "category": "ירקות",
+    "calories": 13,
+    "protein_g": 1.5,
+    "carbs_g": 2.2,
+    "fat_g": 0.2
+  },
+  {
+    "name": "כרוב לבן",
+    "category": "ירקות",
+    "calories": 25,
+    "protein_g": 1.3,
+    "carbs_g": 5.8,
+    "fat_g": 0.1
+  },
+  {
+    "name": "כרוב סגול",
+    "category": "ירקות",
+    "calories": 31,
+    "protein_g": 1.4,
+    "carbs_g": 7.4,
+    "fat_g": 0.2
+  },
+  {
+    "name": "כרוב ניצנים",
+    "category": "ירקות",
+    "calories": 43,
+    "protein_g": 3.4,
+    "carbs_g": 9,
+    "fat_g": 0.3
+  },
+  {
+    "name": "כרובית מבושלת",
+    "category": "ירקות",
+    "calories": 25,
+    "protein_g": 1.9,
+    "carbs_g": 5,
+    "fat_g": 0.3
+  },
+  {
+    "name": "ברוקולי מבושל",
+    "category": "ירקות",
+    "calories": 35,
+    "protein_g": 2.4,
+    "carbs_g": 7.2,
+    "fat_g": 0.4
+  },
+  {
+    "name": "גזר",
+    "category": "ירקות",
+    "calories": 41,
+    "protein_g": 0.9,
+    "carbs_g": 10,
+    "fat_g": 0.2
+  },
+  {
+    "name": "גזר תינוק",
+    "category": "ירקות",
+    "calories": 35,
+    "protein_g": 0.6,
+    "carbs_g": 8.2,
+    "fat_g": 0.1
+  },
+  {
+    "name": "בצל יבש",
+    "category": "ירקות",
+    "calories": 40,
+    "protein_g": 1.1,
+    "carbs_g": 9.3,
+    "fat_g": 0.1
+  },
+  {
+    "name": "בצל סגול",
+    "category": "ירקות",
+    "calories": 40,
+    "protein_g": 1.1,
+    "carbs_g": 9.3,
+    "fat_g": 0.1
+  },
+  {
+    "name": "שאלוט",
+    "category": "ירקות",
+    "calories": 72,
+    "protein_g": 2.5,
+    "carbs_g": 17,
+    "fat_g": 0.1
+  },
+  {
+    "name": "בצל ירוק",
+    "category": "ירקות",
+    "calories": 32,
+    "protein_g": 1.8,
+    "carbs_g": 7.3,
+    "fat_g": 0.2
+  },
+  {
+    "name": "כרישה",
+    "category": "ירקות",
+    "calories": 61,
+    "protein_g": 1.5,
+    "carbs_g": 14,
+    "fat_g": 0.3
+  },
+  {
+    "name": "שום",
+    "category": "ירקות",
+    "calories": 149,
+    "protein_g": 6.4,
+    "carbs_g": 33,
+    "fat_g": 0.5
+  },
+  {
+    "name": "ג'ינג'ר",
+    "category": "ירקות",
+    "calories": 80,
+    "protein_g": 1.8,
+    "carbs_g": 18,
+    "fat_g": 0.8
+  },
+  {
+    "name": "תפוח אדמה מבושל",
+    "category": "ירקות",
+    "calories": 87,
+    "protein_g": 2,
+    "carbs_g": 20,
+    "fat_g": 0.1
+  },
+  {
+    "name": "תפוח אדמה אפוי",
+    "category": "ירקות",
+    "calories": 93,
+    "protein_g": 2.5,
+    "carbs_g": 21,
+    "fat_g": 0.1
+  },
+  {
+    "name": "בטטה מבושלת",
+    "category": "ירקות",
+    "calories": 76,
+    "protein_g": 1.4,
+    "carbs_g": 18,
+    "fat_g": 0.1
+  },
+  {
+    "name": "בטטה אפויה",
+    "category": "ירקות",
+    "calories": 90,
+    "protein_g": 2,
+    "carbs_g": 21,
+    "fat_g": 0.2
+  },
+  {
+    "name": "פלפל אדום",
+    "category": "ירקות",
+    "calories": 31,
+    "protein_g": 1,
+    "carbs_g": 6,
+    "fat_g": 0.3
+  },
+  {
+    "name": "פלפל ירוק",
+    "category": "ירקות",
+    "calories": 20,
+    "protein_g": 0.9,
+    "carbs_g": 4.6,
+    "fat_g": 0.2
+  },
+  {
+    "name": "פלפל צהוב",
+    "category": "ירקות",
+    "calories": 27,
+    "protein_g": 1,
+    "carbs_g": 5.3,
+    "fat_g": 0.2
+  },
+  {
+    "name": "פלפל חריף",
+    "category": "ירקות",
+    "calories": 40,
+    "protein_g": 1.9,
+    "carbs_g": 9,
+    "fat_g": 0.4
+  },
+  {
+    "name": "קישואים",
+    "category": "ירקות",
+    "calories": 17,
+    "protein_g": 1.2,
+    "carbs_g": 3.1,
+    "fat_g": 0.3
+  },
+  {
+    "name": "חציל",
+    "category": "ירקות",
+    "calories": 25,
+    "protein_g": 1,
+    "carbs_g": 6,
+    "fat_g": 0.2
+  },
+  {
+    "name": "קולורבי",
+    "category": "ירקות",
+    "calories": 27,
+    "protein_g": 1.7,
+    "carbs_g": 6.2,
+    "fat_g": 0.1
+  },
+  {
+    "name": "לפת",
+    "category": "ירקות",
+    "calories": 28,
+    "protein_g": 0.9,
+    "carbs_g": 6.4,
+    "fat_g": 0.1
+  },
+  {
+    "name": "צנון",
+    "category": "ירקות",
+    "calories": 16,
+    "protein_g": 0.7,
+    "carbs_g": 3.4,
+    "fat_g": 0.1
+  },
+  {
+    "name": "סלק מבושל",
+    "category": "ירקות",
+    "calories": 44,
+    "protein_g": 1.7,
+    "carbs_g": 10,
+    "fat_g": 0.2
+  },
+  {
+    "name": "סלרי",
+    "category": "ירקות",
+    "calories": 16,
+    "protein_g": 0.7,
+    "carbs_g": 3,
+    "fat_g": 0.2
+  },
+  {
+    "name": "פטרוזיליה",
+    "category": "ירקות",
+    "calories": 36,
+    "protein_g": 3,
+    "carbs_g": 6.3,
+    "fat_g": 0.8
+  },
+  {
+    "name": "כוסברה",
+    "category": "ירקות",
+    "calories": 23,
+    "protein_g": 2.1,
+    "carbs_g": 3.7,
+    "fat_g": 0.5
+  },
+  {
+    "name": "שמיר",
+    "category": "ירקות",
+    "calories": 43,
+    "protein_g": 3.5,
+    "carbs_g": 7,
+    "fat_g": 1.1
+  },
+  {
+    "name": "נבטי אלפלפא",
+    "category": "ירקות",
+    "calories": 23,
+    "protein_g": 4,
+    "carbs_g": 2.1,
+    "fat_g": 0.7
+  },
+  {
+    "name": "נבטים סיניים",
+    "category": "ירקות",
+    "calories": 30,
+    "protein_g": 3,
+    "carbs_g": 5.9,
+    "fat_g": 0.2
+  },
+  {
+    "name": "שעועית ירוקה מבושלת",
+    "category": "ירקות",
+    "calories": 35,
+    "protein_g": 1.9,
+    "carbs_g": 7.9,
+    "fat_g": 0.3
+  },
+  {
+    "name": "אספרגוס מבושל",
+    "category": "ירקות",
+    "calories": 22,
+    "protein_g": 2.4,
+    "carbs_g": 4.1,
+    "fat_g": 0.2
+  },
+  {
+    "name": "ארטישוק",
+    "category": "ירקות",
+    "calories": 47,
+    "protein_g": 3.3,
+    "carbs_g": 11,
+    "fat_g": 0.2
+  },
+  {
+    "name": "פטריות שמפיניון",
+    "category": "ירקות",
+    "calories": 22,
+    "protein_g": 3.1,
+    "carbs_g": 3.3,
+    "fat_g": 0.3
+  },
+  {
+    "name": "פטריות פורטובלו",
+    "category": "ירקות",
+    "calories": 22,
+    "protein_g": 2.1,
+    "carbs_g": 3.9,
+    "fat_g": 0.4
+  },
+  {
+    "name": "פטריות שיטאקה",
+    "category": "ירקות",
+    "calories": 34,
+    "protein_g": 2.2,
+    "carbs_g": 6.8,
+    "fat_g": 0.5
+  },
+  {
+    "name": "תירס גמדי",
+    "category": "ירקות",
+    "calories": 26,
+    "protein_g": 2,
+    "carbs_g": 5,
+    "fat_g": 0.2
+  },
+  {
+    "name": "עלי גפן",
+    "category": "ירקות",
+    "calories": 44,
+    "protein_g": 2.6,
+    "carbs_g": 8.5,
+    "fat_g": 0.5
+  },
+  {
+    "name": "חלב 3%",
+    "category": "מוצרי חלב",
+    "calories": 61,
+    "protein_g": 3.2,
+    "carbs_g": 4.8,
+    "fat_g": 3.3
+  },
+  {
+    "name": "חלב 1%",
+    "category": "מוצרי חלב",
+    "calories": 42,
+    "protein_g": 3.4,
+    "carbs_g": 5,
+    "fat_g": 1
+  },
+  {
+    "name": "חלב דל שומן 0.5%",
+    "category": "מוצרי חלב",
+    "calories": 35,
+    "protein_g": 3.4,
+    "carbs_g": 5,
+    "fat_g": 0.5
+  },
+  {
+    "name": "חלב נטול שומן",
+    "category": "מוצרי חלב",
+    "calories": 34,
+    "protein_g": 3.4,
+    "carbs_g": 5,
+    "fat_g": 0.1
+  },
+  {
+    "name": "חלב עמיד 3%",
+    "category": "מוצרי חלב",
+    "calories": 60,
+    "protein_g": 3.2,
+    "carbs_g": 4.7,
+    "fat_g": 3.2
+  },
+  {
+    "name": "שוקו",
+    "category": "מוצרי חלב",
+    "calories": 83,
+    "protein_g": 3.2,
+    "carbs_g": 13,
+    "fat_g": 2
+  },
+  {
+    "name": "יוגורט 3%",
+    "category": "מוצרי חלב",
+    "calories": 61,
+    "protein_g": 3.5,
+    "carbs_g": 4.7,
+    "fat_g": 3.3
+  },
+  {
+    "name": "יוגורט 1.5%",
+    "category": "מוצרי חלב",
+    "calories": 45,
+    "protein_g": 3.6,
+    "carbs_g": 4.9,
+    "fat_g": 1.5
+  },
+  {
+    "name": "יוגורט יווני 0%",
+    "category": "מוצרי חלב",
+    "calories": 59,
+    "protein_g": 10,
+    "carbs_g": 3.6,
+    "fat_g": 0.4
+  },
+  {
+    "name": "יוגורט יווני 5%",
+    "category": "מוצרי חלב",
+    "calories": 97,
+    "protein_g": 9,
+    "carbs_g": 3.6,
+    "fat_g": 5
+  },
+  {
+    "name": "יוגורט יווני 10%",
+    "category": "מוצרי חלב",
+    "calories": 133,
+    "protein_g": 9,
+    "carbs_g": 3.9,
+    "fat_g": 10
+  },
+  {
+    "name": "יוגורט ילדים",
+    "category": "מוצרי חלב",
+    "calories": 90,
+    "protein_g": 3.3,
+    "carbs_g": 13,
+    "fat_g": 2.8
+  },
+  {
+    "name": "קפיר",
+    "category": "מוצרי חלב",
+    "calories": 41,
+    "protein_g": 3.3,
+    "carbs_g": 4.7,
+    "fat_g": 1
+  },
+  {
+    "name": "אשל",
+    "category": "מוצרי חלב",
+    "calories": 60,
+    "protein_g": 3.3,
+    "carbs_g": 5,
+    "fat_g": 3
+  },
+  {
+    "name": "לאבנה",
+    "category": "מוצרי חלב",
+    "calories": 150,
+    "protein_g": 8,
+    "carbs_g": 4,
+    "fat_g": 11
+  },
+  {
+    "name": "גבינה לבנה 5%",
+    "category": "מוצרי חלב",
+    "calories": 106,
+    "protein_g": 8,
+    "carbs_g": 3.5,
+    "fat_g": 6
+  },
+  {
+    "name": "גבינה לבנה 9%",
+    "category": "מוצרי חלב",
+    "calories": 150,
+    "protein_g": 8,
+    "carbs_g": 3.5,
+    "fat_g": 12
+  },
+  {
+    "name": "גבינה לבנה 3%",
+    "category": "מוצרי חלב",
+    "calories": 80,
+    "protein_g": 8.5,
+    "carbs_g": 3.5,
+    "fat_g": 3
+  },
+  {
+    "name": "קוטג' 3%",
+    "category": "מוצרי חלב",
+    "calories": 85,
+    "protein_g": 11,
+    "carbs_g": 3.4,
+    "fat_g": 3
+  },
+  {
+    "name": "קוטג' 5%",
+    "category": "מוצרי חלב",
+    "calories": 98,
+    "protein_g": 11,
+    "carbs_g": 3,
+    "fat_g": 5
+  },
+  {
+    "name": "קוטג' 1%",
+    "category": "מוצרי חלב",
+    "calories": 72,
+    "protein_g": 12,
+    "carbs_g": 2.7,
+    "fat_g": 1
+  },
+  {
+    "name": "קוטג' 9%",
+    "category": "מוצרי חלב",
+    "calories": 130,
+    "protein_g": 11,
+    "carbs_g": 3,
+    "fat_g": 9
+  },
+  {
+    "name": "גבינה צהובה 28%",
+    "category": "מוצרי חלב",
+    "calories": 350,
+    "protein_g": 25,
+    "carbs_g": 2,
+    "fat_g": 28
+  },
+  {
+    "name": "גבינה צהובה 15%",
+    "category": "מוצרי חלב",
+    "calories": 280,
+    "protein_g": 27,
+    "carbs_g": 2,
+    "fat_g": 15
+  },
+  {
+    "name": "גבינה צהובה 9%",
+    "category": "מוצרי חלב",
+    "calories": 240,
+    "protein_g": 28,
+    "carbs_g": 2,
+    "fat_g": 9
+  },
+  {
+    "name": "גבינת אמנטל",
+    "category": "מוצרי חלב",
+    "calories": 380,
+    "protein_g": 28,
+    "carbs_g": 1,
+    "fat_g": 30
+  },
+  {
+    "name": "גבינת צ'דר",
+    "category": "מוצרי חלב",
+    "calories": 403,
+    "protein_g": 25,
+    "carbs_g": 1.3,
+    "fat_g": 33
+  },
+  {
+    "name": "גבינת גאודה",
+    "category": "מוצרי חלב",
+    "calories": 356,
+    "protein_g": 25,
+    "carbs_g": 2.2,
+    "fat_g": 27
+  },
+  {
+    "name": "מוצרלה",
+    "category": "מוצרי חלב",
+    "calories": 280,
+    "protein_g": 22,
+    "carbs_g": 2.2,
+    "fat_g": 20
+  },
+  {
+    "name": "מוצרלה טרייה",
+    "category": "מוצרי חלב",
+    "calories": 254,
+    "protein_g": 18,
+    "carbs_g": 1,
+    "fat_g": 20
+  },
+  {
+    "name": "גבינת פרמזן",
+    "category": "מוצרי חלב",
+    "calories": 431,
+    "protein_g": 38,
+    "carbs_g": 4.1,
+    "fat_g": 29
+  },
+  {
+    "name": "גבינת פקורינו",
+    "category": "מוצרי חלב",
+    "calories": 420,
+    "protein_g": 29,
+    "carbs_g": 3,
+    "fat_g": 32
+  },
+  {
+    "name": "גבינת רוקפור",
+    "category": "מוצרי חלב",
+    "calories": 369,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 31
+  },
+  {
+    "name": "גבינת קממבר",
+    "category": "מוצרי חלב",
+    "calories": 300,
+    "protein_g": 20,
+    "carbs_g": 0.5,
+    "fat_g": 24
+  },
+  {
+    "name": "גבינת ברינזה",
+    "category": "מוצרי חלב",
+    "calories": 300,
+    "protein_g": 20,
+    "carbs_g": 0.5,
+    "fat_g": 25
+  },
+  {
+    "name": "גבינה בולגרית 5%",
+    "category": "מוצרי חלב",
+    "calories": 108,
+    "protein_g": 8,
+    "carbs_g": 3,
+    "fat_g": 7
+  },
+  {
+    "name": "גבינה בולגרית 16%",
+    "category": "מוצרי חלב",
+    "calories": 240,
+    "protein_g": 13,
+    "carbs_g": 2,
+    "fat_g": 20
+  },
+  {
+    "name": "גבינת פטה",
+    "category": "מוצרי חלב",
+    "calories": 264,
+    "protein_g": 14,
+    "carbs_g": 4,
+    "fat_g": 21
+  },
+  {
+    "name": "גבינת פטה 5%",
+    "category": "מוצרי חלב",
+    "calories": 130,
+    "protein_g": 14,
+    "carbs_g": 4,
+    "fat_g": 6
+  },
+  {
+    "name": "גבינת צבר",
+    "category": "מוצרי חלב",
+    "calories": 260,
+    "protein_g": 14,
+    "carbs_g": 4,
+    "fat_g": 20
+  },
+  {
+    "name": "גבינת חלומי",
+    "category": "מוצרי חלב",
+    "calories": 321,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 25
+  },
+  {
+    "name": "גבינת עיזים",
+    "category": "מוצרי חלב",
+    "calories": 364,
+    "protein_g": 22,
+    "carbs_g": 2,
+    "fat_g": 30
+  },
+  {
+    "name": "גבינת ריקוטה",
+    "category": "מוצרי חלב",
+    "calories": 174,
+    "protein_g": 11,
+    "carbs_g": 3,
+    "fat_g": 13
+  },
+  {
+    "name": "גבינת מסקרפונה",
+    "category": "מוצרי חלב",
+    "calories": 429,
+    "protein_g": 4.3,
+    "carbs_g": 5,
+    "fat_g": 43
+  },
+  {
+    "name": "גבינת שמנת 30%",
+    "category": "מוצרי חלב",
+    "calories": 342,
+    "protein_g": 6,
+    "carbs_g": 4,
+    "fat_g": 34
+  },
+  {
+    "name": "גבינת שמנת 5%",
+    "category": "מוצרי חלב",
+    "calories": 130,
+    "protein_g": 8,
+    "carbs_g": 4,
+    "fat_g": 5
+  },
+  {
+    "name": "שמנת חמוצה 15%",
+    "category": "מוצרי חלב",
+    "calories": 162,
+    "protein_g": 2.4,
+    "carbs_g": 4,
+    "fat_g": 15
+  },
+  {
+    "name": "שמנת חמוצה 9%",
+    "category": "מוצרי חלב",
+    "calories": 120,
+    "protein_g": 2.6,
+    "carbs_g": 4,
+    "fat_g": 9
+  },
+  {
+    "name": "שמנת מתוקה 32%",
+    "category": "מוצרי חלב",
+    "calories": 340,
+    "protein_g": 2.4,
+    "carbs_g": 3,
+    "fat_g": 36
+  },
+  {
+    "name": "שמנת להקצפה 38%",
+    "category": "מוצרי חלב",
+    "calories": 380,
+    "protein_g": 2,
+    "carbs_g": 3,
+    "fat_g": 40
+  },
+  {
+    "name": "חמאה",
+    "category": "מוצרי חלב",
+    "calories": 717,
+    "protein_g": 0.9,
+    "carbs_g": 0.1,
+    "fat_g": 81
+  },
+  {
+    "name": "חמאה מופחתת 10%",
+    "category": "מוצרי חלב",
+    "calories": 460,
+    "protein_g": 0.9,
+    "carbs_g": 0.1,
+    "fat_g": 51
+  },
+  {
+    "name": "גיל",
+    "category": "מוצרי חלב",
+    "calories": 100,
+    "protein_g": 3,
+    "carbs_g": 5,
+    "fat_g": 7
+  },
+  {
+    "name": "משקה יוגורט",
+    "category": "מוצרי חלב",
+    "calories": 70,
+    "protein_g": 3.2,
+    "carbs_g": 11,
+    "fat_g": 1.5
+  },
+  {
+    "name": "שמן זית",
+    "category": "שומנים",
+    "calories": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100
+  },
+  {
+    "name": "שמן קנולה",
+    "category": "שומנים",
+    "calories": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100
+  },
+  {
+    "name": "שמן חמניות",
+    "category": "שומנים",
+    "calories": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100
+  },
+  {
+    "name": "שמן קוקוס",
+    "category": "שומנים",
+    "calories": 892,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 99
+  },
+  {
+    "name": "שמן שומשום",
+    "category": "שומנים",
+    "calories": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100
+  },
+  {
+    "name": "שמן אבוקדו",
+    "category": "שומנים",
+    "calories": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100
+  },
+  {
+    "name": "שמן בוטנים",
+    "category": "שומנים",
+    "calories": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100
+  },
+  {
+    "name": "שמן דקלים",
+    "category": "שומנים",
+    "calories": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100
+  },
+  {
+    "name": "שמן MCT",
+    "category": "שומנים",
+    "calories": 830,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 93
+  },
+  {
+    "name": "מרגרינה",
+    "category": "שומנים",
+    "calories": 717,
+    "protein_g": 0.2,
+    "carbs_g": 0.7,
+    "fat_g": 81
+  },
+  {
+    "name": "מרגרינה מופחתת",
+    "category": "שומנים",
+    "calories": 400,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 45
+  },
+  {
+    "name": "טחינה גולמית",
+    "category": "שומנים",
+    "calories": 595,
+    "protein_g": 17,
+    "carbs_g": 21,
+    "fat_g": 53
+  },
+  {
+    "name": "טחינה מוכנה",
+    "category": "שומנים",
+    "calories": 500,
+    "protein_g": 13,
+    "carbs_g": 20,
+    "fat_g": 43
+  },
+  {
+    "name": "חמאת בוטנים",
+    "category": "שומנים",
+    "calories": 588,
+    "protein_g": 25,
+    "carbs_g": 20,
+    "fat_g": 50
+  },
+  {
+    "name": "חמאת שקדים",
+    "category": "שומנים",
+    "calories": 614,
+    "protein_g": 21,
+    "carbs_g": 19,
+    "fat_g": 56
+  },
+  {
+    "name": "חמאת קוקוס",
+    "category": "שומנים",
+    "calories": 690,
+    "protein_g": 7,
+    "carbs_g": 7,
+    "fat_g": 70
+  },
+  {
+    "name": "חמאת קקאו",
+    "category": "שומנים",
+    "calories": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100
+  },
+  {
+    "name": "ממרח שוקולד",
+    "category": "שומנים",
+    "calories": 539,
+    "protein_g": 6.3,
+    "carbs_g": 57,
+    "fat_g": 30
+  },
+  {
+    "name": "חלווה שומשום",
+    "category": "שומנים",
+    "calories": 522,
+    "protein_g": 12,
+    "carbs_g": 48,
+    "fat_g": 33
+  },
+  {
+    "name": "שקדים",
+    "category": "שומנים",
+    "calories": 579,
+    "protein_g": 21,
+    "carbs_g": 22,
+    "fat_g": 50
+  },
+  {
+    "name": "אגוזי מלך",
+    "category": "שומנים",
+    "calories": 654,
+    "protein_g": 15,
+    "carbs_g": 14,
+    "fat_g": 65
+  },
+  {
+    "name": "קשיו",
+    "category": "שומנים",
+    "calories": 553,
+    "protein_g": 18,
+    "carbs_g": 30,
+    "fat_g": 44
+  },
+  {
+    "name": "פיסטוקים",
+    "category": "שומנים",
+    "calories": 560,
+    "protein_g": 20,
+    "carbs_g": 28,
+    "fat_g": 45
+  },
+  {
+    "name": "אגוזי לוז",
+    "category": "שומנים",
+    "calories": 628,
+    "protein_g": 15,
+    "carbs_g": 17,
+    "fat_g": 61
+  },
+  {
+    "name": "אגוזי פקאן",
+    "category": "שומנים",
+    "calories": 691,
+    "protein_g": 9,
+    "carbs_g": 14,
+    "fat_g": 72
+  },
+  {
+    "name": "אגוזי ברזיל",
+    "category": "שומנים",
+    "calories": 659,
+    "protein_g": 14,
+    "carbs_g": 12,
+    "fat_g": 67
+  },
+  {
+    "name": "אגוזי מקדמיה",
+    "category": "שומנים",
+    "calories": 718,
+    "protein_g": 8,
+    "carbs_g": 14,
+    "fat_g": 76
+  },
+  {
+    "name": "אגוזי פקאן מסוכרים",
+    "category": "שומנים",
+    "calories": 500,
+    "protein_g": 6,
+    "carbs_g": 60,
+    "fat_g": 28
+  },
+  {
+    "name": "בוטנים קלויים",
+    "category": "שומנים",
+    "calories": 587,
+    "protein_g": 24,
+    "carbs_g": 21,
+    "fat_g": 50
+  },
+  {
+    "name": "זרעי צ'יה",
+    "category": "שומנים",
+    "calories": 486,
+    "protein_g": 17,
+    "carbs_g": 42,
+    "fat_g": 31
+  },
+  {
+    "name": "זרעי פשתן",
+    "category": "שומנים",
+    "calories": 534,
+    "protein_g": 18,
+    "carbs_g": 29,
+    "fat_g": 42
+  },
+  {
+    "name": "זרעי דלעת",
+    "category": "שומנים",
+    "calories": 559,
+    "protein_g": 30,
+    "carbs_g": 11,
+    "fat_g": 49
+  },
+  {
+    "name": "זרעי חמניה",
+    "category": "שומנים",
+    "calories": 584,
+    "protein_g": 21,
+    "carbs_g": 20,
+    "fat_g": 51
+  },
+  {
+    "name": "זרעי שומשום",
+    "category": "שומנים",
+    "calories": 573,
+    "protein_g": 18,
+    "carbs_g": 23,
+    "fat_g": 50
+  },
+  {
+    "name": "גרעיני חמניה קלויים",
+    "category": "שומנים",
+    "calories": 584,
+    "protein_g": 21,
+    "carbs_g": 20,
+    "fat_g": 51
+  },
+  {
+    "name": "גרעיני דלעת קלויים",
+    "category": "שומנים",
+    "calories": 574,
+    "protein_g": 30,
+    "carbs_g": 15,
+    "fat_g": 49
+  },
+  {
+    "name": "גרעיני אבטיח",
+    "category": "שומנים",
+    "calories": 557,
+    "protein_g": 30,
+    "carbs_g": 15,
+    "fat_g": 47
+  },
+  {
+    "name": "זיתים ירוקים",
+    "category": "שומנים",
+    "calories": 145,
+    "protein_g": 1,
+    "carbs_g": 3.8,
+    "fat_g": 15
+  },
+  {
+    "name": "זיתים שחורים",
+    "category": "שומנים",
+    "calories": 115,
+    "protein_g": 0.8,
+    "carbs_g": 6,
+    "fat_g": 11
+  },
+  {
+    "name": "זיתי קלמטה",
+    "category": "שומנים",
+    "calories": 115,
+    "protein_g": 0.8,
+    "carbs_g": 6,
+    "fat_g": 11
+  },
+  {
+    "name": "שוקולד מריר 70%",
+    "category": "שומנים",
+    "calories": 598,
+    "protein_g": 7.8,
+    "carbs_g": 46,
+    "fat_g": 43
+  },
+  {
+    "name": "שוקולד מריר 85%",
+    "category": "שומנים",
+    "calories": 592,
+    "protein_g": 10,
+    "carbs_g": 22,
+    "fat_g": 46
+  },
+  {
+    "name": "שוקולד חלב",
+    "category": "שומנים",
+    "calories": 535,
+    "protein_g": 7.6,
+    "carbs_g": 59,
+    "fat_g": 30
+  },
+  {
+    "name": "שוקולד לבן",
+    "category": "שומנים",
+    "calories": 539,
+    "protein_g": 6,
+    "carbs_g": 59,
+    "fat_g": 32
+  },
+  {
+    "name": "דבש",
+    "category": "שומנים",
+    "calories": 304,
+    "protein_g": 0.3,
+    "carbs_g": 82,
+    "fat_g": 0
+  },
+  {
+    "name": "סילאן",
+    "category": "שומנים",
+    "calories": 290,
+    "protein_g": 0,
+    "carbs_g": 74,
+    "fat_g": 0
+  },
+  {
+    "name": "סירופ מייפל",
+    "category": "שומנים",
+    "calories": 260,
+    "protein_g": 0,
+    "carbs_g": 67,
+    "fat_g": 0
+  },
+  {
+    "name": "ריבה",
+    "category": "שומנים",
+    "calories": 278,
+    "protein_g": 0.4,
+    "carbs_g": 69,
+    "fat_g": 0.1
+  },
+  {
+    "name": "ריבה ללא סוכר",
+    "category": "שומנים",
+    "calories": 150,
+    "protein_g": 0.4,
+    "carbs_g": 37,
+    "fat_g": 0.1
+  },
+  {
+    "name": "ממרח תמרים",
+    "category": "שומנים",
+    "calories": 290,
+    "protein_g": 1,
+    "carbs_g": 74,
+    "fat_g": 0
+  },
+  {
+    "name": "במבה",
+    "category": "חטיפים",
+    "calories": 540,
+    "protein_g": 8,
+    "carbs_g": 55,
+    "fat_g": 32
+  },
+  {
+    "name": "ביסלי",
+    "category": "חטיפים",
+    "calories": 460,
+    "protein_g": 10,
+    "carbs_g": 65,
+    "fat_g": 18
+  },
+  {
+    "name": "תפוצ'יפס",
+    "category": "חטיפים",
+    "calories": 536,
+    "protein_g": 7,
+    "carbs_g": 53,
+    "fat_g": 34
+  },
+  {
+    "name": "צ'יפס תעשייתי",
+    "category": "חטיפים",
+    "calories": 536,
+    "protein_g": 7,
+    "carbs_g": 53,
+    "fat_g": 34
+  },
+  {
+    "name": "דוריטוס",
+    "category": "חטיפים",
+    "calories": 500,
+    "protein_g": 6,
+    "carbs_g": 63,
+    "fat_g": 26
+  },
+  {
+    "name": "פרינגלס",
+    "category": "חטיפים",
+    "calories": 536,
+    "protein_g": 4,
+    "carbs_g": 52,
+    "fat_g": 34
+  },
+  {
+    "name": "חטיף תירס",
+    "category": "חטיפים",
+    "calories": 500,
+    "protein_g": 7,
+    "carbs_g": 60,
+    "fat_g": 26
+  },
+  {
+    "name": "פופקורן חמאה",
+    "category": "חטיפים",
+    "calories": 500,
+    "protein_g": 9,
+    "carbs_g": 55,
+    "fat_g": 28
+  },
+  {
+    "name": "קרקרים מלוחים",
+    "category": "חטיפים",
+    "calories": 430,
+    "protein_g": 9,
+    "carbs_g": 72,
+    "fat_g": 11
+  },
+  {
+    "name": "ביסקוויטים",
+    "category": "חטיפים",
+    "calories": 450,
+    "protein_g": 7,
+    "carbs_g": 70,
+    "fat_g": 15
+  },
+  {
+    "name": "עוגיות שוקולד צ'יפס",
+    "category": "חטיפים",
+    "calories": 480,
+    "protein_g": 6,
+    "carbs_g": 65,
+    "fat_g": 22
+  },
+  {
+    "name": "עוגיות אוראו",
+    "category": "חטיפים",
+    "calories": 480,
+    "protein_g": 5,
+    "carbs_g": 71,
+    "fat_g": 20
+  },
+  {
+    "name": "ביסקוויט לוטוס",
+    "category": "חטיפים",
+    "calories": 480,
+    "protein_g": 5,
+    "carbs_g": 68,
+    "fat_g": 21
+  },
+  {
+    "name": "ופל",
+    "category": "חטיפים",
+    "calories": 480,
+    "protein_g": 6,
+    "carbs_g": 64,
+    "fat_g": 22
+  },
+  {
+    "name": "בראוני",
+    "category": "חטיפים",
+    "calories": 466,
+    "protein_g": 6,
+    "carbs_g": 50,
+    "fat_g": 28
+  },
+  {
+    "name": "מאפין שוקולד",
+    "category": "חטיפים",
+    "calories": 400,
+    "protein_g": 5,
+    "carbs_g": 55,
+    "fat_g": 18
+  },
+  {
+    "name": "חטיף גרנולה",
+    "category": "חטיפים",
+    "calories": 450,
+    "protein_g": 8,
+    "carbs_g": 60,
+    "fat_g": 20
+  },
+  {
+    "name": "חטיף חלבון",
+    "category": "חטיפים",
+    "calories": 350,
+    "protein_g": 30,
+    "carbs_g": 35,
+    "fat_g": 10
+  },
+  {
+    "name": "חטיף אנרגיה",
+    "category": "חטיפים",
+    "calories": 400,
+    "protein_g": 8,
+    "carbs_g": 60,
+    "fat_g": 15
+  },
+  {
+    "name": "מקופלת",
+    "category": "חטיפים",
+    "calories": 500,
+    "protein_g": 5,
+    "carbs_g": 60,
+    "fat_g": 26
+  },
+  {
+    "name": "קרמבו",
+    "category": "חטיפים",
+    "calories": 400,
+    "protein_g": 4,
+    "carbs_g": 60,
+    "fat_g": 16
+  },
+  {
+    "name": "ג'לי",
+    "category": "חטיפים",
+    "calories": 60,
+    "protein_g": 0,
+    "carbs_g": 15,
+    "fat_g": 0
+  },
+  {
+    "name": "סוכריות גומי",
+    "category": "חטיפים",
+    "calories": 340,
+    "protein_g": 6,
+    "carbs_g": 78,
+    "fat_g": 0
+  },
+  {
+    "name": "סוכריות קשות",
+    "category": "חטיפים",
+    "calories": 390,
+    "protein_g": 0,
+    "carbs_g": 98,
+    "fat_g": 0
+  },
+  {
+    "name": "שוקולד לבן חטיף",
+    "category": "חטיפים",
+    "calories": 539,
+    "protein_g": 6,
+    "carbs_g": 59,
+    "fat_g": 32
+  },
+  {
+    "name": "בייגלה מלוח",
+    "category": "חטיפים",
+    "calories": 380,
+    "protein_g": 10,
+    "carbs_g": 70,
+    "fat_g": 3
+  },
+  {
+    "name": "שקדים מצופים",
+    "category": "חטיפים",
+    "calories": 500,
+    "protein_g": 10,
+    "carbs_g": 55,
+    "fat_g": 28
+  },
+  {
+    "name": "בוטנים מצופים",
+    "category": "חטיפים",
+    "calories": 550,
+    "protein_g": 12,
+    "carbs_g": 52,
+    "fat_g": 33
+  },
+  {
+    "name": "פריכיות אורז מצופות",
+    "category": "חטיפים",
+    "calories": 400,
+    "protein_g": 6,
+    "carbs_g": 80,
+    "fat_g": 5
+  },
+  {
+    "name": "גלידה וניל",
+    "category": "חטיפים",
+    "calories": 207,
+    "protein_g": 3.5,
+    "carbs_g": 24,
+    "fat_g": 11
+  },
+  {
+    "name": "גלידה שוקולד",
+    "category": "חטיפים",
+    "calories": 216,
+    "protein_g": 3.8,
+    "carbs_g": 26,
+    "fat_g": 11
+  },
+  {
+    "name": "גלידה פירות",
+    "category": "חטיפים",
+    "calories": 130,
+    "protein_g": 1.2,
+    "carbs_g": 28,
+    "fat_g": 1.5
+  },
+  {
+    "name": "סורבה",
+    "category": "חטיפים",
+    "calories": 130,
+    "protein_g": 0.5,
+    "carbs_g": 32,
+    "fat_g": 0.2
+  },
+  {
+    "name": "יוגורט קפוא",
+    "category": "חטיפים",
+    "calories": 130,
+    "protein_g": 3,
+    "carbs_g": 24,
+    "fat_g": 2.5
+  },
+  {
+    "name": "ארטיק",
+    "category": "חטיפים",
+    "calories": 150,
+    "protein_g": 1,
+    "carbs_g": 30,
+    "fat_g": 3
+  },
+  {
+    "name": "רוגלך שוקולד",
+    "category": "חטיפים",
+    "calories": 450,
+    "protein_g": 6,
+    "carbs_g": 50,
+    "fat_g": 25
+  },
+  {
+    "name": "דונאט",
+    "category": "חטיפים",
+    "calories": 450,
+    "protein_g": 6,
+    "carbs_g": 51,
+    "fat_g": 25
+  },
+  {
+    "name": "סופגניה",
+    "category": "חטיפים",
+    "calories": 400,
+    "protein_g": 5,
+    "carbs_g": 45,
+    "fat_g": 22
+  },
+  {
+    "name": "חביתה",
+    "category": "מאכלים מוכנים",
+    "calories": 154,
+    "protein_g": 11,
+    "carbs_g": 0.6,
+    "fat_g": 12
+  },
+  {
+    "name": "ביצה מקושקשת",
+    "category": "מאכלים מוכנים",
+    "calories": 149,
+    "protein_g": 10,
+    "carbs_g": 1.6,
+    "fat_g": 11
+  },
+  {
+    "name": "חביתה עם גבינה",
+    "category": "מאכלים מוכנים",
+    "calories": 190,
+    "protein_g": 13,
+    "carbs_g": 2,
+    "fat_g": 15
+  },
+  {
+    "name": "שקשוקה",
+    "category": "מאכלים מוכנים",
+    "calories": 120,
+    "protein_g": 7,
+    "carbs_g": 8,
+    "fat_g": 7
+  },
+  {
+    "name": "חביתת ירק",
+    "category": "מאכלים מוכנים",
+    "calories": 130,
+    "protein_g": 9,
+    "carbs_g": 4,
+    "fat_g": 9
+  },
+  {
+    "name": "פיצה מרגריטה",
+    "category": "מאכלים מוכנים",
+    "calories": 266,
+    "protein_g": 11,
+    "carbs_g": 33,
+    "fat_g": 10
+  },
+  {
+    "name": "פיצה עם תוספות",
+    "category": "מאכלים מוכנים",
+    "calories": 280,
+    "protein_g": 13,
+    "carbs_g": 30,
+    "fat_g": 13
+  },
+  {
+    "name": "פוקאצ'ה",
+    "category": "מאכלים מוכנים",
+    "calories": 300,
+    "protein_g": 8,
+    "carbs_g": 50,
+    "fat_g": 8
+  },
+  {
+    "name": "לחם שום",
+    "category": "מאכלים מוכנים",
+    "calories": 350,
+    "protein_g": 8,
+    "carbs_g": 45,
+    "fat_g": 16
+  },
+  {
+    "name": "המבורגר עם לחמנייה",
+    "category": "מאכלים מוכנים",
+    "calories": 295,
+    "protein_g": 17,
+    "carbs_g": 24,
+    "fat_g": 14
+  },
+  {
+    "name": "שניצל עוף",
+    "category": "מאכלים מוכנים",
+    "calories": 290,
+    "protein_g": 17,
+    "carbs_g": 15,
+    "fat_g": 18
+  },
+  {
+    "name": "שניצלונים עוף",
+    "category": "מאכלים מוכנים",
+    "calories": 300,
+    "protein_g": 15,
+    "carbs_g": 18,
+    "fat_g": 18
+  },
+  {
+    "name": "נאגטס עוף",
+    "category": "מאכלים מוכנים",
+    "calories": 296,
+    "protein_g": 15,
+    "carbs_g": 18,
+    "fat_g": 18
+  },
+  {
+    "name": "פלאפל",
+    "category": "מאכלים מוכנים",
+    "calories": 333,
+    "protein_g": 13,
+    "carbs_g": 32,
+    "fat_g": 18
+  },
+  {
+    "name": "חומוס מוכן",
+    "category": "מאכלים מוכנים",
+    "calories": 166,
+    "protein_g": 8,
+    "carbs_g": 14,
+    "fat_g": 10
+  },
+  {
+    "name": "מסבחה",
+    "category": "מאכלים מוכנים",
+    "calories": 180,
+    "protein_g": 8,
+    "carbs_g": 18,
+    "fat_g": 9
+  },
+  {
+    "name": "פול מדמס",
+    "category": "מאכלים מוכנים",
+    "calories": 110,
+    "protein_g": 7,
+    "carbs_g": 18,
+    "fat_g": 1
+  },
+  {
+    "name": "סביח",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 8,
+    "carbs_g": 25,
+    "fat_g": 13
+  },
+  {
+    "name": "שווארמה עוף",
+    "category": "מאכלים מוכנים",
+    "calories": 200,
+    "protein_g": 20,
+    "carbs_g": 5,
+    "fat_g": 11
+  },
+  {
+    "name": "שווארמה בקר",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 22,
+    "carbs_g": 4,
+    "fat_g": 16
+  },
+  {
+    "name": "פרגית בגריל",
+    "category": "מאכלים מוכנים",
+    "calories": 210,
+    "protein_g": 25,
+    "carbs_g": 0,
+    "fat_g": 12
+  },
+  {
+    "name": "קבב מבושל",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 20,
+    "carbs_g": 3,
+    "fat_g": 18
+  },
+  {
+    "name": "קציצות עוף",
+    "category": "מאכלים מוכנים",
+    "calories": 220,
+    "protein_g": 18,
+    "carbs_g": 6,
+    "fat_g": 14
+  },
+  {
+    "name": "קציצות דגים",
+    "category": "מאכלים מוכנים",
+    "calories": 200,
+    "protein_g": 15,
+    "carbs_g": 10,
+    "fat_g": 11
+  },
+  {
+    "name": "מרק עוף",
+    "category": "מאכלים מוכנים",
+    "calories": 40,
+    "protein_g": 3,
+    "carbs_g": 3,
+    "fat_g": 1.5
+  },
+  {
+    "name": "מרק ירקות",
+    "category": "מאכלים מוכנים",
+    "calories": 30,
+    "protein_g": 1,
+    "carbs_g": 5,
+    "fat_g": 0.5
+  },
+  {
+    "name": "מרק עגבניות",
+    "category": "מאכלים מוכנים",
+    "calories": 50,
+    "protein_g": 1,
+    "carbs_g": 9,
+    "fat_g": 1
+  },
+  {
+    "name": "מרק עדשים",
+    "category": "מאכלים מוכנים",
+    "calories": 60,
+    "protein_g": 4,
+    "carbs_g": 10,
+    "fat_g": 0.5
+  },
+  {
+    "name": "מרק שעועית",
+    "category": "מאכלים מוכנים",
+    "calories": 70,
+    "protein_g": 4,
+    "carbs_g": 12,
+    "fat_g": 0.5
+  },
+  {
+    "name": "מרק קניידלך",
+    "category": "מאכלים מוכנים",
+    "calories": 80,
+    "protein_g": 3,
+    "carbs_g": 8,
+    "fat_g": 4
+  },
+  {
+    "name": "אורז מוקפץ עם ירקות",
+    "category": "מאכלים מוכנים",
+    "calories": 160,
+    "protein_g": 4,
+    "carbs_g": 28,
+    "fat_g": 4
+  },
+  {
+    "name": "מוקפץ עוף וירקות",
+    "category": "מאכלים מוכנים",
+    "calories": 120,
+    "protein_g": 10,
+    "carbs_g": 8,
+    "fat_g": 5
+  },
+  {
+    "name": "פסטה ברוטב עגבניות",
+    "category": "מאכלים מוכנים",
+    "calories": 130,
+    "protein_g": 4.5,
+    "carbs_g": 24,
+    "fat_g": 2
+  },
+  {
+    "name": "פסטה בולונז",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 8,
+    "carbs_g": 20,
+    "fat_g": 4
+  },
+  {
+    "name": "לזניה",
+    "category": "מאכלים מוכנים",
+    "calories": 170,
+    "protein_g": 9,
+    "carbs_g": 18,
+    "fat_g": 7
+  },
+  {
+    "name": "רביולי",
+    "category": "מאכלים מוכנים",
+    "calories": 180,
+    "protein_g": 7,
+    "carbs_g": 28,
+    "fat_g": 4
+  },
+  {
+    "name": "קוסקוס מוכן",
+    "category": "מאכלים מוכנים",
+    "calories": 130,
+    "protein_g": 4,
+    "carbs_g": 25,
+    "fat_g": 1
+  },
+  {
+    "name": "פירה תפוחי אדמה",
+    "category": "מאכלים מוכנים",
+    "calories": 110,
+    "protein_g": 2,
+    "carbs_g": 17,
+    "fat_g": 4
+  },
+  {
+    "name": "פירה בטטה",
+    "category": "מאכלים מוכנים",
+    "calories": 100,
+    "protein_g": 1.8,
+    "carbs_g": 20,
+    "fat_g": 1.5
+  },
+  {
+    "name": "צ'יפס מטוגן",
+    "category": "מאכלים מוכנים",
+    "calories": 312,
+    "protein_g": 3.4,
+    "carbs_g": 41,
+    "fat_g": 15
+  },
+  {
+    "name": "צ'יפס אפוי",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 2.5,
+    "carbs_g": 28,
+    "fat_g": 4
+  },
+  {
+    "name": "טבעות בצל",
+    "category": "מאכלים מוכנים",
+    "calories": 340,
+    "protein_g": 5,
+    "carbs_g": 40,
+    "fat_g": 18
+  },
+  {
+    "name": "תפוח אדמה צלוי",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 3,
+    "carbs_g": 28,
+    "fat_g": 4
+  },
+  {
+    "name": "ירקות מאודים",
+    "category": "מאכלים מוכנים",
+    "calories": 35,
+    "protein_g": 1.5,
+    "carbs_g": 6,
+    "fat_g": 0.3
+  },
+  {
+    "name": "ירקות בגריל",
+    "category": "מאכלים מוכנים",
+    "calories": 40,
+    "protein_g": 1.5,
+    "carbs_g": 6.5,
+    "fat_g": 0.5
+  },
+  {
+    "name": "אנטיפסטי",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 2,
+    "carbs_g": 8,
+    "fat_g": 12
+  },
+  {
+    "name": "סלט יווני",
+    "category": "מאכלים מוכנים",
+    "calories": 130,
+    "protein_g": 4,
+    "carbs_g": 6,
+    "fat_g": 10
+  },
+  {
+    "name": "סלט קיסר",
+    "category": "מאכלים מוכנים",
+    "calories": 190,
+    "protein_g": 8,
+    "carbs_g": 8,
+    "fat_g": 14
+  },
+  {
+    "name": "סלט טונה",
+    "category": "מאכלים מוכנים",
+    "calories": 180,
+    "protein_g": 14,
+    "carbs_g": 3,
+    "fat_g": 12
+  },
+  {
+    "name": "סלט ביצים",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 10,
+    "carbs_g": 2,
+    "fat_g": 22
+  },
+  {
+    "name": "סלט חצילים",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 2,
+    "carbs_g": 8,
+    "fat_g": 12
+  },
+  {
+    "name": "מטבוחה",
+    "category": "מאכלים מוכנים",
+    "calories": 60,
+    "protein_g": 1.5,
+    "carbs_g": 8,
+    "fat_g": 2.5
+  },
+  {
+    "name": "חציל בתהלבה",
+    "category": "מאכלים מוכנים",
+    "calories": 130,
+    "protein_g": 4,
+    "carbs_g": 8,
+    "fat_g": 9
+  },
+  {
+    "name": "סלט כרוב",
+    "category": "מאכלים מוכנים",
+    "calories": 50,
+    "protein_g": 1,
+    "carbs_g": 6,
+    "fat_g": 2.5
+  },
+  {
+    "name": "סלט גזר",
+    "category": "מאכלים מוכנים",
+    "calories": 45,
+    "protein_g": 0.7,
+    "carbs_g": 8,
+    "fat_g": 1
+  },
+  {
+    "name": "חמוצים",
+    "category": "מאכלים מוכנים",
+    "calories": 20,
+    "protein_g": 0.7,
+    "carbs_g": 4,
+    "fat_g": 0.2
+  },
+  {
+    "name": "כרוב כבוש",
+    "category": "מאכלים מוכנים",
+    "calories": 20,
+    "protein_g": 1,
+    "carbs_g": 4,
+    "fat_g": 0.1
+  },
+  {
+    "name": "בורקס גבינה",
+    "category": "מאכלים מוכנים",
+    "calories": 300,
+    "protein_g": 8,
+    "carbs_g": 30,
+    "fat_g": 16
+  },
+  {
+    "name": "בורקס תפוחי אדמה",
+    "category": "מאכלים מוכנים",
+    "calories": 280,
+    "protein_g": 5,
+    "carbs_g": 35,
+    "fat_g": 13
+  },
+  {
+    "name": "בורקס בשר",
+    "category": "מאכלים מוכנים",
+    "calories": 300,
+    "protein_g": 10,
+    "carbs_g": 30,
+    "fat_g": 15
+  },
+  {
+    "name": "מלאווח",
+    "category": "מאכלים מוכנים",
+    "calories": 350,
+    "protein_g": 8,
+    "carbs_g": 40,
+    "fat_g": 18
+  },
+  {
+    "name": "ג'חנון",
+    "category": "מאכלים מוכנים",
+    "calories": 300,
+    "protein_g": 7,
+    "carbs_g": 40,
+    "fat_g": 12
+  },
+  {
+    "name": "סמבוסק",
+    "category": "מאכלים מוכנים",
+    "calories": 280,
+    "protein_g": 8,
+    "carbs_g": 35,
+    "fat_g": 12
+  },
+  {
+    "name": "קרואסון",
+    "category": "מאכלים מוכנים",
+    "calories": 406,
+    "protein_g": 8,
+    "carbs_g": 45,
+    "fat_g": 21
+  },
+  {
+    "name": "מאפה גבינה",
+    "category": "מאכלים מוכנים",
+    "calories": 320,
+    "protein_g": 8,
+    "carbs_g": 32,
+    "fat_g": 18
+  },
+  {
+    "name": "קובה מבושלת",
+    "category": "מאכלים מוכנים",
+    "calories": 220,
+    "protein_g": 9,
+    "carbs_g": 22,
+    "fat_g": 11
+  },
+  {
+    "name": "סיגר בשר",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 9,
+    "carbs_g": 22,
+    "fat_g": 14
+  },
+  {
+    "name": "עלי גפן ממולאים",
+    "category": "מאכלים מוכנים",
+    "calories": 180,
+    "protein_g": 4,
+    "carbs_g": 25,
+    "fat_g": 7
+  },
+  {
+    "name": "ממולאים ירקות",
+    "category": "מאכלים מוכנים",
+    "calories": 120,
+    "protein_g": 4,
+    "carbs_g": 15,
+    "fat_g": 5
+  },
+  {
+    "name": "פשטידה",
+    "category": "מאכלים מוכנים",
+    "calories": 200,
+    "protein_g": 8,
+    "carbs_g": 18,
+    "fat_g": 11
+  },
+  {
+    "name": "קיש",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 8,
+    "carbs_g": 22,
+    "fat_g": 15
+  },
+  {
+    "name": "חמין",
+    "category": "מאכלים מוכנים",
+    "calories": 180,
+    "protein_g": 10,
+    "carbs_g": 15,
+    "fat_g": 9
+  },
+  {
+    "name": "קוגל",
+    "category": "מאכלים מוכנים",
+    "calories": 200,
+    "protein_g": 5,
+    "carbs_g": 28,
+    "fat_g": 8
+  },
+  {
+    "name": "גפילטע פיש",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 10,
+    "carbs_g": 8,
+    "fat_g": 8
+  },
+  {
+    "name": "בלינצ'ס גבינה",
+    "category": "מאכלים מוכנים",
+    "calories": 200,
+    "protein_g": 8,
+    "carbs_g": 25,
+    "fat_g": 8
+  },
+  {
+    "name": "לביבה תפוחי אדמה",
+    "category": "מאכלים מוכנים",
+    "calories": 200,
+    "protein_g": 3,
+    "carbs_g": 22,
+    "fat_g": 11
+  },
+  {
+    "name": "לביבה גבינה",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 10,
+    "carbs_g": 25,
+    "fat_g": 12
+  },
+  {
+    "name": "חביתה ספרדית",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 8,
+    "carbs_g": 8,
+    "fat_g": 9
+  },
+  {
+    "name": "טורטייה ספרדית",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 8,
+    "carbs_g": 8,
+    "fat_g": 9
+  },
+  {
+    "name": "פאייה",
+    "category": "מאכלים מוכנים",
+    "calories": 160,
+    "protein_g": 8,
+    "carbs_g": 20,
+    "fat_g": 5
+  },
+  {
+    "name": "תבשיל קדרה",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 10,
+    "carbs_g": 10,
+    "fat_g": 8
+  },
+  {
+    "name": "גולאש",
+    "category": "מאכלים מוכנים",
+    "calories": 180,
+    "protein_g": 12,
+    "carbs_g": 8,
+    "fat_g": 11
+  },
+  {
+    "name": "טאג'ין עוף",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 11,
+    "carbs_g": 10,
+    "fat_g": 7
+  },
+  {
+    "name": "קוסקוס עם ירקות",
+    "category": "מאכלים מוכנים",
+    "calories": 130,
+    "protein_g": 4,
+    "carbs_g": 24,
+    "fat_g": 2
+  },
+  {
+    "name": "חומוס עם בשר",
+    "category": "מאכלים מוכנים",
+    "calories": 200,
+    "protein_g": 11,
+    "carbs_g": 14,
+    "fat_g": 12
+  },
+  {
+    "name": "שניצל תירס",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 5,
+    "carbs_g": 28,
+    "fat_g": 13
+  },
+  {
+    "name": "המבורגר צמחי",
+    "category": "מאכלים מוכנים",
+    "calories": 200,
+    "protein_g": 15,
+    "carbs_g": 10,
+    "fat_g": 11
+  },
+  {
+    "name": "קציצות טופו",
+    "category": "מאכלים מוכנים",
+    "calories": 180,
+    "protein_g": 12,
+    "carbs_g": 8,
+    "fat_g": 11
+  },
+  {
+    "name": "טופו מוקפץ",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 10,
+    "carbs_g": 8,
+    "fat_g": 9
+  },
+  {
+    "name": "שעועית חומה בסיר",
+    "category": "מאכלים מוכנים",
+    "calories": 120,
+    "protein_g": 6,
+    "carbs_g": 20,
+    "fat_g": 1
+  },
+  {
+    "name": "כריך טונה",
+    "category": "מאכלים מוכנים",
+    "calories": 250,
+    "protein_g": 12,
+    "carbs_g": 30,
+    "fat_g": 8
+  },
+  {
+    "name": "כריך גבינה",
+    "category": "מאכלים מוכנים",
+    "calories": 280,
+    "protein_g": 12,
+    "carbs_g": 30,
+    "fat_g": 12
+  },
+  {
+    "name": "טוסט גבינה",
+    "category": "מאכלים מוכנים",
+    "calories": 330,
+    "protein_g": 13,
+    "carbs_g": 32,
+    "fat_g": 16
+  },
+  {
+    "name": "פיתה עם חומוס",
+    "category": "מאכלים מוכנים",
+    "calories": 230,
+    "protein_g": 8,
+    "carbs_g": 32,
+    "fat_g": 7
+  },
+  {
+    "name": "כריך ירקות",
+    "category": "מאכלים מוכנים",
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 25,
+    "fat_g": 3
+  },
+  {
+    "name": "מים",
+    "category": "משקאות",
+    "calories": 0,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "סודה",
+    "category": "משקאות",
+    "calories": 0,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "מים מוגזים",
+    "category": "משקאות",
+    "calories": 0,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "מים עם טעם",
+    "category": "משקאות",
+    "calories": 1,
+    "protein_g": 0,
+    "carbs_g": 0.2,
+    "fat_g": 0
+  },
+  {
+    "name": "מים קוקוס",
+    "category": "משקאות",
+    "calories": 19,
+    "protein_g": 0.7,
+    "carbs_g": 3.7,
+    "fat_g": 0.2
+  },
+  {
+    "name": "קפה שחור",
+    "category": "משקאות",
+    "calories": 1,
+    "protein_g": 0.1,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "אספרסו",
+    "category": "משקאות",
+    "calories": 2,
+    "protein_g": 0.1,
+    "carbs_g": 0.3,
+    "fat_g": 0
+  },
+  {
+    "name": "קפה נמס",
+    "category": "משקאות",
+    "calories": 2,
+    "protein_g": 0.1,
+    "carbs_g": 0.3,
+    "fat_g": 0
+  },
+  {
+    "name": "קפה עם חלב 3%",
+    "category": "משקאות",
+    "calories": 30,
+    "protein_g": 1.5,
+    "carbs_g": 2.4,
+    "fat_g": 1.6
+  },
+  {
+    "name": "קפוצ'ינו",
+    "category": "משקאות",
+    "calories": 40,
+    "protein_g": 2,
+    "carbs_g": 3.5,
+    "fat_g": 1.8
+  },
+  {
+    "name": "לאטה",
+    "category": "משקאות",
+    "calories": 50,
+    "protein_g": 2.6,
+    "carbs_g": 4,
+    "fat_g": 2.5
+  },
+  {
+    "name": "תה",
+    "category": "משקאות",
+    "calories": 1,
+    "protein_g": 0,
+    "carbs_g": 0.2,
+    "fat_g": 0
+  },
+  {
+    "name": "תה ירוק",
+    "category": "משקאות",
+    "calories": 1,
+    "protein_g": 0,
+    "carbs_g": 0.2,
+    "fat_g": 0
+  },
+  {
+    "name": "תה צמחים",
+    "category": "משקאות",
+    "calories": 1,
+    "protein_g": 0,
+    "carbs_g": 0.2,
+    "fat_g": 0
+  },
+  {
+    "name": "תה קר ממותק",
+    "category": "משקאות",
+    "calories": 30,
+    "protein_g": 0,
+    "carbs_g": 7.5,
+    "fat_g": 0
+  },
+  {
+    "name": "מיץ תפוזים",
+    "category": "משקאות",
+    "calories": 45,
+    "protein_g": 0.7,
+    "carbs_g": 10.4,
+    "fat_g": 0.2
+  },
+  {
+    "name": "מיץ תפוחים",
+    "category": "משקאות",
+    "calories": 46,
+    "protein_g": 0.1,
+    "carbs_g": 11.3,
+    "fat_g": 0.1
+  },
+  {
+    "name": "מיץ ענבים",
+    "category": "משקאות",
+    "calories": 60,
+    "protein_g": 0.4,
+    "carbs_g": 15,
+    "fat_g": 0.1
+  },
+  {
+    "name": "מיץ אשכולית",
+    "category": "משקאות",
+    "calories": 39,
+    "protein_g": 0.5,
+    "carbs_g": 9.2,
+    "fat_g": 0.1
+  },
+  {
+    "name": "מיץ רימונים",
+    "category": "משקאות",
+    "calories": 54,
+    "protein_g": 0.2,
+    "carbs_g": 13,
+    "fat_g": 0.3
+  },
+  {
+    "name": "מיץ גזר",
+    "category": "משקאות",
+    "calories": 40,
+    "protein_g": 0.9,
+    "carbs_g": 9.3,
+    "fat_g": 0.2
+  },
+  {
+    "name": "מיץ עגבניות",
+    "category": "משקאות",
+    "calories": 17,
+    "protein_g": 0.8,
+    "carbs_g": 3.5,
+    "fat_g": 0.1
+  },
+  {
+    "name": "מיץ לימון",
+    "category": "משקאות",
+    "calories": 22,
+    "protein_g": 0.4,
+    "carbs_g": 6.9,
+    "fat_g": 0.2
+  },
+  {
+    "name": "מיץ אננס",
+    "category": "משקאות",
+    "calories": 53,
+    "protein_g": 0.4,
+    "carbs_g": 13,
+    "fat_g": 0.1
+  },
+  {
+    "name": "מיץ מנגו",
+    "category": "משקאות",
+    "calories": 54,
+    "protein_g": 0.3,
+    "carbs_g": 13,
+    "fat_g": 0.2
+  },
+  {
+    "name": "נקטר אפרסק",
+    "category": "משקאות",
+    "calories": 54,
+    "protein_g": 0.2,
+    "carbs_g": 13,
+    "fat_g": 0.1
+  },
+  {
+    "name": "מיץ ירקות",
+    "category": "משקאות",
+    "calories": 25,
+    "protein_g": 0.8,
+    "carbs_g": 5,
+    "fat_g": 0.1
+  },
+  {
+    "name": "לימונדה",
+    "category": "משקאות",
+    "calories": 40,
+    "protein_g": 0.1,
+    "carbs_g": 10,
+    "fat_g": 0
+  },
+  {
+    "name": "קולה",
+    "category": "משקאות",
+    "calories": 42,
+    "protein_g": 0,
+    "carbs_g": 10.6,
+    "fat_g": 0
+  },
+  {
+    "name": "קולה זירו",
+    "category": "משקאות",
+    "calories": 0,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "ספרייט",
+    "category": "משקאות",
+    "calories": 40,
+    "protein_g": 0,
+    "carbs_g": 10,
+    "fat_g": 0
+  },
+  {
+    "name": "פאנטה",
+    "category": "משקאות",
+    "calories": 45,
+    "protein_g": 0,
+    "carbs_g": 11.5,
+    "fat_g": 0
+  },
+  {
+    "name": "ג'ינג'ר אייל",
+    "category": "משקאות",
+    "calories": 40,
+    "protein_g": 0,
+    "carbs_g": 10,
+    "fat_g": 0
+  },
+  {
+    "name": "משקה ספורט",
+    "category": "משקאות",
+    "calories": 25,
+    "protein_g": 0,
+    "carbs_g": 6,
+    "fat_g": 0
+  },
+  {
+    "name": "משקה אנרגיה",
+    "category": "משקאות",
+    "calories": 45,
+    "protein_g": 0.2,
+    "carbs_g": 11,
+    "fat_g": 0
+  },
+  {
+    "name": "בירה",
+    "category": "משקאות",
+    "calories": 43,
+    "protein_g": 0.5,
+    "carbs_g": 3.6,
+    "fat_g": 0
+  },
+  {
+    "name": "בירה לייט",
+    "category": "משקאות",
+    "calories": 29,
+    "protein_g": 0.3,
+    "carbs_g": 1.6,
+    "fat_g": 0
+  },
+  {
+    "name": "יין אדום",
+    "category": "משקאות",
+    "calories": 85,
+    "protein_g": 0.1,
+    "carbs_g": 2.6,
+    "fat_g": 0
+  },
+  {
+    "name": "יין לבן",
+    "category": "משקאות",
+    "calories": 82,
+    "protein_g": 0.1,
+    "carbs_g": 2.6,
+    "fat_g": 0
+  },
+  {
+    "name": "יין מתוק",
+    "category": "משקאות",
+    "calories": 160,
+    "protein_g": 0.1,
+    "carbs_g": 13,
+    "fat_g": 0
+  },
+  {
+    "name": "שמפניה",
+    "category": "משקאות",
+    "calories": 80,
+    "protein_g": 0.1,
+    "carbs_g": 1.5,
+    "fat_g": 0
+  },
+  {
+    "name": "וודקה",
+    "category": "משקאות",
+    "calories": 231,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "וויסקי",
+    "category": "משקאות",
+    "calories": 250,
+    "protein_g": 0,
+    "carbs_g": 0.1,
+    "fat_g": 0
+  },
+  {
+    "name": "ערק",
+    "category": "משקאות",
+    "calories": 250,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "טקילה",
+    "category": "משקאות",
+    "calories": 231,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "רום",
+    "category": "משקאות",
+    "calories": 231,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "ג'ין",
+    "category": "משקאות",
+    "calories": 231,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0
+  },
+  {
+    "name": "ליקר",
+    "category": "משקאות",
+    "calories": 300,
+    "protein_g": 0,
+    "carbs_g": 30,
+    "fat_g": 0
+  },
+  {
+    "name": "סנגריה",
+    "category": "משקאות",
+    "calories": 100,
+    "protein_g": 0.1,
+    "carbs_g": 10,
+    "fat_g": 0
+  },
+  {
+    "name": "קוקטייל מרגריטה",
+    "category": "משקאות",
+    "calories": 150,
+    "protein_g": 0.1,
+    "carbs_g": 15,
+    "fat_g": 0
+  },
+  {
+    "name": "מוחיטו",
+    "category": "משקאות",
+    "calories": 100,
+    "protein_g": 0,
+    "carbs_g": 10,
+    "fat_g": 0
+  },
+  {
+    "name": "חלב סויה",
+    "category": "משקאות",
+    "calories": 54,
+    "protein_g": 3.3,
+    "carbs_g": 6,
+    "fat_g": 1.8
+  },
+  {
+    "name": "חלב סויה ללא סוכר",
+    "category": "משקאות",
+    "calories": 33,
+    "protein_g": 3.3,
+    "carbs_g": 1.2,
+    "fat_g": 1.8
+  },
+  {
+    "name": "חלב שקדים",
+    "category": "משקאות",
+    "calories": 15,
+    "protein_g": 0.6,
+    "carbs_g": 0.6,
+    "fat_g": 1.2
+  },
+  {
+    "name": "חלב שיבולת שועל",
+    "category": "משקאות",
+    "calories": 45,
+    "protein_g": 1,
+    "carbs_g": 7,
+    "fat_g": 1.5
+  },
+  {
+    "name": "חלב קוקוס משקה",
+    "category": "משקאות",
+    "calories": 20,
+    "protein_g": 0.2,
+    "carbs_g": 1.5,
+    "fat_g": 1.5
+  },
+  {
+    "name": "חלב קוקוס משומר",
+    "category": "משקאות",
+    "calories": 230,
+    "protein_g": 2.3,
+    "carbs_g": 5.5,
+    "fat_g": 24
+  },
+  {
+    "name": "שוקו חם",
+    "category": "משקאות",
+    "calories": 90,
+    "protein_g": 3.2,
+    "carbs_g": 12,
+    "fat_g": 3
+  },
+  {
+    "name": "שייק חלבון במים",
+    "category": "משקאות",
+    "calories": 80,
+    "protein_g": 16,
+    "carbs_g": 3,
+    "fat_g": 1
+  },
+  {
+    "name": "שייק חלבון בחלב",
+    "category": "משקאות",
+    "calories": 110,
+    "protein_g": 18,
+    "carbs_g": 8,
+    "fat_g": 2
+  },
+  {
+    "name": "שייק פירות",
+    "category": "משקאות",
+    "calories": 80,
+    "protein_g": 2,
+    "carbs_g": 16,
+    "fat_g": 1
+  },
+  {
+    "name": "סמוזי ירוק",
+    "category": "משקאות",
+    "calories": 70,
+    "protein_g": 2,
+    "carbs_g": 14,
+    "fat_g": 1
+  },
+  {
+    "name": "סיידר תפוחים",
+    "category": "משקאות",
+    "calories": 46,
+    "protein_g": 0.1,
+    "carbs_g": 11,
+    "fat_g": 0.1
+  }
+]

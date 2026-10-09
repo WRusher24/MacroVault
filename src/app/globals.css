@@ -1,0 +1,158 @@
+@import "tailwindcss";
+
+/* ==========================================================================
+   MacroVault theme engine
+   --------------------------------------------------------------------------
+   Every visual token is a CSS variable. Themes only override the variables,
+   so components never hard-code colours and switching is instant + free of
+   layout shift. Four themes ship out of the box:
+     light  -> Light Minimalist
+     dark   -> Dark Modern
+     sepia  -> Warm Sepia / Cream
+     ice    -> Cool Slate / Ice
+   ========================================================================== */
+
+:root,
+html[data-theme="light"] {
+  color-scheme: light;
+  --canvas: #f6f7f9;
+  --surface: #ffffff;
+  --elevated: #ffffff;
+  --line: #e6e8ec;
+  --ink: #141a24;
+  --muted: #6b7280;
+  --primary: #16a34a;
+  --on-primary: #ffffff;
+  --primary-soft: #e8f7ee;
+  --positive: #16a34a;
+  --negative: #dc2626;
+  --warning: #d97706;
+  --ring: rgba(22, 163, 74, 0.35);
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --canvas: #0b1017;
+  --surface: #121a25;
+  --elevated: #18222f;
+  --line: #26313f;
+  --ink: #e7edf3;
+  --muted: #93a1b2;
+  --primary: #34d399;
+  --on-primary: #06281c;
+  --primary-soft: #102a20;
+  --positive: #34d399;
+  --negative: #f87171;
+  --warning: #fbbf24;
+  --ring: rgba(52, 211, 153, 0.4);
+}
+
+html[data-theme="sepia"] {
+  color-scheme: light;
+  --canvas: #f3ead8;
+  --surface: #fbf5e9;
+  --elevated: #fffaf0;
+  --line: #e2d4b8;
+  --ink: #4a3b2a;
+  --muted: #8a745a;
+  --primary: #a2582a;
+  --on-primary: #fdf7ec;
+  --primary-soft: #efe1c8;
+  --positive: #5f7a3a;
+  --negative: #a3402f;
+  --warning: #b5761f;
+  --ring: rgba(162, 88, 42, 0.35);
+}
+
+html[data-theme="ice"] {
+  color-scheme: light;
+  --canvas: #eaeff5;
+  --surface: #ffffff;
+  --elevated: #f4f8fc;
+  --line: #d3deea;
+  --ink: #1b2735;
+  --muted: #5c7186;
+  --primary: #2f6fb0;
+  --on-primary: #ffffff;
+  --primary-soft: #e2eefb;
+  --positive: #1f9d6b;
+  --negative: #d1435b;
+  --warning: #c07a1e;
+  --ring: rgba(47, 111, 176, 0.35);
+}
+
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-elevated: var(--elevated);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-primary: var(--primary);
+  --color-on-primary: var(--on-primary);
+  --color-primary-soft: var(--primary-soft);
+  --color-positive: var(--positive);
+  --color-negative: var(--negative);
+  --color-warning: var(--warning);
+  --color-ring: var(--ring);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@layer base {
+  * {
+    border-color: var(--line);
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    background-color: var(--canvas);
+    color: var(--ink);
+    font-family: var(--font-sans), system-ui, -apple-system, "Segoe UI", Roboto,
+      Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Numeric fields behave consistently across mobile browsers. */
+  input,
+  select,
+  textarea,
+  button {
+    font: inherit;
+    color: inherit;
+  }
+
+  /* Remove number input spinners for a cleaner mobile look. */
+  input[type="number"]::-webkit-outer-spin-button,
+  input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+}
+
+@layer utilities {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .tap {
+    -webkit-user-select: none;
+    user-select: none;
+    touch-action: manipulation;
+  }
+}

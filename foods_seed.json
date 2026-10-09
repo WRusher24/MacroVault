@@ -1,0 +1,9002 @@
+[
+ {
+  "id": 1,
+  "name": "Chicken Breast, raw",
+  "category": "Proteins",
+  "calories": 120,
+  "protein_g": 22.5,
+  "carbs_g": 0,
+  "fat_g": 2.6
+ },
+ {
+  "id": 2,
+  "name": "Chicken Breast, grilled",
+  "category": "Proteins",
+  "calories": 165,
+  "protein_g": 31,
+  "carbs_g": 0,
+  "fat_g": 3.6
+ },
+ {
+  "id": 3,
+  "name": "Chicken Thigh, raw",
+  "category": "Proteins",
+  "calories": 121,
+  "protein_g": 19.7,
+  "carbs_g": 0,
+  "fat_g": 4.1
+ },
+ {
+  "id": 4,
+  "name": "Chicken Thigh, roasted",
+  "category": "Proteins",
+  "calories": 209,
+  "protein_g": 26,
+  "carbs_g": 0,
+  "fat_g": 10.9
+ },
+ {
+  "id": 5,
+  "name": "Chicken Wing, raw",
+  "category": "Proteins",
+  "calories": 130,
+  "protein_g": 17.5,
+  "carbs_g": 0,
+  "fat_g": 6
+ },
+ {
+  "id": 6,
+  "name": "Chicken Wing, fried",
+  "category": "Proteins",
+  "calories": 290,
+  "protein_g": 27,
+  "carbs_g": 0,
+  "fat_g": 19
+ },
+ {
+  "id": 7,
+  "name": "Turkey Breast, raw",
+  "category": "Proteins",
+  "calories": 114,
+  "protein_g": 23.1,
+  "carbs_g": 0,
+  "fat_g": 1.5
+ },
+ {
+  "id": 8,
+  "name": "Turkey Breast, roasted",
+  "category": "Proteins",
+  "calories": 147,
+  "protein_g": 30,
+  "carbs_g": 0,
+  "fat_g": 2.1
+ },
+ {
+  "id": 9,
+  "name": "Turkey Ground, 93% lean",
+  "category": "Proteins",
+  "calories": 170,
+  "protein_g": 21,
+  "carbs_g": 0,
+  "fat_g": 9
+ },
+ {
+  "id": 10,
+  "name": "Turkey Bacon",
+  "category": "Proteins",
+  "calories": 382,
+  "protein_g": 29,
+  "carbs_g": 0,
+  "fat_g": 28
+ },
+ {
+  "id": 11,
+  "name": "Beef Ground, 80% lean, raw",
+  "category": "Proteins",
+  "calories": 254,
+  "protein_g": 17.2,
+  "carbs_g": 0,
+  "fat_g": 20
+ },
+ {
+  "id": 12,
+  "name": "Beef Ground, 80% lean, cooked",
+  "category": "Proteins",
+  "calories": 254,
+  "protein_g": 25.9,
+  "carbs_g": 0,
+  "fat_g": 15.4
+ },
+ {
+  "id": 13,
+  "name": "Beef Ground, 90% lean, cooked",
+  "category": "Proteins",
+  "calories": 217,
+  "protein_g": 26.1,
+  "carbs_g": 0,
+  "fat_g": 11.8
+ },
+ {
+  "id": 14,
+  "name": "Beef Ribeye Steak, raw",
+  "category": "Proteins",
+  "calories": 288,
+  "protein_g": 16,
+  "carbs_g": 0,
+  "fat_g": 24
+ },
+ {
+  "id": 15,
+  "name": "Beef Ribeye Steak, grilled",
+  "category": "Proteins",
+  "calories": 291,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 21
+ },
+ {
+  "id": 16,
+  "name": "Beef Sirloin Steak, raw",
+  "category": "Proteins",
+  "calories": 158,
+  "protein_g": 20,
+  "carbs_g": 0,
+  "fat_g": 8
+ },
+ {
+  "id": 17,
+  "name": "Beef Sirloin Steak, grilled",
+  "category": "Proteins",
+  "calories": 183,
+  "protein_g": 27,
+  "carbs_g": 0,
+  "fat_g": 8
+ },
+ {
+  "id": 18,
+  "name": "Beef Tenderloin, raw",
+  "category": "Proteins",
+  "calories": 187,
+  "protein_g": 18.5,
+  "carbs_g": 0,
+  "fat_g": 12
+ },
+ {
+  "id": 19,
+  "name": "Beef Tenderloin, roasted",
+  "category": "Proteins",
+  "calories": 211,
+  "protein_g": 26,
+  "carbs_g": 0,
+  "fat_g": 11
+ },
+ {
+  "id": 20,
+  "name": "Beef Brisket, raw",
+  "category": "Proteins",
+  "calories": 231,
+  "protein_g": 18,
+  "carbs_g": 0,
+  "fat_g": 17
+ },
+ {
+  "id": 21,
+  "name": "Beef Brisket, braised",
+  "category": "Proteins",
+  "calories": 291,
+  "protein_g": 28,
+  "carbs_g": 0,
+  "fat_g": 19
+ },
+ {
+  "id": 22,
+  "name": "Beef Chuck Roast, braised",
+  "category": "Proteins",
+  "calories": 287,
+  "protein_g": 28,
+  "carbs_g": 0,
+  "fat_g": 18
+ },
+ {
+  "id": 23,
+  "name": "Beef Flank Steak, grilled",
+  "category": "Proteins",
+  "calories": 192,
+  "protein_g": 28,
+  "carbs_g": 0,
+  "fat_g": 8
+ },
+ {
+  "id": 24,
+  "name": "Beef Skirt Steak, grilled",
+  "category": "Proteins",
+  "calories": 204,
+  "protein_g": 26,
+  "carbs_g": 0,
+  "fat_g": 11
+ },
+ {
+  "id": 25,
+  "name": "Pork Chop, raw",
+  "category": "Proteins",
+  "calories": 134,
+  "protein_g": 20,
+  "carbs_g": 0,
+  "fat_g": 5.4
+ },
+ {
+  "id": 26,
+  "name": "Pork Chop, grilled",
+  "category": "Proteins",
+  "calories": 190,
+  "protein_g": 27,
+  "carbs_g": 0,
+  "fat_g": 8
+ },
+ {
+  "id": 27,
+  "name": "Pork Tenderloin, raw",
+  "category": "Proteins",
+  "calories": 120,
+  "protein_g": 20,
+  "carbs_g": 0,
+  "fat_g": 3.5
+ },
+ {
+  "id": 28,
+  "name": "Pork Tenderloin, roasted",
+  "category": "Proteins",
+  "calories": 143,
+  "protein_g": 26,
+  "carbs_g": 0,
+  "fat_g": 3.5
+ },
+ {
+  "id": 29,
+  "name": "Pork Belly, raw",
+  "category": "Proteins",
+  "calories": 518,
+  "protein_g": 9,
+  "carbs_g": 0,
+  "fat_g": 53
+ },
+ {
+  "id": 30,
+  "name": "Pork Belly, roasted",
+  "category": "Proteins",
+  "calories": 517,
+  "protein_g": 14,
+  "carbs_g": 0,
+  "fat_g": 50
+ },
+ {
+  "id": 31,
+  "name": "Pork Shoulder, raw",
+  "category": "Proteins",
+  "calories": 222,
+  "protein_g": 17,
+  "carbs_g": 0,
+  "fat_g": 16
+ },
+ {
+  "id": 32,
+  "name": "Pork Shoulder, pulled",
+  "category": "Proteins",
+  "calories": 232,
+  "protein_g": 22,
+  "carbs_g": 0,
+  "fat_g": 15
+ },
+ {
+  "id": 33,
+  "name": "Bacon, raw",
+  "category": "Proteins",
+  "calories": 541,
+  "protein_g": 37,
+  "carbs_g": 1.4,
+  "fat_g": 42
+ },
+ {
+  "id": 34,
+  "name": "Bacon, cooked",
+  "category": "Proteins",
+  "calories": 548,
+  "protein_g": 42,
+  "carbs_g": 0,
+  "fat_g": 42
+ },
+ {
+  "id": 35,
+  "name": "Ham, cured",
+  "category": "Proteins",
+  "calories": 145,
+  "protein_g": 21,
+  "carbs_g": 1.5,
+  "fat_g": 5.5
+ },
+ {
+  "id": 36,
+  "name": "Ham, honey baked",
+  "category": "Proteins",
+  "calories": 122,
+  "protein_g": 18,
+  "carbs_g": 3,
+  "fat_g": 4
+ },
+ {
+  "id": 37,
+  "name": "Salmon, Atlantic, raw",
+  "category": "Proteins",
+  "calories": 208,
+  "protein_g": 20.4,
+  "carbs_g": 0,
+  "fat_g": 13.4
+ },
+ {
+  "id": 38,
+  "name": "Salmon, Atlantic, baked",
+  "category": "Proteins",
+  "calories": 206,
+  "protein_g": 22,
+  "carbs_g": 0,
+  "fat_g": 12.4
+ },
+ {
+  "id": 39,
+  "name": "Salmon, Sockeye, raw",
+  "category": "Proteins",
+  "calories": 159,
+  "protein_g": 21.3,
+  "carbs_g": 0,
+  "fat_g": 7.3
+ },
+ {
+  "id": 40,
+  "name": "Salmon, Sockeye, baked",
+  "category": "Proteins",
+  "calories": 182,
+  "protein_g": 26,
+  "carbs_g": 0,
+  "fat_g": 8
+ },
+ {
+  "id": 41,
+  "name": "Tuna, Bluefin, raw",
+  "category": "Proteins",
+  "calories": 144,
+  "protein_g": 23.3,
+  "carbs_g": 0,
+  "fat_g": 4.9
+ },
+ {
+  "id": 42,
+  "name": "Tuna, Yellowfin, raw",
+  "category": "Proteins",
+  "calories": 109,
+  "protein_g": 24.4,
+  "carbs_g": 0,
+  "fat_g": 0.5
+ },
+ {
+  "id": 43,
+  "name": "Tuna, canned in water",
+  "category": "Proteins",
+  "calories": 116,
+  "protein_g": 25.5,
+  "carbs_g": 0,
+  "fat_g": 0.8
+ },
+ {
+  "id": 44,
+  "name": "Tuna, canned in oil",
+  "category": "Proteins",
+  "calories": 198,
+  "protein_g": 29.1,
+  "carbs_g": 0,
+  "fat_g": 8.2
+ },
+ {
+  "id": 45,
+  "name": "Shrimp, raw",
+  "category": "Proteins",
+  "calories": 85,
+  "protein_g": 20.3,
+  "carbs_g": 0.2,
+  "fat_g": 1.7
+ },
+ {
+  "id": 46,
+  "name": "Shrimp, cooked",
+  "category": "Proteins",
+  "calories": 99,
+  "protein_g": 24,
+  "carbs_g": 0.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 47,
+  "name": "Shrimp, breaded and fried",
+  "category": "Proteins",
+  "calories": 242,
+  "protein_g": 15,
+  "carbs_g": 16,
+  "fat_g": 12
+ },
+ {
+  "id": 48,
+  "name": "Cod, Atlantic, raw",
+  "category": "Proteins",
+  "calories": 82,
+  "protein_g": 17.8,
+  "carbs_g": 0,
+  "fat_g": 0.7
+ },
+ {
+  "id": 49,
+  "name": "Cod, Atlantic, baked",
+  "category": "Proteins",
+  "calories": 105,
+  "protein_g": 22.8,
+  "carbs_g": 0,
+  "fat_g": 0.9
+ },
+ {
+  "id": 50,
+  "name": "Tilapia, raw",
+  "category": "Proteins",
+  "calories": 96,
+  "protein_g": 20.1,
+  "carbs_g": 0,
+  "fat_g": 1.7
+ },
+ {
+  "id": 51,
+  "name": "Tilapia, baked",
+  "category": "Proteins",
+  "calories": 128,
+  "protein_g": 26,
+  "carbs_g": 0,
+  "fat_g": 2.7
+ },
+ {
+  "id": 52,
+  "name": "Halibut, raw",
+  "category": "Proteins",
+  "calories": 110,
+  "protein_g": 20.8,
+  "carbs_g": 0,
+  "fat_g": 2.3
+ },
+ {
+  "id": 53,
+  "name": "Halibut, baked",
+  "category": "Proteins",
+  "calories": 140,
+  "protein_g": 26,
+  "carbs_g": 0,
+  "fat_g": 3
+ },
+ {
+  "id": 54,
+  "name": "Trout, Rainbow, raw",
+  "category": "Proteins",
+  "calories": 141,
+  "protein_g": 19.9,
+  "carbs_g": 0,
+  "fat_g": 6.3
+ },
+ {
+  "id": 55,
+  "name": "Trout, Rainbow, baked",
+  "category": "Proteins",
+  "calories": 168,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 7
+ },
+ {
+  "id": 56,
+  "name": "Catfish, raw",
+  "category": "Proteins",
+  "calories": 105,
+  "protein_g": 18,
+  "carbs_g": 0,
+  "fat_g": 3
+ },
+ {
+  "id": 57,
+  "name": "Catfish, breaded and fried",
+  "category": "Proteins",
+  "calories": 229,
+  "protein_g": 18,
+  "carbs_g": 10,
+  "fat_g": 12
+ },
+ {
+  "id": 58,
+  "name": "Sardines, canned in oil",
+  "category": "Proteins",
+  "calories": 208,
+  "protein_g": 24.6,
+  "carbs_g": 0,
+  "fat_g": 11.5
+ },
+ {
+  "id": 59,
+  "name": "Sardines, canned in water",
+  "category": "Proteins",
+  "calories": 135,
+  "protein_g": 20,
+  "carbs_g": 0,
+  "fat_g": 5
+ },
+ {
+  "id": 60,
+  "name": "Mackerel, raw",
+  "category": "Proteins",
+  "calories": 205,
+  "protein_g": 18.6,
+  "carbs_g": 0,
+  "fat_g": 13.9
+ },
+ {
+  "id": 61,
+  "name": "Mackerel, smoked",
+  "category": "Proteins",
+  "calories": 250,
+  "protein_g": 23,
+  "carbs_g": 0,
+  "fat_g": 17
+ },
+ {
+  "id": 62,
+  "name": "Anchovies, canned in oil",
+  "category": "Proteins",
+  "calories": 210,
+  "protein_g": 28.9,
+  "carbs_g": 0,
+  "fat_g": 9.7
+ },
+ {
+  "id": 63,
+  "name": "Crab, blue, cooked",
+  "category": "Proteins",
+  "calories": 87,
+  "protein_g": 18,
+  "carbs_g": 0,
+  "fat_g": 1.1
+ },
+ {
+  "id": 64,
+  "name": "Lobster, cooked",
+  "category": "Proteins",
+  "calories": 89,
+  "protein_g": 19,
+  "carbs_g": 0,
+  "fat_g": 0.9
+ },
+ {
+  "id": 65,
+  "name": "Scallops, raw",
+  "category": "Proteins",
+  "calories": 69,
+  "protein_g": 12.1,
+  "carbs_g": 3.2,
+  "fat_g": 0.5
+ },
+ {
+  "id": 66,
+  "name": "Scallops, steamed",
+  "category": "Proteins",
+  "calories": 111,
+  "protein_g": 20.5,
+  "carbs_g": 5.4,
+  "fat_g": 0.8
+ },
+ {
+  "id": 67,
+  "name": "Clams, raw",
+  "category": "Proteins",
+  "calories": 74,
+  "protein_g": 12.8,
+  "carbs_g": 2.6,
+  "fat_g": 0.8
+ },
+ {
+  "id": 68,
+  "name": "Clams, steamed",
+  "category": "Proteins",
+  "calories": 126,
+  "protein_g": 21,
+  "carbs_g": 4,
+  "fat_g": 1.7
+ },
+ {
+  "id": 69,
+  "name": "Mussels, raw",
+  "category": "Proteins",
+  "calories": 86,
+  "protein_g": 11.9,
+  "carbs_g": 3.7,
+  "fat_g": 2.2
+ },
+ {
+  "id": 70,
+  "name": "Mussels, steamed",
+  "category": "Proteins",
+  "calories": 172,
+  "protein_g": 24,
+  "carbs_g": 7,
+  "fat_g": 4.5
+ },
+ {
+  "id": 71,
+  "name": "Oysters, raw",
+  "category": "Proteins",
+  "calories": 68,
+  "protein_g": 7.1,
+  "carbs_g": 3.9,
+  "fat_g": 1.7
+ },
+ {
+  "id": 72,
+  "name": "Oysters, steamed",
+  "category": "Proteins",
+  "calories": 81,
+  "protein_g": 9.5,
+  "carbs_g": 4.2,
+  "fat_g": 2.5
+ },
+ {
+  "id": 73,
+  "name": "Squid, raw",
+  "category": "Proteins",
+  "calories": 92,
+  "protein_g": 15.6,
+  "carbs_g": 3.1,
+  "fat_g": 1.4
+ },
+ {
+  "id": 74,
+  "name": "Squid, fried",
+  "category": "Proteins",
+  "calories": 175,
+  "protein_g": 15,
+  "carbs_g": 8,
+  "fat_g": 7.5
+ },
+ {
+  "id": 75,
+  "name": "Octopus, cooked",
+  "category": "Proteins",
+  "calories": 164,
+  "protein_g": 30,
+  "carbs_g": 4.4,
+  "fat_g": 2.1
+ },
+ {
+  "id": 76,
+  "name": "Egg, whole, raw",
+  "category": "Proteins",
+  "calories": 143,
+  "protein_g": 12.6,
+  "carbs_g": 0.7,
+  "fat_g": 9.5
+ },
+ {
+  "id": 77,
+  "name": "Egg, whole, boiled",
+  "category": "Proteins",
+  "calories": 155,
+  "protein_g": 13,
+  "carbs_g": 1.1,
+  "fat_g": 11
+ },
+ {
+  "id": 78,
+  "name": "Egg, whole, scrambled",
+  "category": "Proteins",
+  "calories": 149,
+  "protein_g": 10,
+  "carbs_g": 1,
+  "fat_g": 11
+ },
+ {
+  "id": 79,
+  "name": "Egg, whole, fried",
+  "category": "Proteins",
+  "calories": 196,
+  "protein_g": 13.6,
+  "carbs_g": 0.9,
+  "fat_g": 14.8
+ },
+ {
+  "id": 80,
+  "name": "Egg White, raw",
+  "category": "Proteins",
+  "calories": 52,
+  "protein_g": 10.9,
+  "carbs_g": 0.7,
+  "fat_g": 0.2
+ },
+ {
+  "id": 81,
+  "name": "Egg Yolk, raw",
+  "category": "Proteins",
+  "calories": 322,
+  "protein_g": 15.9,
+  "carbs_g": 3.6,
+  "fat_g": 26.5
+ },
+ {
+  "id": 82,
+  "name": "Duck Egg, whole",
+  "category": "Proteins",
+  "calories": 185,
+  "protein_g": 12.8,
+  "carbs_g": 1.5,
+  "fat_g": 13.8
+ },
+ {
+  "id": 83,
+  "name": "Quail Egg, whole",
+  "category": "Proteins",
+  "calories": 158,
+  "protein_g": 13.1,
+  "carbs_g": 0.4,
+  "fat_g": 11.1
+ },
+ {
+  "id": 84,
+  "name": "Goose Egg, whole",
+  "category": "Proteins",
+  "calories": 185,
+  "protein_g": 13.9,
+  "carbs_g": 1.3,
+  "fat_g": 13.3
+ },
+ {
+  "id": 85,
+  "name": "Tofu, firm",
+  "category": "Proteins",
+  "calories": 76,
+  "protein_g": 8.1,
+  "carbs_g": 1.9,
+  "fat_g": 4.8
+ },
+ {
+  "id": 86,
+  "name": "Tofu, extra firm",
+  "category": "Proteins",
+  "calories": 83,
+  "protein_g": 10,
+  "carbs_g": 1.2,
+  "fat_g": 4.2
+ },
+ {
+  "id": 87,
+  "name": "Tofu, silken",
+  "category": "Proteins",
+  "calories": 55,
+  "protein_g": 4.8,
+  "carbs_g": 2.9,
+  "fat_g": 2.7
+ },
+ {
+  "id": 88,
+  "name": "Tempeh",
+  "category": "Proteins",
+  "calories": 192,
+  "protein_g": 20.3,
+  "carbs_g": 7.6,
+  "fat_g": 10.8
+ },
+ {
+  "id": 89,
+  "name": "Edamame, shelled",
+  "category": "Proteins",
+  "calories": 121,
+  "protein_g": 11.9,
+  "carbs_g": 8.9,
+  "fat_g": 5.2
+ },
+ {
+  "id": 90,
+  "name": "Lentils, green, cooked",
+  "category": "Proteins",
+  "calories": 116,
+  "protein_g": 9,
+  "carbs_g": 20.1,
+  "fat_g": 0.4
+ },
+ {
+  "id": 91,
+  "name": "Lentils, red, cooked",
+  "category": "Proteins",
+  "calories": 116,
+  "protein_g": 9,
+  "carbs_g": 20.1,
+  "fat_g": 0.4
+ },
+ {
+  "id": 92,
+  "name": "Black Beans, cooked",
+  "category": "Proteins",
+  "calories": 132,
+  "protein_g": 8.9,
+  "carbs_g": 23.7,
+  "fat_g": 0.5
+ },
+ {
+  "id": 93,
+  "name": "Kidney Beans, cooked",
+  "category": "Proteins",
+  "calories": 127,
+  "protein_g": 8.7,
+  "carbs_g": 22.8,
+  "fat_g": 0.5
+ },
+ {
+  "id": 94,
+  "name": "Chickpeas, cooked",
+  "category": "Proteins",
+  "calories": 164,
+  "protein_g": 8.9,
+  "carbs_g": 27.4,
+  "fat_g": 2.6
+ },
+ {
+  "id": 95,
+  "name": "Navy Beans, cooked",
+  "category": "Proteins",
+  "calories": 140,
+  "protein_g": 8.2,
+  "carbs_g": 26.1,
+  "fat_g": 0.6
+ },
+ {
+  "id": 96,
+  "name": "Pinto Beans, cooked",
+  "category": "Proteins",
+  "calories": 143,
+  "protein_g": 9,
+  "carbs_g": 26.2,
+  "fat_g": 0.7
+ },
+ {
+  "id": 97,
+  "name": "Refried Beans",
+  "category": "Proteins",
+  "calories": 118,
+  "protein_g": 6,
+  "carbs_g": 19,
+  "fat_g": 2
+ },
+ {
+  "id": 98,
+  "name": "Hummus",
+  "category": "Proteins",
+  "calories": 166,
+  "protein_g": 7.9,
+  "carbs_g": 14.3,
+  "fat_g": 9.6
+ },
+ {
+  "id": 99,
+  "name": "Falafel",
+  "category": "Proteins",
+  "calories": 333,
+  "protein_g": 13.3,
+  "carbs_g": 31.8,
+  "fat_g": 17.8
+ },
+ {
+  "id": 100,
+  "name": "Seitan",
+  "category": "Proteins",
+  "calories": 143,
+  "protein_g": 21,
+  "carbs_g": 5,
+  "fat_g": 2
+ },
+ {
+  "id": 101,
+  "name": "Whey Protein Powder",
+  "category": "Proteins",
+  "calories": 400,
+  "protein_g": 80,
+  "carbs_g": 8,
+  "fat_g": 6
+ },
+ {
+  "id": 102,
+  "name": "Casein Protein Powder",
+  "category": "Proteins",
+  "calories": 360,
+  "protein_g": 80,
+  "carbs_g": 6,
+  "fat_g": 2
+ },
+ {
+  "id": 103,
+  "name": "Pea Protein Powder",
+  "category": "Proteins",
+  "calories": 380,
+  "protein_g": 80,
+  "carbs_g": 5,
+  "fat_g": 5
+ },
+ {
+  "id": 104,
+  "name": "Collagen Peptides",
+  "category": "Proteins",
+  "calories": 375,
+  "protein_g": 90,
+  "carbs_g": 0,
+  "fat_g": 0
+ },
+ {
+  "id": 105,
+  "name": "Beef Jerky",
+  "category": "Proteins",
+  "calories": 410,
+  "protein_g": 33,
+  "carbs_g": 11,
+  "fat_g": 25
+ },
+ {
+  "id": 106,
+  "name": "Pepperoni",
+  "category": "Proteins",
+  "calories": 494,
+  "protein_g": 22,
+  "carbs_g": 1,
+  "fat_g": 44
+ },
+ {
+  "id": 107,
+  "name": "Salami",
+  "category": "Proteins",
+  "calories": 336,
+  "protein_g": 21,
+  "carbs_g": 2,
+  "fat_g": 26
+ },
+ {
+  "id": 108,
+  "name": "Prosciutto",
+  "category": "Proteins",
+  "calories": 195,
+  "protein_g": 27,
+  "carbs_g": 0,
+  "fat_g": 9
+ },
+ {
+  "id": 109,
+  "name": "Chorizo",
+  "category": "Proteins",
+  "calories": 346,
+  "protein_g": 24,
+  "carbs_g": 2,
+  "fat_g": 26
+ },
+ {
+  "id": 110,
+  "name": "Italian Sausage, raw",
+  "category": "Proteins",
+  "calories": 290,
+  "protein_g": 15,
+  "carbs_g": 2,
+  "fat_g": 25
+ },
+ {
+  "id": 111,
+  "name": "Italian Sausage, cooked",
+  "category": "Proteins",
+  "calories": 346,
+  "protein_g": 20,
+  "carbs_g": 2,
+  "fat_g": 29
+ },
+ {
+  "id": 112,
+  "name": "Bratwurst, cooked",
+  "category": "Proteins",
+  "calories": 333,
+  "protein_g": 14,
+  "carbs_g": 3,
+  "fat_g": 29
+ },
+ {
+  "id": 113,
+  "name": "Hot Dog, beef",
+  "category": "Proteins",
+  "calories": 290,
+  "protein_g": 10,
+  "carbs_g": 4,
+  "fat_g": 26
+ },
+ {
+  "id": 114,
+  "name": "Hot Dog, pork",
+  "category": "Proteins",
+  "calories": 263,
+  "protein_g": 12,
+  "carbs_g": 2,
+  "fat_g": 23
+ },
+ {
+  "id": 115,
+  "name": "Spam",
+  "category": "Proteins",
+  "calories": 315,
+  "protein_g": 13,
+  "carbs_g": 3,
+  "fat_g": 27
+ },
+ {
+  "id": 116,
+  "name": "Corned Beef",
+  "category": "Proteins",
+  "calories": 251,
+  "protein_g": 18,
+  "carbs_g": 0,
+  "fat_g": 19
+ },
+ {
+  "id": 117,
+  "name": "Pastrami",
+  "category": "Proteins",
+  "calories": 133,
+  "protein_g": 16,
+  "carbs_g": 3,
+  "fat_g": 6
+ },
+ {
+  "id": 118,
+  "name": "Roast Beef, deli sliced",
+  "category": "Proteins",
+  "calories": 115,
+  "protein_g": 18,
+  "carbs_g": 2,
+  "fat_g": 3.5
+ },
+ {
+  "id": 119,
+  "name": "Lamb, ground, raw",
+  "category": "Proteins",
+  "calories": 282,
+  "protein_g": 16,
+  "carbs_g": 0,
+  "fat_g": 23
+ },
+ {
+  "id": 120,
+  "name": "Lamb, ground, cooked",
+  "category": "Proteins",
+  "calories": 283,
+  "protein_g": 25,
+  "carbs_g": 0,
+  "fat_g": 19
+ },
+ {
+  "id": 121,
+  "name": "Lamb Chop, grilled",
+  "category": "Proteins",
+  "calories": 250,
+  "protein_g": 25,
+  "carbs_g": 0,
+  "fat_g": 16
+ },
+ {
+  "id": 122,
+  "name": "Lamb Leg, roasted",
+  "category": "Proteins",
+  "calories": 258,
+  "protein_g": 25,
+  "carbs_g": 0,
+  "fat_g": 17
+ },
+ {
+  "id": 123,
+  "name": "Venison, raw",
+  "category": "Proteins",
+  "calories": 119,
+  "protein_g": 21,
+  "carbs_g": 0,
+  "fat_g": 3
+ },
+ {
+  "id": 124,
+  "name": "Venison, cooked",
+  "category": "Proteins",
+  "calories": 158,
+  "protein_g": 30,
+  "carbs_g": 0,
+  "fat_g": 3.2
+ },
+ {
+  "id": 125,
+  "name": "Bison, ground, cooked",
+  "category": "Proteins",
+  "calories": 223,
+  "protein_g": 25,
+  "carbs_g": 0,
+  "fat_g": 13
+ },
+ {
+  "id": 126,
+  "name": "Elk, cooked",
+  "category": "Proteins",
+  "calories": 146,
+  "protein_g": 30,
+  "carbs_g": 0,
+  "fat_g": 2
+ },
+ {
+  "id": 127,
+  "name": "Duck, meat only, roasted",
+  "category": "Proteins",
+  "calories": 201,
+  "protein_g": 23,
+  "carbs_g": 0,
+  "fat_g": 11
+ },
+ {
+  "id": 128,
+  "name": "Duck, skin on, roasted",
+  "category": "Proteins",
+  "calories": 337,
+  "protein_g": 19,
+  "carbs_g": 0,
+  "fat_g": 28
+ },
+ {
+  "id": 129,
+  "name": "Quail, cooked",
+  "category": "Proteins",
+  "calories": 227,
+  "protein_g": 25,
+  "carbs_g": 0,
+  "fat_g": 14
+ },
+ {
+  "id": 130,
+  "name": "Rabbit, cooked",
+  "category": "Proteins",
+  "calories": 173,
+  "protein_g": 33,
+  "carbs_g": 0,
+  "fat_g": 3.5
+ },
+ {
+  "id": 131,
+  "name": "Alligator, cooked",
+  "category": "Proteins",
+  "calories": 143,
+  "protein_g": 29,
+  "carbs_g": 0,
+  "fat_g": 3
+ },
+ {
+  "id": 132,
+  "name": "Frog Legs, cooked",
+  "category": "Proteins",
+  "calories": 73,
+  "protein_g": 16,
+  "carbs_g": 0,
+  "fat_g": 0.3
+ },
+ {
+  "id": 133,
+  "name": "Eel, cooked",
+  "category": "Proteins",
+  "calories": 201,
+  "protein_g": 18,
+  "carbs_g": 0,
+  "fat_g": 13
+ },
+ {
+  "id": 134,
+  "name": "Mahi Mahi, cooked",
+  "category": "Proteins",
+  "calories": 109,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 0.9
+ },
+ {
+  "id": 135,
+  "name": "Swordfish, cooked",
+  "category": "Proteins",
+  "calories": 172,
+  "protein_g": 23,
+  "carbs_g": 0,
+  "fat_g": 7
+ },
+ {
+  "id": 136,
+  "name": "Grouper, cooked",
+  "category": "Proteins",
+  "calories": 118,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 1.5
+ },
+ {
+  "id": 137,
+  "name": "Snapper, cooked",
+  "category": "Proteins",
+  "calories": 128,
+  "protein_g": 26,
+  "carbs_g": 0,
+  "fat_g": 1.7
+ },
+ {
+  "id": 138,
+  "name": "Sea Bass, cooked",
+  "category": "Proteins",
+  "calories": 124,
+  "protein_g": 23,
+  "carbs_g": 0,
+  "fat_g": 2.6
+ },
+ {
+  "id": 139,
+  "name": "Flounder, cooked",
+  "category": "Proteins",
+  "calories": 119,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 2
+ },
+ {
+  "id": 140,
+  "name": "Sole, cooked",
+  "category": "Proteins",
+  "calories": 116,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 1.6
+ },
+ {
+  "id": 141,
+  "name": "Haddock, cooked",
+  "category": "Proteins",
+  "calories": 112,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 0.9
+ },
+ {
+  "id": 142,
+  "name": "Pollock, cooked",
+  "category": "Proteins",
+  "calories": 111,
+  "protein_g": 23,
+  "carbs_g": 0,
+  "fat_g": 1
+ },
+ {
+  "id": 143,
+  "name": "Perch, cooked",
+  "category": "Proteins",
+  "calories": 117,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 1.5
+ },
+ {
+  "id": 144,
+  "name": "Walleye, cooked",
+  "category": "Proteins",
+  "calories": 119,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 1.6
+ },
+ {
+  "id": 145,
+  "name": "Pike, cooked",
+  "category": "Proteins",
+  "calories": 113,
+  "protein_g": 25,
+  "carbs_g": 0,
+  "fat_g": 0.8
+ },
+ {
+  "id": 146,
+  "name": "Carp, cooked",
+  "category": "Proteins",
+  "calories": 162,
+  "protein_g": 22,
+  "carbs_g": 0,
+  "fat_g": 7
+ },
+ {
+  "id": 147,
+  "name": "Sturgeon, cooked",
+  "category": "Proteins",
+  "calories": 135,
+  "protein_g": 20,
+  "carbs_g": 0,
+  "fat_g": 5
+ },
+ {
+  "id": 148,
+  "name": "Caviar",
+  "category": "Proteins",
+  "calories": 264,
+  "protein_g": 25,
+  "carbs_g": 4,
+  "fat_g": 18
+ },
+ {
+  "id": 149,
+  "name": "Roe, mixed species",
+  "category": "Proteins",
+  "calories": 142,
+  "protein_g": 22,
+  "carbs_g": 1.5,
+  "fat_g": 6
+ },
+ {
+  "id": 150,
+  "name": "Imitation Crab",
+  "category": "Proteins",
+  "calories": 95,
+  "protein_g": 7,
+  "carbs_g": 15,
+  "fat_g": 1.5
+ },
+ {
+  "id": 151,
+  "name": "Surimi",
+  "category": "Proteins",
+  "calories": 99,
+  "protein_g": 15,
+  "carbs_g": 9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 152,
+  "name": "Wheat Gluten, raw",
+  "category": "Proteins",
+  "calories": 370,
+  "protein_g": 75,
+  "carbs_g": 14,
+  "fat_g": 1.9
+ },
+ {
+  "id": 153,
+  "name": "Nutritional Yeast",
+  "category": "Proteins",
+  "calories": 325,
+  "protein_g": 50,
+  "carbs_g": 25,
+  "fat_g": 5
+ },
+ {
+  "id": 154,
+  "name": "Soy Milk, unsweetened",
+  "category": "Proteins",
+  "calories": 54,
+  "protein_g": 3.3,
+  "carbs_g": 3,
+  "fat_g": 1.8
+ },
+ {
+  "id": 155,
+  "name": "Soy Milk, sweetened",
+  "category": "Proteins",
+  "calories": 54,
+  "protein_g": 2.9,
+  "carbs_g": 6,
+  "fat_g": 1.8
+ },
+ {
+  "id": 156,
+  "name": "Almond Milk, unsweetened",
+  "category": "Proteins",
+  "calories": 15,
+  "protein_g": 0.6,
+  "carbs_g": 0.3,
+  "fat_g": 1.2
+ },
+ {
+  "id": 157,
+  "name": "Almond Milk, sweetened",
+  "category": "Proteins",
+  "calories": 30,
+  "protein_g": 0.4,
+  "carbs_g": 5,
+  "fat_g": 1.1
+ },
+ {
+  "id": 158,
+  "name": "Oat Milk",
+  "category": "Proteins",
+  "calories": 48,
+  "protein_g": 1,
+  "carbs_g": 9,
+  "fat_g": 1.5
+ },
+ {
+  "id": 159,
+  "name": "Coconut Milk, canned",
+  "category": "Proteins",
+  "calories": 197,
+  "protein_g": 2,
+  "carbs_g": 3,
+  "fat_g": 19
+ },
+ {
+  "id": 160,
+  "name": "Coconut Milk, carton",
+  "category": "Proteins",
+  "calories": 23,
+  "protein_g": 0.2,
+  "carbs_g": 3,
+  "fat_g": 2
+ },
+ {
+  "id": 161,
+  "name": "Rice Milk",
+  "category": "Proteins",
+  "calories": 47,
+  "protein_g": 0.3,
+  "carbs_g": 9,
+  "fat_g": 1
+ },
+ {
+  "id": 162,
+  "name": "Hemp Milk",
+  "category": "Proteins",
+  "calories": 46,
+  "protein_g": 2,
+  "carbs_g": 1,
+  "fat_g": 3
+ },
+ {
+  "id": 163,
+  "name": "Pea Milk",
+  "category": "Proteins",
+  "calories": 70,
+  "protein_g": 4,
+  "carbs_g": 7,
+  "fat_g": 2.5
+ },
+ {
+  "id": 164,
+  "name": "Flax Milk",
+  "category": "Proteins",
+  "calories": 25,
+  "protein_g": 1,
+  "carbs_g": 1,
+  "fat_g": 2.5
+ },
+ {
+  "id": 165,
+  "name": "Cashew Milk",
+  "category": "Proteins",
+  "calories": 25,
+  "protein_g": 0.5,
+  "carbs_g": 2,
+  "fat_g": 2
+ },
+ {
+  "id": 166,
+  "name": "Macadamia Milk",
+  "category": "Proteins",
+  "calories": 50,
+  "protein_g": 1,
+  "carbs_g": 1,
+  "fat_g": 5
+ },
+ {
+  "id": 167,
+  "name": "Quinoa Milk",
+  "category": "Proteins",
+  "calories": 42,
+  "protein_g": 1,
+  "carbs_g": 7,
+  "fat_g": 1.5
+ },
+ {
+  "id": 168,
+  "name": "Soy Yogurt, plain",
+  "category": "Proteins",
+  "calories": 66,
+  "protein_g": 4,
+  "carbs_g": 6,
+  "fat_g": 2
+ },
+ {
+  "id": 169,
+  "name": "Coconut Yogurt",
+  "category": "Proteins",
+  "calories": 80,
+  "protein_g": 1,
+  "carbs_g": 8,
+  "fat_g": 5
+ },
+ {
+  "id": 170,
+  "name": "Almond Yogurt",
+  "category": "Proteins",
+  "calories": 50,
+  "protein_g": 2,
+  "carbs_g": 4,
+  "fat_g": 3
+ },
+ {
+  "id": 171,
+  "name": "Soy Cheese, cheddar style",
+  "category": "Proteins",
+  "calories": 280,
+  "protein_g": 20,
+  "carbs_g": 10,
+  "fat_g": 15
+ },
+ {
+  "id": 172,
+  "name": "Vegan Cheese, mozzarella style",
+  "category": "Proteins",
+  "calories": 240,
+  "protein_g": 5,
+  "carbs_g": 20,
+  "fat_g": 15
+ },
+ {
+  "id": 173,
+  "name": "Vegan Burger Patty",
+  "category": "Proteins",
+  "calories": 250,
+  "protein_g": 20,
+  "carbs_g": 8,
+  "fat_g": 15
+ },
+ {
+  "id": 174,
+  "name": "Black Bean Burger",
+  "category": "Proteins",
+  "calories": 200,
+  "protein_g": 12,
+  "carbs_g": 25,
+  "fat_g": 5
+ },
+ {
+  "id": 175,
+  "name": "Veggie Burger",
+  "category": "Proteins",
+  "calories": 177,
+  "protein_g": 15,
+  "carbs_g": 10,
+  "fat_g": 7
+ },
+ {
+  "id": 176,
+  "name": "Beyond Burger",
+  "category": "Proteins",
+  "calories": 232,
+  "protein_g": 20,
+  "carbs_g": 7,
+  "fat_g": 14
+ },
+ {
+  "id": 177,
+  "name": "Impossible Burger",
+  "category": "Proteins",
+  "calories": 240,
+  "protein_g": 19,
+  "carbs_g": 9,
+  "fat_g": 14
+ },
+ {
+  "id": 178,
+  "name": "Chicken Nuggets",
+  "category": "Proteins",
+  "calories": 296,
+  "protein_g": 15,
+  "carbs_g": 16,
+  "fat_g": 18
+ },
+ {
+  "id": 179,
+  "name": "Chicken Tenders, breaded",
+  "category": "Proteins",
+  "calories": 260,
+  "protein_g": 18,
+  "carbs_g": 12,
+  "fat_g": 14
+ },
+ {
+  "id": 180,
+  "name": "Fish Sticks",
+  "category": "Proteins",
+  "calories": 277,
+  "protein_g": 11,
+  "carbs_g": 22,
+  "fat_g": 16
+ },
+ {
+  "id": 181,
+  "name": "Crab Cake",
+  "category": "Proteins",
+  "calories": 162,
+  "protein_g": 15,
+  "carbs_g": 8,
+  "fat_g": 8
+ },
+ {
+  "id": 182,
+  "name": "Lobster Roll",
+  "category": "Proteins",
+  "calories": 220,
+  "protein_g": 15,
+  "carbs_g": 18,
+  "fat_g": 9
+ },
+ {
+  "id": 183,
+  "name": "Shrimp Cocktail",
+  "category": "Proteins",
+  "calories": 99,
+  "protein_g": 20,
+  "carbs_g": 2,
+  "fat_g": 0.5
+ },
+ {
+  "id": 184,
+  "name": "Tuna Salad",
+  "category": "Proteins",
+  "calories": 187,
+  "protein_g": 16,
+  "carbs_g": 8,
+  "fat_g": 10
+ },
+ {
+  "id": 185,
+  "name": "Chicken Salad",
+  "category": "Proteins",
+  "calories": 200,
+  "protein_g": 15,
+  "carbs_g": 5,
+  "fat_g": 13
+ },
+ {
+  "id": 186,
+  "name": "Egg Salad",
+  "category": "Proteins",
+  "calories": 155,
+  "protein_g": 10,
+  "carbs_g": 2,
+  "fat_g": 12
+ },
+ {
+  "id": 187,
+  "name": "Salmon Salad",
+  "category": "Proteins",
+  "calories": 180,
+  "protein_g": 18,
+  "carbs_g": 3,
+  "fat_g": 10
+ },
+ {
+  "id": 188,
+  "name": "Sushi Roll, California",
+  "category": "Proteins",
+  "calories": 150,
+  "protein_g": 6,
+  "carbs_g": 24,
+  "fat_g": 3
+ },
+ {
+  "id": 189,
+  "name": "Sushi Roll, Spicy Tuna",
+  "category": "Proteins",
+  "calories": 170,
+  "protein_g": 8,
+  "carbs_g": 25,
+  "fat_g": 4
+ },
+ {
+  "id": 190,
+  "name": "Sushi Roll, Salmon Avocado",
+  "category": "Proteins",
+  "calories": 180,
+  "protein_g": 7,
+  "carbs_g": 26,
+  "fat_g": 5
+ },
+ {
+  "id": 191,
+  "name": "Poke Bowl, ahi tuna",
+  "category": "Proteins",
+  "calories": 150,
+  "protein_g": 20,
+  "carbs_g": 10,
+  "fat_g": 4
+ },
+ {
+  "id": 192,
+  "name": "Ceviche",
+  "category": "Proteins",
+  "calories": 120,
+  "protein_g": 20,
+  "carbs_g": 5,
+  "fat_g": 2
+ },
+ {
+  "id": 193,
+  "name": "Beef Stroganoff",
+  "category": "Proteins",
+  "calories": 170,
+  "protein_g": 15,
+  "carbs_g": 6,
+  "fat_g": 10
+ },
+ {
+  "id": 194,
+  "name": "Chicken Tikka Masala",
+  "category": "Proteins",
+  "calories": 160,
+  "protein_g": 15,
+  "carbs_g": 8,
+  "fat_g": 8
+ },
+ {
+  "id": 195,
+  "name": "Butter Chicken",
+  "category": "Proteins",
+  "calories": 180,
+  "protein_g": 16,
+  "carbs_g": 7,
+  "fat_g": 11
+ },
+ {
+  "id": 196,
+  "name": "Chicken Korma",
+  "category": "Proteins",
+  "calories": 170,
+  "protein_g": 14,
+  "carbs_g": 6,
+  "fat_g": 10
+ },
+ {
+  "id": 197,
+  "name": "Chicken Vindaloo",
+  "category": "Proteins",
+  "calories": 150,
+  "protein_g": 16,
+  "carbs_g": 5,
+  "fat_g": 8
+ },
+ {
+  "id": 198,
+  "name": "Chicken Madras",
+  "category": "Proteins",
+  "calories": 160,
+  "protein_g": 15,
+  "carbs_g": 6,
+  "fat_g": 9
+ },
+ {
+  "id": 199,
+  "name": "Beef Rendang",
+  "category": "Proteins",
+  "calories": 200,
+  "protein_g": 18,
+  "carbs_g": 5,
+  "fat_g": 13
+ },
+ {
+  "id": 200,
+  "name": "Lamb Rogan Josh",
+  "category": "Proteins",
+  "calories": 180,
+  "protein_g": 16,
+  "carbs_g": 6,
+  "fat_g": 11
+ },
+ {
+  "id": 201,
+  "name": "Rice, white, long-grain, cooked",
+  "category": "Grains",
+  "calories": 130,
+  "protein_g": 2.7,
+  "carbs_g": 28.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 202,
+  "name": "Rice, white, medium-grain, cooked",
+  "category": "Grains",
+  "calories": 130,
+  "protein_g": 2.4,
+  "carbs_g": 28.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 203,
+  "name": "Rice, white, short-grain, cooked",
+  "category": "Grains",
+  "calories": 130,
+  "protein_g": 2.4,
+  "carbs_g": 28.7,
+  "fat_g": 0.2
+ },
+ {
+  "id": 204,
+  "name": "Rice, brown, long-grain, cooked",
+  "category": "Grains",
+  "calories": 123,
+  "protein_g": 2.7,
+  "carbs_g": 25.6,
+  "fat_g": 1
+ },
+ {
+  "id": 205,
+  "name": "Rice, brown, medium-grain, cooked",
+  "category": "Grains",
+  "calories": 112,
+  "protein_g": 2.3,
+  "carbs_g": 23.5,
+  "fat_g": 0.8
+ },
+ {
+  "id": 206,
+  "name": "Rice, jasmine, cooked",
+  "category": "Grains",
+  "calories": 130,
+  "protein_g": 2.7,
+  "carbs_g": 28.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 207,
+  "name": "Rice, basmati, cooked",
+  "category": "Grains",
+  "calories": 121,
+  "protein_g": 3.5,
+  "carbs_g": 25,
+  "fat_g": 0.3
+ },
+ {
+  "id": 208,
+  "name": "Rice, wild, cooked",
+  "category": "Grains",
+  "calories": 101,
+  "protein_g": 4,
+  "carbs_g": 21.3,
+  "fat_g": 0.3
+ },
+ {
+  "id": 209,
+  "name": "Rice, black, cooked",
+  "category": "Grains",
+  "calories": 160,
+  "protein_g": 5,
+  "carbs_g": 32,
+  "fat_g": 1.5
+ },
+ {
+  "id": 210,
+  "name": "Rice, red, cooked",
+  "category": "Grains",
+  "calories": 140,
+  "protein_g": 4,
+  "carbs_g": 30,
+  "fat_g": 1
+ },
+ {
+  "id": 211,
+  "name": "Rice, sushi, cooked",
+  "category": "Grains",
+  "calories": 130,
+  "protein_g": 2.6,
+  "carbs_g": 28.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 212,
+  "name": "Rice, arborio, cooked",
+  "category": "Grains",
+  "calories": 130,
+  "protein_g": 2.4,
+  "carbs_g": 28.7,
+  "fat_g": 0.2
+ },
+ {
+  "id": 213,
+  "name": "Rice, sticky, cooked",
+  "category": "Grains",
+  "calories": 97,
+  "protein_g": 2,
+  "carbs_g": 21,
+  "fat_g": 0.2
+ },
+ {
+  "id": 214,
+  "name": "Rice, parboiled, cooked",
+  "category": "Grains",
+  "calories": 123,
+  "protein_g": 2.9,
+  "carbs_g": 26,
+  "fat_g": 0.4
+ },
+ {
+  "id": 215,
+  "name": "Rice, instant, cooked",
+  "category": "Grains",
+  "calories": 124,
+  "protein_g": 2.4,
+  "carbs_g": 26.8,
+  "fat_g": 0.2
+ },
+ {
+  "id": 216,
+  "name": "Quinoa, cooked",
+  "category": "Grains",
+  "calories": 120,
+  "protein_g": 4.4,
+  "carbs_g": 21.3,
+  "fat_g": 1.9
+ },
+ {
+  "id": 217,
+  "name": "Quinoa, red, cooked",
+  "category": "Grains",
+  "calories": 120,
+  "protein_g": 4.4,
+  "carbs_g": 21.3,
+  "fat_g": 1.9
+ },
+ {
+  "id": 218,
+  "name": "Quinoa, black, cooked",
+  "category": "Grains",
+  "calories": 120,
+  "protein_g": 4.4,
+  "carbs_g": 21.3,
+  "fat_g": 1.9
+ },
+ {
+  "id": 219,
+  "name": "Quinoa, tri-color, cooked",
+  "category": "Grains",
+  "calories": 120,
+  "protein_g": 4.4,
+  "carbs_g": 21.3,
+  "fat_g": 1.9
+ },
+ {
+  "id": 220,
+  "name": "Oats, rolled, cooked",
+  "category": "Grains",
+  "calories": 71,
+  "protein_g": 2.5,
+  "carbs_g": 12,
+  "fat_g": 1.5
+ },
+ {
+  "id": 221,
+  "name": "Oats, steel-cut, cooked",
+  "category": "Grains",
+  "calories": 71,
+  "protein_g": 2.5,
+  "carbs_g": 12,
+  "fat_g": 1.5
+ },
+ {
+  "id": 222,
+  "name": "Oats, instant, cooked",
+  "category": "Grains",
+  "calories": 68,
+  "protein_g": 2.4,
+  "carbs_g": 12,
+  "fat_g": 1.4
+ },
+ {
+  "id": 223,
+  "name": "Oatmeal, prepared with water",
+  "category": "Grains",
+  "calories": 68,
+  "protein_g": 2.4,
+  "carbs_g": 12,
+  "fat_g": 1.4
+ },
+ {
+  "id": 224,
+  "name": "Oatmeal, prepared with milk",
+  "category": "Grains",
+  "calories": 102,
+  "protein_g": 4.2,
+  "carbs_g": 12,
+  "fat_g": 3.6
+ },
+ {
+  "id": 225,
+  "name": "Cream of Wheat, cooked",
+  "category": "Grains",
+  "calories": 50,
+  "protein_g": 1.4,
+  "carbs_g": 10,
+  "fat_g": 0.2
+ },
+ {
+  "id": 226,
+  "name": "Grits, cooked",
+  "category": "Grains",
+  "calories": 71,
+  "protein_g": 1.6,
+  "carbs_g": 15,
+  "fat_g": 0.5
+ },
+ {
+  "id": 227,
+  "name": "Polenta, cooked",
+  "category": "Grains",
+  "calories": 70,
+  "protein_g": 1.6,
+  "carbs_g": 15,
+  "fat_g": 0.4
+ },
+ {
+  "id": 228,
+  "name": "Couscous, cooked",
+  "category": "Grains",
+  "calories": 112,
+  "protein_g": 3.8,
+  "carbs_g": 23.2,
+  "fat_g": 0.2
+ },
+ {
+  "id": 229,
+  "name": "Bulgur, cooked",
+  "category": "Grains",
+  "calories": 83,
+  "protein_g": 3.1,
+  "carbs_g": 18.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 230,
+  "name": "Barley, pearled, cooked",
+  "category": "Grains",
+  "calories": 123,
+  "protein_g": 2.3,
+  "carbs_g": 28.2,
+  "fat_g": 0.4
+ },
+ {
+  "id": 231,
+  "name": "Barley, hulled, cooked",
+  "category": "Grains",
+  "calories": 123,
+  "protein_g": 2.3,
+  "carbs_g": 28.2,
+  "fat_g": 0.4
+ },
+ {
+  "id": 232,
+  "name": "Farro, cooked",
+  "category": "Grains",
+  "calories": 130,
+  "protein_g": 5,
+  "carbs_g": 26,
+  "fat_g": 1
+ },
+ {
+  "id": 233,
+  "name": "Spelt, cooked",
+  "category": "Grains",
+  "calories": 127,
+  "protein_g": 5.5,
+  "carbs_g": 25,
+  "fat_g": 0.8
+ },
+ {
+  "id": 234,
+  "name": "Kamut, cooked",
+  "category": "Grains",
+  "calories": 132,
+  "protein_g": 5.7,
+  "carbs_g": 27,
+  "fat_g": 0.8
+ },
+ {
+  "id": 235,
+  "name": "Millet, cooked",
+  "category": "Grains",
+  "calories": 119,
+  "protein_g": 3.5,
+  "carbs_g": 23.7,
+  "fat_g": 1
+ },
+ {
+  "id": 236,
+  "name": "Amaranth, cooked",
+  "category": "Grains",
+  "calories": 102,
+  "protein_g": 3.8,
+  "carbs_g": 18.7,
+  "fat_g": 1.6
+ },
+ {
+  "id": 237,
+  "name": "Teff, cooked",
+  "category": "Grains",
+  "calories": 101,
+  "protein_g": 3.9,
+  "carbs_g": 19.9,
+  "fat_g": 0.6
+ },
+ {
+  "id": 238,
+  "name": "Sorghum, cooked",
+  "category": "Grains",
+  "calories": 110,
+  "protein_g": 3.3,
+  "carbs_g": 23,
+  "fat_g": 1
+ },
+ {
+  "id": 239,
+  "name": "Buckwheat, cooked",
+  "category": "Grains",
+  "calories": 92,
+  "protein_g": 3.4,
+  "carbs_g": 19.9,
+  "fat_g": 0.6
+ },
+ {
+  "id": 240,
+  "name": "Rye berries, cooked",
+  "category": "Grains",
+  "calories": 100,
+  "protein_g": 3,
+  "carbs_g": 22,
+  "fat_g": 0.5
+ },
+ {
+  "id": 241,
+  "name": "Wheat berries, cooked",
+  "category": "Grains",
+  "calories": 120,
+  "protein_g": 5,
+  "carbs_g": 25,
+  "fat_g": 0.5
+ },
+ {
+  "id": 242,
+  "name": "Freekeh, cooked",
+  "category": "Grains",
+  "calories": 120,
+  "protein_g": 4,
+  "carbs_g": 24,
+  "fat_g": 1
+ },
+ {
+  "id": 243,
+  "name": "Triticale, cooked",
+  "category": "Grains",
+  "calories": 110,
+  "protein_g": 4,
+  "carbs_g": 22,
+  "fat_g": 0.5
+ },
+ {
+  "id": 244,
+  "name": "Bread, white",
+  "category": "Grains",
+  "calories": 265,
+  "protein_g": 9,
+  "carbs_g": 49,
+  "fat_g": 3.2
+ },
+ {
+  "id": 245,
+  "name": "Bread, whole wheat",
+  "category": "Grains",
+  "calories": 247,
+  "protein_g": 13,
+  "carbs_g": 41,
+  "fat_g": 3.4
+ },
+ {
+  "id": 246,
+  "name": "Bread, sourdough",
+  "category": "Grains",
+  "calories": 289,
+  "protein_g": 11,
+  "carbs_g": 56,
+  "fat_g": 1.8
+ },
+ {
+  "id": 247,
+  "name": "Bread, rye",
+  "category": "Grains",
+  "calories": 259,
+  "protein_g": 8.5,
+  "carbs_g": 48,
+  "fat_g": 3.3
+ },
+ {
+  "id": 248,
+  "name": "Bread, pumpernickel",
+  "category": "Grains",
+  "calories": 250,
+  "protein_g": 8,
+  "carbs_g": 46,
+  "fat_g": 3
+ },
+ {
+  "id": 249,
+  "name": "Bread, multigrain",
+  "category": "Grains",
+  "calories": 265,
+  "protein_g": 13,
+  "carbs_g": 43,
+  "fat_g": 4.2
+ },
+ {
+  "id": 250,
+  "name": "Bread, oatmeal",
+  "category": "Grains",
+  "calories": 269,
+  "protein_g": 10,
+  "carbs_g": 48,
+  "fat_g": 4
+ },
+ {
+  "id": 251,
+  "name": "Bread, Ezekiel",
+  "category": "Grains",
+  "calories": 240,
+  "protein_g": 13,
+  "carbs_g": 42,
+  "fat_g": 3
+ },
+ {
+  "id": 252,
+  "name": "Bread, gluten-free",
+  "category": "Grains",
+  "calories": 240,
+  "protein_g": 4,
+  "carbs_g": 44,
+  "fat_g": 6
+ },
+ {
+  "id": 253,
+  "name": "Bread, ciabatta",
+  "category": "Grains",
+  "calories": 271,
+  "protein_g": 9,
+  "carbs_g": 50,
+  "fat_g": 3.5
+ },
+ {
+  "id": 254,
+  "name": "Bread, baguette",
+  "category": "Grains",
+  "calories": 272,
+  "protein_g": 9,
+  "carbs_g": 56,
+  "fat_g": 1.8
+ },
+ {
+  "id": 255,
+  "name": "Bread, focaccia",
+  "category": "Grains",
+  "calories": 250,
+  "protein_g": 8,
+  "carbs_g": 40,
+  "fat_g": 6
+ },
+ {
+  "id": 256,
+  "name": "Bread, naan",
+  "category": "Grains",
+  "calories": 310,
+  "protein_g": 9,
+  "carbs_g": 50,
+  "fat_g": 8
+ },
+ {
+  "id": 257,
+  "name": "Bread, pita",
+  "category": "Grains",
+  "calories": 275,
+  "protein_g": 9,
+  "carbs_g": 56,
+  "fat_g": 1.2
+ },
+ {
+  "id": 258,
+  "name": "Bread, tortilla, flour",
+  "category": "Grains",
+  "calories": 304,
+  "protein_g": 8,
+  "carbs_g": 50,
+  "fat_g": 8
+ },
+ {
+  "id": 259,
+  "name": "Bread, tortilla, corn",
+  "category": "Grains",
+  "calories": 218,
+  "protein_g": 5.7,
+  "carbs_g": 44.6,
+  "fat_g": 2.8
+ },
+ {
+  "id": 260,
+  "name": "Bread, English muffin",
+  "category": "Grains",
+  "calories": 227,
+  "protein_g": 8,
+  "carbs_g": 44,
+  "fat_g": 2
+ },
+ {
+  "id": 261,
+  "name": "Bread, bagel",
+  "category": "Grains",
+  "calories": 257,
+  "protein_g": 10,
+  "carbs_g": 50,
+  "fat_g": 1.5
+ },
+ {
+  "id": 262,
+  "name": "Bread, croissant",
+  "category": "Grains",
+  "calories": 406,
+  "protein_g": 8.2,
+  "carbs_g": 45.8,
+  "fat_g": 21
+ },
+ {
+  "id": 263,
+  "name": "Bread, brioche",
+  "category": "Grains",
+  "calories": 331,
+  "protein_g": 8,
+  "carbs_g": 47,
+  "fat_g": 11
+ },
+ {
+  "id": 264,
+  "name": "Bread, challah",
+  "category": "Grains",
+  "calories": 283,
+  "protein_g": 9,
+  "carbs_g": 50,
+  "fat_g": 6
+ },
+ {
+  "id": 265,
+  "name": "Bread, potato",
+  "category": "Grains",
+  "calories": 266,
+  "protein_g": 12,
+  "carbs_g": 47,
+  "fat_g": 3.5
+ },
+ {
+  "id": 266,
+  "name": "Bread, banana",
+  "category": "Grains",
+  "calories": 326,
+  "protein_g": 5,
+  "carbs_g": 60,
+  "fat_g": 11
+ },
+ {
+  "id": 267,
+  "name": "Bread, zucchini",
+  "category": "Grains",
+  "calories": 313,
+  "protein_g": 5,
+  "carbs_g": 55,
+  "fat_g": 10
+ },
+ {
+  "id": 268,
+  "name": "Bread, pumpkin",
+  "category": "Grains",
+  "calories": 276,
+  "protein_g": 6,
+  "carbs_g": 50,
+  "fat_g": 7
+ },
+ {
+  "id": 269,
+  "name": "Bread, carrot",
+  "category": "Grains",
+  "calories": 302,
+  "protein_g": 6,
+  "carbs_g": 55,
+  "fat_g": 8
+ },
+ {
+  "id": 270,
+  "name": "Bread, cranberry walnut",
+  "category": "Grains",
+  "calories": 320,
+  "protein_g": 8,
+  "carbs_g": 55,
+  "fat_g": 8
+ },
+ {
+  "id": 271,
+  "name": "Pasta, spaghetti, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 272,
+  "name": "Pasta, penne, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 273,
+  "name": "Pasta, fettuccine, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 274,
+  "name": "Pasta, macaroni, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 275,
+  "name": "Pasta, linguine, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 276,
+  "name": "Pasta, rigatoni, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 277,
+  "name": "Pasta, rotini, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 278,
+  "name": "Pasta, farfalle, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 279,
+  "name": "Pasta, whole wheat, cooked",
+  "category": "Grains",
+  "calories": 149,
+  "protein_g": 6.5,
+  "carbs_g": 26.5,
+  "fat_g": 1.1
+ },
+ {
+  "id": 280,
+  "name": "Pasta, gluten-free, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 3,
+  "carbs_g": 32,
+  "fat_g": 1
+ },
+ {
+  "id": 281,
+  "name": "Pasta, egg noodles, cooked",
+  "category": "Grains",
+  "calories": 138,
+  "protein_g": 4.5,
+  "carbs_g": 25.2,
+  "fat_g": 2.1
+ },
+ {
+  "id": 282,
+  "name": "Pasta, rice noodles, cooked",
+  "category": "Grains",
+  "calories": 108,
+  "protein_g": 1.8,
+  "carbs_g": 24,
+  "fat_g": 0.2
+ },
+ {
+  "id": 283,
+  "name": "Pasta, soba, cooked",
+  "category": "Grains",
+  "calories": 99,
+  "protein_g": 5.1,
+  "carbs_g": 21,
+  "fat_g": 0.1
+ },
+ {
+  "id": 284,
+  "name": "Pasta, udon, cooked",
+  "category": "Grains",
+  "calories": 127,
+  "protein_g": 3.8,
+  "carbs_g": 26,
+  "fat_g": 0.4
+ },
+ {
+  "id": 285,
+  "name": "Pasta, ramen, cooked",
+  "category": "Grains",
+  "calories": 138,
+  "protein_g": 4.5,
+  "carbs_g": 25,
+  "fat_g": 2
+ },
+ {
+  "id": 286,
+  "name": "Pasta, lasagna, cooked",
+  "category": "Grains",
+  "calories": 162,
+  "protein_g": 8,
+  "carbs_g": 25,
+  "fat_g": 4
+ },
+ {
+  "id": 287,
+  "name": "Pasta, ravioli, cheese, cooked",
+  "category": "Grains",
+  "calories": 180,
+  "protein_g": 9,
+  "carbs_g": 25,
+  "fat_g": 5
+ },
+ {
+  "id": 288,
+  "name": "Pasta, tortellini, cheese, cooked",
+  "category": "Grains",
+  "calories": 190,
+  "protein_g": 10,
+  "carbs_g": 28,
+  "fat_g": 5
+ },
+ {
+  "id": 289,
+  "name": "Pasta, gnocchi, cooked",
+  "category": "Grains",
+  "calories": 160,
+  "protein_g": 4,
+  "carbs_g": 30,
+  "fat_g": 2
+ },
+ {
+  "id": 290,
+  "name": "Pasta, orzo, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 291,
+  "name": "Pasta, angel hair, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 292,
+  "name": "Pasta, capellini, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 293,
+  "name": "Pasta, vermicelli, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 294,
+  "name": "Pasta, bucatini, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 295,
+  "name": "Pasta, ziti, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 296,
+  "name": "Pasta, mostaccioli, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 297,
+  "name": "Pasta, manicotti, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 298,
+  "name": "Pasta, cannelloni, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 299,
+  "name": "Pasta, tagliatelle, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 300,
+  "name": "Pasta, pappardelle, cooked",
+  "category": "Grains",
+  "calories": 158,
+  "protein_g": 5.8,
+  "carbs_g": 30.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 301,
+  "name": "Cereal, corn flakes",
+  "category": "Grains",
+  "calories": 357,
+  "protein_g": 7.5,
+  "carbs_g": 84,
+  "fat_g": 0.4
+ },
+ {
+  "id": 302,
+  "name": "Cereal, cheerios",
+  "category": "Grains",
+  "calories": 371,
+  "protein_g": 12,
+  "carbs_g": 73,
+  "fat_g": 6
+ },
+ {
+  "id": 303,
+  "name": "Cereal, frosted flakes",
+  "category": "Grains",
+  "calories": 369,
+  "protein_g": 4,
+  "carbs_g": 88,
+  "fat_g": 0.5
+ },
+ {
+  "id": 304,
+  "name": "Cereal, rice krispies",
+  "category": "Grains",
+  "calories": 381,
+  "protein_g": 7,
+  "carbs_g": 85,
+  "fat_g": 0.5
+ },
+ {
+  "id": 305,
+  "name": "Cereal, honey nut cheerios",
+  "category": "Grains",
+  "calories": 376,
+  "protein_g": 9,
+  "carbs_g": 79,
+  "fat_g": 5
+ },
+ {
+  "id": 306,
+  "name": "Cereal, raisin bran",
+  "category": "Grains",
+  "calories": 321,
+  "protein_g": 9,
+  "carbs_g": 77,
+  "fat_g": 2
+ },
+ {
+  "id": 307,
+  "name": "Cereal, granola",
+  "category": "Grains",
+  "calories": 471,
+  "protein_g": 10,
+  "carbs_g": 64,
+  "fat_g": 20
+ },
+ {
+  "id": 308,
+  "name": "Cereal, muesli",
+  "category": "Grains",
+  "calories": 340,
+  "protein_g": 10,
+  "carbs_g": 60,
+  "fat_g": 8
+ },
+ {
+  "id": 309,
+  "name": "Cereal, oat bran",
+  "category": "Grains",
+  "calories": 246,
+  "protein_g": 17,
+  "carbs_g": 66,
+  "fat_g": 7
+ },
+ {
+  "id": 310,
+  "name": "Cereal, wheat bran",
+  "category": "Grains",
+  "calories": 216,
+  "protein_g": 15,
+  "carbs_g": 65,
+  "fat_g": 4
+ },
+ {
+  "id": 311,
+  "name": "Cereal, shredded wheat",
+  "category": "Grains",
+  "calories": 332,
+  "protein_g": 11,
+  "carbs_g": 80,
+  "fat_g": 2
+ },
+ {
+  "id": 312,
+  "name": "Cereal, special k",
+  "category": "Grains",
+  "calories": 377,
+  "protein_g": 15,
+  "carbs_g": 74,
+  "fat_g": 1
+ },
+ {
+  "id": 313,
+  "name": "Cereal, fiber one",
+  "category": "Grains",
+  "calories": 200,
+  "protein_g": 6,
+  "carbs_g": 80,
+  "fat_g": 3
+ },
+ {
+  "id": 314,
+  "name": "Cereal, all bran",
+  "category": "Grains",
+  "calories": 260,
+  "protein_g": 12,
+  "carbs_g": 74,
+  "fat_g": 3
+ },
+ {
+  "id": 315,
+  "name": "Cereal, grape nuts",
+  "category": "Grains",
+  "calories": 360,
+  "protein_g": 10,
+  "carbs_g": 84,
+  "fat_g": 2
+ },
+ {
+  "id": 316,
+  "name": "Cereal, wheaties",
+  "category": "Grains",
+  "calories": 353,
+  "protein_g": 11,
+  "carbs_g": 83,
+  "fat_g": 2
+ },
+ {
+  "id": 317,
+  "name": "Cereal, total",
+  "category": "Grains",
+  "calories": 373,
+  "protein_g": 12,
+  "carbs_g": 78,
+  "fat_g": 2
+ },
+ {
+  "id": 318,
+  "name": "Cereal, lucky charms",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 7,
+  "carbs_g": 84,
+  "fat_g": 4
+ },
+ {
+  "id": 319,
+  "name": "Cereal, cocoa puffs",
+  "category": "Grains",
+  "calories": 383,
+  "protein_g": 5,
+  "carbs_g": 86,
+  "fat_g": 3
+ },
+ {
+  "id": 320,
+  "name": "Cereal, fruity pebbles",
+  "category": "Grains",
+  "calories": 383,
+  "protein_g": 4,
+  "carbs_g": 88,
+  "fat_g": 2
+ },
+ {
+  "id": 321,
+  "name": "Cereal, cap'n crunch",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 5,
+  "carbs_g": 85,
+  "fat_g": 3
+ },
+ {
+  "id": 322,
+  "name": "Cereal, apple jacks",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 4,
+  "carbs_g": 88,
+  "fat_g": 3
+ },
+ {
+  "id": 323,
+  "name": "Cereal, honey bunches of oats",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 7,
+  "carbs_g": 81,
+  "fat_g": 5
+ },
+ {
+  "id": 324,
+  "name": "Cereal, cinnamon toast crunch",
+  "category": "Grains",
+  "calories": 431,
+  "protein_g": 5,
+  "carbs_g": 83,
+  "fat_g": 10
+ },
+ {
+  "id": 325,
+  "name": "Cereal, Reese's puffs",
+  "category": "Grains",
+  "calories": 417,
+  "protein_g": 7,
+  "carbs_g": 75,
+  "fat_g": 12
+ },
+ {
+  "id": 326,
+  "name": "Cereal, trix",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 4,
+  "carbs_g": 88,
+  "fat_g": 2
+ },
+ {
+  "id": 327,
+  "name": "Cereal, cookie crisp",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 5,
+  "carbs_g": 85,
+  "fat_g": 3
+ },
+ {
+  "id": 328,
+  "name": "Cereal, golden grahams",
+  "category": "Grains",
+  "calories": 374,
+  "protein_g": 6,
+  "carbs_g": 85,
+  "fat_g": 3
+ },
+ {
+  "id": 329,
+  "name": "Cereal, life cereal",
+  "category": "Grains",
+  "calories": 353,
+  "protein_g": 10,
+  "carbs_g": 76,
+  "fat_g": 2
+ },
+ {
+  "id": 330,
+  "name": "Cereal, kix",
+  "category": "Grains",
+  "calories": 357,
+  "protein_g": 7,
+  "carbs_g": 82,
+  "fat_g": 1
+ },
+ {
+  "id": 331,
+  "name": "Cereal, puffed rice",
+  "category": "Grains",
+  "calories": 383,
+  "protein_g": 7,
+  "carbs_g": 87,
+  "fat_g": 0.5
+ },
+ {
+  "id": 332,
+  "name": "Cereal, puffed wheat",
+  "category": "Grains",
+  "calories": 367,
+  "protein_g": 16,
+  "carbs_g": 76,
+  "fat_g": 1
+ },
+ {
+  "id": 333,
+  "name": "Cereal, corn chex",
+  "category": "Grains",
+  "calories": 370,
+  "protein_g": 6,
+  "carbs_g": 85,
+  "fat_g": 1
+ },
+ {
+  "id": 334,
+  "name": "Cereal, rice chex",
+  "category": "Grains",
+  "calories": 376,
+  "protein_g": 6,
+  "carbs_g": 86,
+  "fat_g": 0.5
+ },
+ {
+  "id": 335,
+  "name": "Cereal, wheat chex",
+  "category": "Grains",
+  "calories": 375,
+  "protein_g": 10,
+  "carbs_g": 83,
+  "fat_g": 1
+ },
+ {
+  "id": 336,
+  "name": "Cereal, multigrain chex",
+  "category": "Grains",
+  "calories": 380,
+  "protein_g": 8,
+  "carbs_g": 84,
+  "fat_g": 1
+ },
+ {
+  "id": 337,
+  "name": "Cereal, corn pops",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 4,
+  "carbs_g": 88,
+  "fat_g": 0.5
+ },
+ {
+  "id": 338,
+  "name": "Cereal, honey smacks",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 5,
+  "carbs_g": 86,
+  "fat_g": 1
+ },
+ {
+  "id": 339,
+  "name": "Cereal, fruit loops",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 4,
+  "carbs_g": 88,
+  "fat_g": 2
+ },
+ {
+  "id": 340,
+  "name": "Cereal, frosted mini wheats",
+  "category": "Grains",
+  "calories": 353,
+  "protein_g": 10,
+  "carbs_g": 83,
+  "fat_g": 1
+ },
+ {
+  "id": 341,
+  "name": "Cereal, raisin bran crunch",
+  "category": "Grains",
+  "calories": 360,
+  "protein_g": 8,
+  "carbs_g": 82,
+  "fat_g": 2
+ },
+ {
+  "id": 342,
+  "name": "Cereal, honey clusters",
+  "category": "Grains",
+  "calories": 380,
+  "protein_g": 8,
+  "carbs_g": 80,
+  "fat_g": 4
+ },
+ {
+  "id": 343,
+  "name": "Cereal, vanilla clusters",
+  "category": "Grains",
+  "calories": 375,
+  "protein_g": 7,
+  "carbs_g": 82,
+  "fat_g": 3
+ },
+ {
+  "id": 344,
+  "name": "Cereal, chocolate clusters",
+  "category": "Grains",
+  "calories": 385,
+  "protein_g": 7,
+  "carbs_g": 78,
+  "fat_g": 5
+ },
+ {
+  "id": 345,
+  "name": "Cereal, berry clusters",
+  "category": "Grains",
+  "calories": 378,
+  "protein_g": 7,
+  "carbs_g": 81,
+  "fat_g": 3.5
+ },
+ {
+  "id": 346,
+  "name": "Cereal, peanut butter clusters",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 9,
+  "carbs_g": 76,
+  "fat_g": 6
+ },
+ {
+  "id": 347,
+  "name": "Cereal, honey bunches of oats, almond",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 8,
+  "carbs_g": 79,
+  "fat_g": 5.5
+ },
+ {
+  "id": 348,
+  "name": "Cereal, honey bunches of oats, chocolate",
+  "category": "Grains",
+  "calories": 395,
+  "protein_g": 7,
+  "carbs_g": 78,
+  "fat_g": 6.5
+ },
+ {
+  "id": 349,
+  "name": "Cereal, honey bunches of oats, strawberry",
+  "category": "Grains",
+  "calories": 385,
+  "protein_g": 7,
+  "carbs_g": 80,
+  "fat_g": 5
+ },
+ {
+  "id": 350,
+  "name": "Cereal, honey bunches of oats, vanilla",
+  "category": "Grains",
+  "calories": 385,
+  "protein_g": 7,
+  "carbs_g": 80,
+  "fat_g": 5
+ },
+ {
+  "id": 351,
+  "name": "Cereal, honey bunches of oats, banana",
+  "category": "Grains",
+  "calories": 388,
+  "protein_g": 7,
+  "carbs_g": 81,
+  "fat_g": 5
+ },
+ {
+  "id": 352,
+  "name": "Cereal, honey bunches of oats, blueberry",
+  "category": "Grains",
+  "calories": 386,
+  "protein_g": 7,
+  "carbs_g": 80,
+  "fat_g": 5
+ },
+ {
+  "id": 353,
+  "name": "Cereal, honey bunches of oats, raspberry",
+  "category": "Grains",
+  "calories": 386,
+  "protein_g": 7,
+  "carbs_g": 80,
+  "fat_g": 5
+ },
+ {
+  "id": 354,
+  "name": "Cereal, honey bunches of oats, peach",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 7,
+  "carbs_g": 81,
+  "fat_g": 5
+ },
+ {
+  "id": 355,
+  "name": "Cereal, honey bunches of oats, mango",
+  "category": "Grains",
+  "calories": 388,
+  "protein_g": 7,
+  "carbs_g": 81,
+  "fat_g": 5
+ },
+ {
+  "id": 356,
+  "name": "Cereal, honey bunches of oats, coconut",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 7,
+  "carbs_g": 79,
+  "fat_g": 6
+ },
+ {
+  "id": 357,
+  "name": "Cereal, honey bunches of oats, almond butter",
+  "category": "Grains",
+  "calories": 392,
+  "protein_g": 9,
+  "carbs_g": 75,
+  "fat_g": 7
+ },
+ {
+  "id": 358,
+  "name": "Cereal, honey bunches of oats, cashew",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 8,
+  "carbs_g": 77,
+  "fat_g": 6
+ },
+ {
+  "id": 359,
+  "name": "Cereal, honey bunches of oats, pecan",
+  "category": "Grains",
+  "calories": 392,
+  "protein_g": 8,
+  "carbs_g": 76,
+  "fat_g": 6.5
+ },
+ {
+  "id": 360,
+  "name": "Cereal, honey bunches of oats, walnut",
+  "category": "Grains",
+  "calories": 392,
+  "protein_g": 8,
+  "carbs_g": 76,
+  "fat_g": 6.5
+ },
+ {
+  "id": 361,
+  "name": "Cereal, honey bunches of oats, hazelnut",
+  "category": "Grains",
+  "calories": 391,
+  "protein_g": 8,
+  "carbs_g": 77,
+  "fat_g": 6
+ },
+ {
+  "id": 362,
+  "name": "Cereal, honey bunches of oats, macadamia",
+  "category": "Grains",
+  "calories": 393,
+  "protein_g": 8,
+  "carbs_g": 76,
+  "fat_g": 7
+ },
+ {
+  "id": 363,
+  "name": "Cereal, honey bunches of oats, pistachio",
+  "category": "Grains",
+  "calories": 391,
+  "protein_g": 8,
+  "carbs_g": 77,
+  "fat_g": 6
+ },
+ {
+  "id": 364,
+  "name": "Cereal, honey bunches of oats, peanut",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 9,
+  "carbs_g": 75,
+  "fat_g": 6.5
+ },
+ {
+  "id": 365,
+  "name": "Cereal, honey bunches of oats, mixed nuts",
+  "category": "Grains",
+  "calories": 391,
+  "protein_g": 8,
+  "carbs_g": 76,
+  "fat_g": 6.5
+ },
+ {
+  "id": 366,
+  "name": "Cereal, honey bunches of oats, chocolate almond",
+  "category": "Grains",
+  "calories": 393,
+  "protein_g": 8,
+  "carbs_g": 77,
+  "fat_g": 6
+ },
+ {
+  "id": 367,
+  "name": "Cereal, honey bunches of oats, chocolate peanut butter",
+  "category": "Grains",
+  "calories": 395,
+  "protein_g": 9,
+  "carbs_g": 74,
+  "fat_g": 7
+ },
+ {
+  "id": 368,
+  "name": "Cereal, honey bunches of oats, chocolate hazelnut",
+  "category": "Grains",
+  "calories": 394,
+  "protein_g": 8,
+  "carbs_g": 76,
+  "fat_g": 6.5
+ },
+ {
+  "id": 369,
+  "name": "Cereal, honey bunches of oats, chocolate coconut",
+  "category": "Grains",
+  "calories": 392,
+  "protein_g": 7,
+  "carbs_g": 78,
+  "fat_g": 6
+ },
+ {
+  "id": 370,
+  "name": "Cereal, honey bunches of oats, chocolate cherry",
+  "category": "Grains",
+  "calories": 391,
+  "protein_g": 7,
+  "carbs_g": 79,
+  "fat_g": 5.5
+ },
+ {
+  "id": 371,
+  "name": "Cereal, honey bunches of oats, chocolate raspberry",
+  "category": "Grains",
+  "calories": 391,
+  "protein_g": 7,
+  "carbs_g": 79,
+  "fat_g": 5.5
+ },
+ {
+  "id": 372,
+  "name": "Cereal, honey bunches of oats, chocolate strawberry",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 7,
+  "carbs_g": 80,
+  "fat_g": 5
+ },
+ {
+  "id": 373,
+  "name": "Cereal, honey bunches of oats, chocolate banana",
+  "category": "Grains",
+  "calories": 391,
+  "protein_g": 7,
+  "carbs_g": 81,
+  "fat_g": 5
+ },
+ {
+  "id": 374,
+  "name": "Cereal, honey bunches of oats, chocolate blueberry",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 7,
+  "carbs_g": 80,
+  "fat_g": 5
+ },
+ {
+  "id": 375,
+  "name": "Cereal, honey bunches of oats, chocolate mango",
+  "category": "Grains",
+  "calories": 391,
+  "protein_g": 7,
+  "carbs_g": 81,
+  "fat_g": 5
+ },
+ {
+  "id": 376,
+  "name": "Cereal, honey bunches of oats, chocolate peach",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 7,
+  "carbs_g": 80,
+  "fat_g": 5
+ },
+ {
+  "id": 377,
+  "name": "Crackers, saltine",
+  "category": "Grains",
+  "calories": 421,
+  "protein_g": 9,
+  "carbs_g": 74,
+  "fat_g": 10
+ },
+ {
+  "id": 378,
+  "name": "Crackers, whole wheat",
+  "category": "Grains",
+  "calories": 433,
+  "protein_g": 11,
+  "carbs_g": 68,
+  "fat_g": 14
+ },
+ {
+  "id": 379,
+  "name": "Crackers, ritz",
+  "category": "Grains",
+  "calories": 480,
+  "protein_g": 7,
+  "carbs_g": 63,
+  "fat_g": 23
+ },
+ {
+  "id": 380,
+  "name": "Crackers, wheat thins",
+  "category": "Grains",
+  "calories": 441,
+  "protein_g": 9,
+  "carbs_g": 68,
+  "fat_g": 15
+ },
+ {
+  "id": 381,
+  "name": "Crackers, triscuit",
+  "category": "Grains",
+  "calories": 437,
+  "protein_g": 11,
+  "carbs_g": 69,
+  "fat_g": 14
+ },
+ {
+  "id": 382,
+  "name": "Crackers, graham",
+  "category": "Grains",
+  "calories": 430,
+  "protein_g": 7,
+  "carbs_g": 76,
+  "fat_g": 10
+ },
+ {
+  "id": 383,
+  "name": "Crackers, animal",
+  "category": "Grains",
+  "calories": 446,
+  "protein_g": 7,
+  "carbs_g": 73,
+  "fat_g": 14
+ },
+ {
+  "id": 384,
+  "name": "Crackers, cheese",
+  "category": "Grains",
+  "calories": 504,
+  "protein_g": 9,
+  "carbs_g": 59,
+  "fat_g": 25
+ },
+ {
+  "id": 385,
+  "name": "Crackers, peanut butter filled",
+  "category": "Grains",
+  "calories": 497,
+  "protein_g": 10,
+  "carbs_g": 58,
+  "fat_g": 25
+ },
+ {
+  "id": 386,
+  "name": "Crackers, matzo",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 10,
+  "carbs_g": 80,
+  "fat_g": 1.5
+ },
+ {
+  "id": 387,
+  "name": "Crackers, rice",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 7,
+  "carbs_g": 82,
+  "fat_g": 1
+ },
+ {
+  "id": 388,
+  "name": "Crackers, melba toast",
+  "category": "Grains",
+  "calories": 390,
+  "protein_g": 12,
+  "carbs_g": 78,
+  "fat_g": 2
+ },
+ {
+  "id": 389,
+  "name": "Crackers, bagel chips",
+  "category": "Grains",
+  "calories": 453,
+  "protein_g": 12,
+  "carbs_g": 72,
+  "fat_g": 13
+ },
+ {
+  "id": 390,
+  "name": "Crackers, pita chips",
+  "category": "Grains",
+  "calories": 457,
+  "protein_g": 12,
+  "carbs_g": 68,
+  "fat_g": 15
+ },
+ {
+  "id": 391,
+  "name": "Crackers, pretzel",
+  "category": "Grains",
+  "calories": 380,
+  "protein_g": 10,
+  "carbs_g": 79,
+  "fat_g": 3
+ },
+ {
+  "id": 392,
+  "name": "Crackers, goldfish",
+  "category": "Grains",
+  "calories": 469,
+  "protein_g": 10,
+  "carbs_g": 62,
+  "fat_g": 18
+ },
+ {
+  "id": 393,
+  "name": "Crackers, cheez-it",
+  "category": "Grains",
+  "calories": 512,
+  "protein_g": 9,
+  "carbs_g": 57,
+  "fat_g": 27
+ },
+ {
+  "id": 394,
+  "name": "Crackers, chex mix",
+  "category": "Grains",
+  "calories": 457,
+  "protein_g": 11,
+  "carbs_g": 69,
+  "fat_g": 16
+ },
+ {
+  "id": 395,
+  "name": "Crackers, snack mix",
+  "category": "Grains",
+  "calories": 480,
+  "protein_g": 10,
+  "carbs_g": 65,
+  "fat_g": 20
+ },
+ {
+  "id": 396,
+  "name": "Crackers, tortilla chips",
+  "category": "Grains",
+  "calories": 497,
+  "protein_g": 7,
+  "carbs_g": 63,
+  "fat_g": 24
+ },
+ {
+  "id": 397,
+  "name": "Crackers, corn chips",
+  "category": "Grains",
+  "calories": 536,
+  "protein_g": 7,
+  "carbs_g": 57,
+  "fat_g": 33
+ },
+ {
+  "id": 398,
+  "name": "Crackers, potato chips",
+  "category": "Grains",
+  "calories": 536,
+  "protein_g": 7,
+  "carbs_g": 53,
+  "fat_g": 35
+ },
+ {
+  "id": 399,
+  "name": "Crackers, popcorn, air-popped",
+  "category": "Grains",
+  "calories": 387,
+  "protein_g": 13,
+  "carbs_g": 78,
+  "fat_g": 4.5
+ },
+ {
+  "id": 400,
+  "name": "Crackers, popcorn, buttered",
+  "category": "Grains",
+  "calories": 501,
+  "protein_g": 9,
+  "carbs_g": 61,
+  "fat_g": 28
+ },
+ {
+  "id": 401,
+  "name": "Apple, raw, with skin",
+  "category": "Fruits",
+  "calories": 52,
+  "protein_g": 0.3,
+  "carbs_g": 13.8,
+  "fat_g": 0.2
+ },
+ {
+  "id": 402,
+  "name": "Apple, raw, without skin",
+  "category": "Fruits",
+  "calories": 48,
+  "protein_g": 0.2,
+  "carbs_g": 12.8,
+  "fat_g": 0.2
+ },
+ {
+  "id": 403,
+  "name": "Apple, dried",
+  "category": "Fruits",
+  "calories": 243,
+  "protein_g": 0.9,
+  "carbs_g": 65.9,
+  "fat_g": 0.3
+ },
+ {
+  "id": 404,
+  "name": "Apple, baked",
+  "category": "Fruits",
+  "calories": 56,
+  "protein_g": 0.3,
+  "carbs_g": 14.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 405,
+  "name": "Applesauce, unsweetened",
+  "category": "Fruits",
+  "calories": 42,
+  "protein_g": 0.2,
+  "carbs_g": 11.3,
+  "fat_g": 0.1
+ },
+ {
+  "id": 406,
+  "name": "Applesauce, sweetened",
+  "category": "Fruits",
+  "calories": 68,
+  "protein_g": 0.2,
+  "carbs_g": 17.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 407,
+  "name": "Banana, raw",
+  "category": "Fruits",
+  "calories": 89,
+  "protein_g": 1.1,
+  "carbs_g": 22.8,
+  "fat_g": 0.3
+ },
+ {
+  "id": 408,
+  "name": "Banana, dried",
+  "category": "Fruits",
+  "calories": 346,
+  "protein_g": 3.9,
+  "carbs_g": 88.3,
+  "fat_g": 1.8
+ },
+ {
+  "id": 409,
+  "name": "Banana, fried",
+  "category": "Fruits",
+  "calories": 147,
+  "protein_g": 1.3,
+  "carbs_g": 28,
+  "fat_g": 4
+ },
+ {
+  "id": 410,
+  "name": "Orange, raw",
+  "category": "Fruits",
+  "calories": 47,
+  "protein_g": 0.9,
+  "carbs_g": 11.8,
+  "fat_g": 0.1
+ },
+ {
+  "id": 411,
+  "name": "Orange, mandarin, canned",
+  "category": "Fruits",
+  "calories": 37,
+  "protein_g": 0.6,
+  "carbs_g": 9.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 412,
+  "name": "Orange, navel",
+  "category": "Fruits",
+  "calories": 49,
+  "protein_g": 0.9,
+  "carbs_g": 12.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 413,
+  "name": "Orange, blood",
+  "category": "Fruits",
+  "calories": 50,
+  "protein_g": 1,
+  "carbs_g": 12,
+  "fat_g": 0.1
+ },
+ {
+  "id": 414,
+  "name": "Orange, Valencia",
+  "category": "Fruits",
+  "calories": 49,
+  "protein_g": 0.9,
+  "carbs_g": 12.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 415,
+  "name": "Grapefruit, raw",
+  "category": "Fruits",
+  "calories": 42,
+  "protein_g": 0.8,
+  "carbs_g": 10.7,
+  "fat_g": 0.1
+ },
+ {
+  "id": 416,
+  "name": "Grapefruit, ruby red",
+  "category": "Fruits",
+  "calories": 42,
+  "protein_g": 0.8,
+  "carbs_g": 10.7,
+  "fat_g": 0.1
+ },
+ {
+  "id": 417,
+  "name": "Grapefruit, white",
+  "category": "Fruits",
+  "calories": 33,
+  "protein_g": 0.7,
+  "carbs_g": 8.4,
+  "fat_g": 0.1
+ },
+ {
+  "id": 418,
+  "name": "Lemon, raw",
+  "category": "Fruits",
+  "calories": 29,
+  "protein_g": 1.1,
+  "carbs_g": 9.3,
+  "fat_g": 0.3
+ },
+ {
+  "id": 419,
+  "name": "Lime, raw",
+  "category": "Fruits",
+  "calories": 30,
+  "protein_g": 0.7,
+  "carbs_g": 10.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 420,
+  "name": "Grapes, green, raw",
+  "category": "Fruits",
+  "calories": 69,
+  "protein_g": 0.7,
+  "carbs_g": 18.1,
+  "fat_g": 0.2
+ },
+ {
+  "id": 421,
+  "name": "Grapes, red, raw",
+  "category": "Fruits",
+  "calories": 69,
+  "protein_g": 0.7,
+  "carbs_g": 18.1,
+  "fat_g": 0.2
+ },
+ {
+  "id": 422,
+  "name": "Grapes, black, raw",
+  "category": "Fruits",
+  "calories": 69,
+  "protein_g": 0.7,
+  "carbs_g": 18.1,
+  "fat_g": 0.2
+ },
+ {
+  "id": 423,
+  "name": "Raisins",
+  "category": "Fruits",
+  "calories": 299,
+  "protein_g": 3.1,
+  "carbs_g": 79.2,
+  "fat_g": 0.5
+ },
+ {
+  "id": 424,
+  "name": "Currants, dried",
+  "category": "Fruits",
+  "calories": 283,
+  "protein_g": 4.1,
+  "carbs_g": 74,
+  "fat_g": 0.5
+ },
+ {
+  "id": 425,
+  "name": "Strawberries, raw",
+  "category": "Fruits",
+  "calories": 32,
+  "protein_g": 0.7,
+  "carbs_g": 7.7,
+  "fat_g": 0.3
+ },
+ {
+  "id": 426,
+  "name": "Strawberries, frozen",
+  "category": "Fruits",
+  "calories": 35,
+  "protein_g": 1,
+  "carbs_g": 8,
+  "fat_g": 0.2
+ },
+ {
+  "id": 427,
+  "name": "Strawberries, dried",
+  "category": "Fruits",
+  "calories": 350,
+  "protein_g": 3,
+  "carbs_g": 85,
+  "fat_g": 1
+ },
+ {
+  "id": 428,
+  "name": "Blueberries, raw",
+  "category": "Fruits",
+  "calories": 57,
+  "protein_g": 0.7,
+  "carbs_g": 14.5,
+  "fat_g": 0.3
+ },
+ {
+  "id": 429,
+  "name": "Blueberries, frozen",
+  "category": "Fruits",
+  "calories": 51,
+  "protein_g": 0.5,
+  "carbs_g": 12.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 430,
+  "name": "Blueberries, dried",
+  "category": "Fruits",
+  "calories": 317,
+  "protein_g": 2.5,
+  "carbs_g": 80,
+  "fat_g": 2
+ },
+ {
+  "id": 431,
+  "name": "Raspberries, raw",
+  "category": "Fruits",
+  "calories": 52,
+  "protein_g": 1.2,
+  "carbs_g": 11.9,
+  "fat_g": 0.7
+ },
+ {
+  "id": 432,
+  "name": "Raspberries, frozen",
+  "category": "Fruits",
+  "calories": 56,
+  "protein_g": 1.1,
+  "carbs_g": 12.9,
+  "fat_g": 0.3
+ },
+ {
+  "id": 433,
+  "name": "Blackberries, raw",
+  "category": "Fruits",
+  "calories": 43,
+  "protein_g": 1.4,
+  "carbs_g": 9.6,
+  "fat_g": 0.5
+ },
+ {
+  "id": 434,
+  "name": "Blackberries, frozen",
+  "category": "Fruits",
+  "calories": 46,
+  "protein_g": 1.3,
+  "carbs_g": 10.4,
+  "fat_g": 0.3
+ },
+ {
+  "id": 435,
+  "name": "Cranberries, raw",
+  "category": "Fruits",
+  "calories": 46,
+  "protein_g": 0.4,
+  "carbs_g": 12.2,
+  "fat_g": 0.1
+ },
+ {
+  "id": 436,
+  "name": "Cranberries, dried, sweetened",
+  "category": "Fruits",
+  "calories": 308,
+  "protein_g": 0.1,
+  "carbs_g": 82.4,
+  "fat_g": 1.4
+ },
+ {
+  "id": 437,
+  "name": "Cherries, sweet, raw",
+  "category": "Fruits",
+  "calories": 63,
+  "protein_g": 1.1,
+  "carbs_g": 16,
+  "fat_g": 0.2
+ },
+ {
+  "id": 438,
+  "name": "Cherries, sour, raw",
+  "category": "Fruits",
+  "calories": 50,
+  "protein_g": 1,
+  "carbs_g": 12.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 439,
+  "name": "Cherries, canned in syrup",
+  "category": "Fruits",
+  "calories": 72,
+  "protein_g": 0.7,
+  "carbs_g": 18,
+  "fat_g": 0.2
+ },
+ {
+  "id": 440,
+  "name": "Cherries, maraschino",
+  "category": "Fruits",
+  "calories": 165,
+  "protein_g": 0.2,
+  "carbs_g": 42,
+  "fat_g": 0.2
+ },
+ {
+  "id": 441,
+  "name": "Mango, raw",
+  "category": "Fruits",
+  "calories": 60,
+  "protein_g": 0.8,
+  "carbs_g": 15,
+  "fat_g": 0.4
+ },
+ {
+  "id": 442,
+  "name": "Mango, dried",
+  "category": "Fruits",
+  "calories": 319,
+  "protein_g": 2.5,
+  "carbs_g": 80,
+  "fat_g": 1
+ },
+ {
+  "id": 443,
+  "name": "Pineapple, raw",
+  "category": "Fruits",
+  "calories": 50,
+  "protein_g": 0.5,
+  "carbs_g": 13.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 444,
+  "name": "Pineapple, canned in juice",
+  "category": "Fruits",
+  "calories": 34,
+  "protein_g": 0.4,
+  "carbs_g": 8.9,
+  "fat_g": 0.1
+ },
+ {
+  "id": 445,
+  "name": "Pineapple, canned in syrup",
+  "category": "Fruits",
+  "calories": 60,
+  "protein_g": 0.4,
+  "carbs_g": 15.7,
+  "fat_g": 0.1
+ },
+ {
+  "id": 446,
+  "name": "Papaya, raw",
+  "category": "Fruits",
+  "calories": 43,
+  "protein_g": 0.5,
+  "carbs_g": 10.8,
+  "fat_g": 0.3
+ },
+ {
+  "id": 447,
+  "name": "Kiwi, raw",
+  "category": "Fruits",
+  "calories": 61,
+  "protein_g": 1.1,
+  "carbs_g": 14.7,
+  "fat_g": 0.5
+ },
+ {
+  "id": 448,
+  "name": "Kiwi, gold",
+  "category": "Fruits",
+  "calories": 60,
+  "protein_g": 1,
+  "carbs_g": 14,
+  "fat_g": 0.5
+ },
+ {
+  "id": 449,
+  "name": "Avocado, raw",
+  "category": "Fruits",
+  "calories": 160,
+  "protein_g": 2,
+  "carbs_g": 8.5,
+  "fat_g": 14.7
+ },
+ {
+  "id": 450,
+  "name": "Avocado, Hass",
+  "category": "Fruits",
+  "calories": 167,
+  "protein_g": 2,
+  "carbs_g": 8.6,
+  "fat_g": 15.4
+ },
+ {
+  "id": 451,
+  "name": "Avocado, Florida",
+  "category": "Fruits",
+  "calories": 120,
+  "protein_g": 2.2,
+  "carbs_g": 7.8,
+  "fat_g": 10
+ },
+ {
+  "id": 452,
+  "name": "Guacamole",
+  "category": "Fruits",
+  "calories": 160,
+  "protein_g": 2,
+  "carbs_g": 8.5,
+  "fat_g": 14.7
+ },
+ {
+  "id": 453,
+  "name": "Watermelon, raw",
+  "category": "Fruits",
+  "calories": 30,
+  "protein_g": 0.6,
+  "carbs_g": 7.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 454,
+  "name": "Cantaloupe, raw",
+  "category": "Fruits",
+  "calories": 34,
+  "protein_g": 0.8,
+  "carbs_g": 8.2,
+  "fat_g": 0.2
+ },
+ {
+  "id": 455,
+  "name": "Honeydew, raw",
+  "category": "Fruits",
+  "calories": 36,
+  "protein_g": 0.5,
+  "carbs_g": 9.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 456,
+  "name": "Casaba melon, raw",
+  "category": "Fruits",
+  "calories": 28,
+  "protein_g": 1,
+  "carbs_g": 6.6,
+  "fat_g": 0.1
+ },
+ {
+  "id": 457,
+  "name": "Persian melon, raw",
+  "category": "Fruits",
+  "calories": 30,
+  "protein_g": 0.7,
+  "carbs_g": 7.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 458,
+  "name": "Santa Claus melon, raw",
+  "category": "Fruits",
+  "calories": 36,
+  "protein_g": 0.5,
+  "carbs_g": 8.2,
+  "fat_g": 0.1
+ },
+ {
+  "id": 459,
+  "name": "Crenshaw melon, raw",
+  "category": "Fruits",
+  "calories": 35,
+  "protein_g": 0.6,
+  "carbs_g": 8.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 460,
+  "name": "Galia melon, raw",
+  "category": "Fruits",
+  "calories": 30,
+  "protein_g": 0.7,
+  "carbs_g": 7,
+  "fat_g": 0.1
+ },
+ {
+  "id": 461,
+  "name": "Pears, raw",
+  "category": "Fruits",
+  "calories": 57,
+  "protein_g": 0.4,
+  "carbs_g": 15.2,
+  "fat_g": 0.1
+ },
+ {
+  "id": 462,
+  "name": "Pears, canned in juice",
+  "category": "Fruits",
+  "calories": 29,
+  "protein_g": 0.2,
+  "carbs_g": 7.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 463,
+  "name": "Pears, canned in syrup",
+  "category": "Fruits",
+  "calories": 35,
+  "protein_g": 0.2,
+  "carbs_g": 9.2,
+  "fat_g": 0.1
+ },
+ {
+  "id": 464,
+  "name": "Pears, dried",
+  "category": "Fruits",
+  "calories": 262,
+  "protein_g": 1.9,
+  "carbs_g": 69.7,
+  "fat_g": 0.6
+ },
+ {
+  "id": 465,
+  "name": "Peaches, raw",
+  "category": "Fruits",
+  "calories": 39,
+  "protein_g": 0.9,
+  "carbs_g": 9.5,
+  "fat_g": 0.3
+ },
+ {
+  "id": 466,
+  "name": "Peaches, canned in juice",
+  "category": "Fruits",
+  "calories": 24,
+  "protein_g": 0.6,
+  "carbs_g": 6.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 467,
+  "name": "Peaches, canned in syrup",
+  "category": "Fruits",
+  "calories": 38,
+  "protein_g": 0.5,
+  "carbs_g": 9.7,
+  "fat_g": 0.1
+ },
+ {
+  "id": 468,
+  "name": "Peaches, dried",
+  "category": "Fruits",
+  "calories": 239,
+  "protein_g": 3.6,
+  "carbs_g": 61.3,
+  "fat_g": 0.8
+ },
+ {
+  "id": 469,
+  "name": "Nectarines, raw",
+  "category": "Fruits",
+  "calories": 44,
+  "protein_g": 1.1,
+  "carbs_g": 10.6,
+  "fat_g": 0.3
+ },
+ {
+  "id": 470,
+  "name": "Plums, raw",
+  "category": "Fruits",
+  "calories": 46,
+  "protein_g": 0.7,
+  "carbs_g": 11.4,
+  "fat_g": 0.3
+ },
+ {
+  "id": 471,
+  "name": "Plums, dried (prunes)",
+  "category": "Fruits",
+  "calories": 240,
+  "protein_g": 2.2,
+  "carbs_g": 63.9,
+  "fat_g": 0.4
+ },
+ {
+  "id": 472,
+  "name": "Apricots, raw",
+  "category": "Fruits",
+  "calories": 48,
+  "protein_g": 1.4,
+  "carbs_g": 11.1,
+  "fat_g": 0.4
+ },
+ {
+  "id": 473,
+  "name": "Apricots, dried",
+  "category": "Fruits",
+  "calories": 241,
+  "protein_g": 3.4,
+  "carbs_g": 62.6,
+  "fat_g": 0.5
+ },
+ {
+  "id": 474,
+  "name": "Apricots, canned in juice",
+  "category": "Fruits",
+  "calories": 34,
+  "protein_g": 0.7,
+  "carbs_g": 8.9,
+  "fat_g": 0.1
+ },
+ {
+  "id": 475,
+  "name": "Figs, raw",
+  "category": "Fruits",
+  "calories": 74,
+  "protein_g": 0.8,
+  "carbs_g": 19.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 476,
+  "name": "Figs, dried",
+  "category": "Fruits",
+  "calories": 249,
+  "protein_g": 3.3,
+  "carbs_g": 63.9,
+  "fat_g": 0.9
+ },
+ {
+  "id": 477,
+  "name": "Dates, medjool",
+  "category": "Fruits",
+  "calories": 277,
+  "protein_g": 1.8,
+  "carbs_g": 75,
+  "fat_g": 0.2
+ },
+ {
+  "id": 478,
+  "name": "Dates, deglet noor",
+  "category": "Fruits",
+  "calories": 282,
+  "protein_g": 2.5,
+  "carbs_g": 75,
+  "fat_g": 0.4
+ },
+ {
+  "id": 479,
+  "name": "Dates, chopped",
+  "category": "Fruits",
+  "calories": 280,
+  "protein_g": 2,
+  "carbs_g": 75,
+  "fat_g": 0.3
+ },
+ {
+  "id": 480,
+  "name": "Coconut, raw",
+  "category": "Fruits",
+  "calories": 354,
+  "protein_g": 3.3,
+  "carbs_g": 15.2,
+  "fat_g": 33.5
+ },
+ {
+  "id": 481,
+  "name": "Coconut, dried, unsweetened",
+  "category": "Fruits",
+  "calories": 660,
+  "protein_g": 6.9,
+  "carbs_g": 23.7,
+  "fat_g": 64.5
+ },
+ {
+  "id": 482,
+  "name": "Coconut, dried, sweetened",
+  "category": "Fruits",
+  "calories": 456,
+  "protein_g": 3,
+  "carbs_g": 51,
+  "fat_g": 31
+ },
+ {
+  "id": 483,
+  "name": "Coconut, cream",
+  "category": "Fruits",
+  "calories": 330,
+  "protein_g": 3.6,
+  "carbs_g": 6.6,
+  "fat_g": 34.7
+ },
+ {
+  "id": 484,
+  "name": "Coconut, milk, fresh",
+  "category": "Fruits",
+  "calories": 230,
+  "protein_g": 2.3,
+  "carbs_g": 5.5,
+  "fat_g": 23.8
+ },
+ {
+  "id": 485,
+  "name": "Coconut, water",
+  "category": "Fruits",
+  "calories": 19,
+  "protein_g": 0.7,
+  "carbs_g": 3.7,
+  "fat_g": 0.2
+ },
+ {
+  "id": 486,
+  "name": "Pomegranate, raw",
+  "category": "Fruits",
+  "calories": 83,
+  "protein_g": 1.7,
+  "carbs_g": 18.7,
+  "fat_g": 1.2
+ },
+ {
+  "id": 487,
+  "name": "Pomegranate, juice",
+  "category": "Fruits",
+  "calories": 54,
+  "protein_g": 0.2,
+  "carbs_g": 13.1,
+  "fat_g": 0.3
+ },
+ {
+  "id": 488,
+  "name": "Passion fruit, raw",
+  "category": "Fruits",
+  "calories": 97,
+  "protein_g": 2.2,
+  "carbs_g": 23.4,
+  "fat_g": 0.7
+ },
+ {
+  "id": 489,
+  "name": "Dragon fruit, raw",
+  "category": "Fruits",
+  "calories": 60,
+  "protein_g": 1.2,
+  "carbs_g": 13,
+  "fat_g": 0.4
+ },
+ {
+  "id": 490,
+  "name": "Star fruit, raw",
+  "category": "Fruits",
+  "calories": 31,
+  "protein_g": 1,
+  "carbs_g": 6.7,
+  "fat_g": 0.3
+ },
+ {
+  "id": 491,
+  "name": "Lychee, raw",
+  "category": "Fruits",
+  "calories": 66,
+  "protein_g": 0.8,
+  "carbs_g": 16.5,
+  "fat_g": 0.4
+ },
+ {
+  "id": 492,
+  "name": "Lychee, canned in syrup",
+  "category": "Fruits",
+  "calories": 63,
+  "protein_g": 0.6,
+  "carbs_g": 16,
+  "fat_g": 0.1
+ },
+ {
+  "id": 493,
+  "name": "Longan, raw",
+  "category": "Fruits",
+  "calories": 60,
+  "protein_g": 1.3,
+  "carbs_g": 15.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 494,
+  "name": "Rambutan, raw",
+  "category": "Fruits",
+  "calories": 82,
+  "protein_g": 0.7,
+  "carbs_g": 20.9,
+  "fat_g": 0.2
+ },
+ {
+  "id": 495,
+  "name": "Mangosteen, raw",
+  "category": "Fruits",
+  "calories": 73,
+  "protein_g": 0.4,
+  "carbs_g": 18,
+  "fat_g": 0.6
+ },
+ {
+  "id": 496,
+  "name": "Durian, raw",
+  "category": "Fruits",
+  "calories": 147,
+  "protein_g": 1.5,
+  "carbs_g": 27.1,
+  "fat_g": 5.3
+ },
+ {
+  "id": 497,
+  "name": "Jackfruit, raw",
+  "category": "Fruits",
+  "calories": 95,
+  "protein_g": 1.7,
+  "carbs_g": 23.2,
+  "fat_g": 0.6
+ },
+ {
+  "id": 498,
+  "name": "Breadfruit, raw",
+  "category": "Fruits",
+  "calories": 103,
+  "protein_g": 1.1,
+  "carbs_g": 27.1,
+  "fat_g": 0.2
+ },
+ {
+  "id": 499,
+  "name": "Plantain, raw",
+  "category": "Fruits",
+  "calories": 122,
+  "protein_g": 1.3,
+  "carbs_g": 31.9,
+  "fat_g": 0.4
+ },
+ {
+  "id": 500,
+  "name": "Plantain, fried",
+  "category": "Fruits",
+  "calories": 262,
+  "protein_g": 1.5,
+  "carbs_g": 49,
+  "fat_g": 9
+ },
+ {
+  "id": 501,
+  "name": "Broccoli, raw",
+  "category": "Vegetables",
+  "calories": 34,
+  "protein_g": 2.8,
+  "carbs_g": 6.6,
+  "fat_g": 0.4
+ },
+ {
+  "id": 502,
+  "name": "Broccoli, steamed",
+  "category": "Vegetables",
+  "calories": 35,
+  "protein_g": 2.4,
+  "carbs_g": 7.2,
+  "fat_g": 0.4
+ },
+ {
+  "id": 503,
+  "name": "Broccoli, boiled",
+  "category": "Vegetables",
+  "calories": 35,
+  "protein_g": 2.4,
+  "carbs_g": 7.2,
+  "fat_g": 0.4
+ },
+ {
+  "id": 504,
+  "name": "Broccoli, roasted",
+  "category": "Vegetables",
+  "calories": 40,
+  "protein_g": 3,
+  "carbs_g": 6,
+  "fat_g": 1
+ },
+ {
+  "id": 505,
+  "name": "Broccoli, frozen, cooked",
+  "category": "Vegetables",
+  "calories": 28,
+  "protein_g": 3.1,
+  "carbs_g": 5.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 506,
+  "name": "Cauliflower, raw",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 1.9,
+  "carbs_g": 5,
+  "fat_g": 0.3
+ },
+ {
+  "id": 507,
+  "name": "Cauliflower, steamed",
+  "category": "Vegetables",
+  "calories": 23,
+  "protein_g": 1.8,
+  "carbs_g": 4.1,
+  "fat_g": 0.2
+ },
+ {
+  "id": 508,
+  "name": "Cauliflower, roasted",
+  "category": "Vegetables",
+  "calories": 35,
+  "protein_g": 2.5,
+  "carbs_g": 5,
+  "fat_g": 1
+ },
+ {
+  "id": 509,
+  "name": "Cauliflower, mashed",
+  "category": "Vegetables",
+  "calories": 30,
+  "protein_g": 2,
+  "carbs_g": 5,
+  "fat_g": 0.5
+ },
+ {
+  "id": 510,
+  "name": "Cauliflower, rice",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 2,
+  "carbs_g": 5,
+  "fat_g": 0
+ },
+ {
+  "id": 511,
+  "name": "Spinach, raw",
+  "category": "Vegetables",
+  "calories": 23,
+  "protein_g": 2.9,
+  "carbs_g": 3.6,
+  "fat_g": 0.4
+ },
+ {
+  "id": 512,
+  "name": "Spinach, cooked",
+  "category": "Vegetables",
+  "calories": 23,
+  "protein_g": 3,
+  "carbs_g": 3.8,
+  "fat_g": 0.3
+ },
+ {
+  "id": 513,
+  "name": "Spinach, frozen, cooked",
+  "category": "Vegetables",
+  "calories": 29,
+  "protein_g": 3.7,
+  "carbs_g": 4,
+  "fat_g": 0.6
+ },
+ {
+  "id": 514,
+  "name": "Spinach, creamed",
+  "category": "Vegetables",
+  "calories": 75,
+  "protein_g": 3,
+  "carbs_g": 5,
+  "fat_g": 4
+ },
+ {
+  "id": 515,
+  "name": "Kale, raw",
+  "category": "Vegetables",
+  "calories": 49,
+  "protein_g": 4.3,
+  "carbs_g": 8.8,
+  "fat_g": 0.9
+ },
+ {
+  "id": 516,
+  "name": "Kale, cooked",
+  "category": "Vegetables",
+  "calories": 28,
+  "protein_g": 1.9,
+  "carbs_g": 5.6,
+  "fat_g": 0.4
+ },
+ {
+  "id": 517,
+  "name": "Kale, chips",
+  "category": "Vegetables",
+  "calories": 450,
+  "protein_g": 20,
+  "carbs_g": 40,
+  "fat_g": 20
+ },
+ {
+  "id": 518,
+  "name": "Lettuce, iceberg, raw",
+  "category": "Vegetables",
+  "calories": 14,
+  "protein_g": 0.9,
+  "carbs_g": 3,
+  "fat_g": 0.1
+ },
+ {
+  "id": 519,
+  "name": "Lettuce, romaine, raw",
+  "category": "Vegetables",
+  "calories": 17,
+  "protein_g": 1.2,
+  "carbs_g": 3.3,
+  "fat_g": 0.3
+ },
+ {
+  "id": 520,
+  "name": "Lettuce, butterhead, raw",
+  "category": "Vegetables",
+  "calories": 13,
+  "protein_g": 1.4,
+  "carbs_g": 2.2,
+  "fat_g": 0.2
+ },
+ {
+  "id": 521,
+  "name": "Lettuce, green leaf, raw",
+  "category": "Vegetables",
+  "calories": 15,
+  "protein_g": 1.4,
+  "carbs_g": 2.9,
+  "fat_g": 0.2
+ },
+ {
+  "id": 522,
+  "name": "Lettuce, red leaf, raw",
+  "category": "Vegetables",
+  "calories": 13,
+  "protein_g": 1.3,
+  "carbs_g": 2.3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 523,
+  "name": "Cabbage, green, raw",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 1.3,
+  "carbs_g": 5.8,
+  "fat_g": 0.1
+ },
+ {
+  "id": 524,
+  "name": "Cabbage, green, cooked",
+  "category": "Vegetables",
+  "calories": 23,
+  "protein_g": 1.3,
+  "carbs_g": 5.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 525,
+  "name": "Cabbage, red, raw",
+  "category": "Vegetables",
+  "calories": 31,
+  "protein_g": 1.4,
+  "carbs_g": 7.4,
+  "fat_g": 0.2
+ },
+ {
+  "id": 526,
+  "name": "Cabbage, napa, raw",
+  "category": "Vegetables",
+  "calories": 16,
+  "protein_g": 1.2,
+  "carbs_g": 3.2,
+  "fat_g": 0.2
+ },
+ {
+  "id": 527,
+  "name": "Cabbage, savoy, raw",
+  "category": "Vegetables",
+  "calories": 27,
+  "protein_g": 2,
+  "carbs_g": 6.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 528,
+  "name": "Brussels Sprouts, raw",
+  "category": "Vegetables",
+  "calories": 43,
+  "protein_g": 3.4,
+  "carbs_g": 8.9,
+  "fat_g": 0.3
+ },
+ {
+  "id": 529,
+  "name": "Brussels Sprouts, cooked",
+  "category": "Vegetables",
+  "calories": 36,
+  "protein_g": 2.2,
+  "carbs_g": 7.1,
+  "fat_g": 0.5
+ },
+ {
+  "id": 530,
+  "name": "Brussels Sprouts, roasted",
+  "category": "Vegetables",
+  "calories": 55,
+  "protein_g": 3,
+  "carbs_g": 8,
+  "fat_g": 2
+ },
+ {
+  "id": 531,
+  "name": "Carrots, raw",
+  "category": "Vegetables",
+  "calories": 41,
+  "protein_g": 0.9,
+  "carbs_g": 9.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 532,
+  "name": "Carrots, cooked",
+  "category": "Vegetables",
+  "calories": 35,
+  "protein_g": 0.8,
+  "carbs_g": 8.2,
+  "fat_g": 0.2
+ },
+ {
+  "id": 533,
+  "name": "Carrots, baby, raw",
+  "category": "Vegetables",
+  "calories": 35,
+  "protein_g": 0.6,
+  "carbs_g": 8.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 534,
+  "name": "Carrots, glazed",
+  "category": "Vegetables",
+  "calories": 60,
+  "protein_g": 0.5,
+  "carbs_g": 13,
+  "fat_g": 0.2
+ },
+ {
+  "id": 535,
+  "name": "Sweet Potato, raw",
+  "category": "Vegetables",
+  "calories": 86,
+  "protein_g": 1.6,
+  "carbs_g": 20.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 536,
+  "name": "Sweet Potato, baked",
+  "category": "Vegetables",
+  "calories": 90,
+  "protein_g": 2,
+  "carbs_g": 20.7,
+  "fat_g": 0.2
+ },
+ {
+  "id": 537,
+  "name": "Sweet Potato, mashed",
+  "category": "Vegetables",
+  "calories": 84,
+  "protein_g": 1.7,
+  "carbs_g": 19.8,
+  "fat_g": 0.5
+ },
+ {
+  "id": 538,
+  "name": "Sweet Potato, fries",
+  "category": "Vegetables",
+  "calories": 140,
+  "protein_g": 1.5,
+  "carbs_g": 25,
+  "fat_g": 4
+ },
+ {
+  "id": 539,
+  "name": "Potato, white, raw",
+  "category": "Vegetables",
+  "calories": 77,
+  "protein_g": 2,
+  "carbs_g": 17.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 540,
+  "name": "Potato, white, baked",
+  "category": "Vegetables",
+  "calories": 93,
+  "protein_g": 2.5,
+  "carbs_g": 21.2,
+  "fat_g": 0.1
+ },
+ {
+  "id": 541,
+  "name": "Potato, white, boiled",
+  "category": "Vegetables",
+  "calories": 87,
+  "protein_g": 1.9,
+  "carbs_g": 20.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 542,
+  "name": "Potato, white, mashed",
+  "category": "Vegetables",
+  "calories": 113,
+  "protein_g": 2,
+  "carbs_g": 17.5,
+  "fat_g": 4
+ },
+ {
+  "id": 543,
+  "name": "Potato, red, baked",
+  "category": "Vegetables",
+  "calories": 90,
+  "protein_g": 2.3,
+  "carbs_g": 20,
+  "fat_g": 0.2
+ },
+ {
+  "id": 544,
+  "name": "Potato, russet, baked",
+  "category": "Vegetables",
+  "calories": 98,
+  "protein_g": 2.6,
+  "carbs_g": 21.2,
+  "fat_g": 0.1
+ },
+ {
+  "id": 545,
+  "name": "Potato, fingerling, roasted",
+  "category": "Vegetables",
+  "calories": 110,
+  "protein_g": 2.5,
+  "carbs_g": 23,
+  "fat_g": 2
+ },
+ {
+  "id": 546,
+  "name": "Potato, purple, baked",
+  "category": "Vegetables",
+  "calories": 85,
+  "protein_g": 2,
+  "carbs_g": 19,
+  "fat_g": 0.2
+ },
+ {
+  "id": 547,
+  "name": "Potato, scalloped",
+  "category": "Vegetables",
+  "calories": 120,
+  "protein_g": 4,
+  "carbs_g": 15,
+  "fat_g": 5
+ },
+ {
+  "id": 548,
+  "name": "Potato, hash browns",
+  "category": "Vegetables",
+  "calories": 272,
+  "protein_g": 3,
+  "carbs_g": 35,
+  "fat_g": 13
+ },
+ {
+  "id": 549,
+  "name": "Potato, tater tots",
+  "category": "Vegetables",
+  "calories": 282,
+  "protein_g": 3,
+  "carbs_g": 38,
+  "fat_g": 13
+ },
+ {
+  "id": 550,
+  "name": "Potato, au gratin",
+  "category": "Vegetables",
+  "calories": 132,
+  "protein_g": 5,
+  "carbs_g": 15,
+  "fat_g": 6
+ },
+ {
+  "id": 551,
+  "name": "Tomato, red, raw",
+  "category": "Vegetables",
+  "calories": 18,
+  "protein_g": 0.9,
+  "carbs_g": 3.9,
+  "fat_g": 0.2
+ },
+ {
+  "id": 552,
+  "name": "Tomato, cherry, raw",
+  "category": "Vegetables",
+  "calories": 18,
+  "protein_g": 0.9,
+  "carbs_g": 3.9,
+  "fat_g": 0.2
+ },
+ {
+  "id": 553,
+  "name": "Tomato, roma, raw",
+  "category": "Vegetables",
+  "calories": 20,
+  "protein_g": 1,
+  "carbs_g": 4,
+  "fat_g": 0.2
+ },
+ {
+  "id": 554,
+  "name": "Tomato, sun-dried",
+  "category": "Vegetables",
+  "calories": 258,
+  "protein_g": 14.1,
+  "carbs_g": 55.8,
+  "fat_g": 3
+ },
+ {
+  "id": 555,
+  "name": "Tomato, canned, diced",
+  "category": "Vegetables",
+  "calories": 18,
+  "protein_g": 0.9,
+  "carbs_g": 3.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 556,
+  "name": "Tomato sauce, canned",
+  "category": "Vegetables",
+  "calories": 29,
+  "protein_g": 1.3,
+  "carbs_g": 5,
+  "fat_g": 0.5
+ },
+ {
+  "id": 557,
+  "name": "Tomato paste, canned",
+  "category": "Vegetables",
+  "calories": 82,
+  "protein_g": 4.3,
+  "carbs_g": 19,
+  "fat_g": 0.5
+ },
+ {
+  "id": 558,
+  "name": "Tomato juice, canned",
+  "category": "Vegetables",
+  "calories": 17,
+  "protein_g": 0.8,
+  "carbs_g": 3.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 559,
+  "name": "Tomato, green, raw",
+  "category": "Vegetables",
+  "calories": 23,
+  "protein_g": 1.2,
+  "carbs_g": 5.1,
+  "fat_g": 0.2
+ },
+ {
+  "id": 560,
+  "name": "Tomato, yellow, raw",
+  "category": "Vegetables",
+  "calories": 15,
+  "protein_g": 1,
+  "carbs_g": 3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 561,
+  "name": "Tomato, orange, raw",
+  "category": "Vegetables",
+  "calories": 16,
+  "protein_g": 1.1,
+  "carbs_g": 3.3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 562,
+  "name": "Tomato, heirloom, raw",
+  "category": "Vegetables",
+  "calories": 20,
+  "protein_g": 1,
+  "carbs_g": 4,
+  "fat_g": 0.2
+ },
+ {
+  "id": 563,
+  "name": "Cucumber, raw, with skin",
+  "category": "Vegetables",
+  "calories": 15,
+  "protein_g": 0.7,
+  "carbs_g": 3.6,
+  "fat_g": 0.1
+ },
+ {
+  "id": 564,
+  "name": "Cucumber, raw, peeled",
+  "category": "Vegetables",
+  "calories": 12,
+  "protein_g": 0.6,
+  "carbs_g": 2.2,
+  "fat_g": 0.2
+ },
+ {
+  "id": 565,
+  "name": "Cucumber, pickled",
+  "category": "Vegetables",
+  "calories": 11,
+  "protein_g": 0.3,
+  "carbs_g": 2.3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 566,
+  "name": "Celery, raw",
+  "category": "Vegetables",
+  "calories": 16,
+  "protein_g": 0.7,
+  "carbs_g": 3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 567,
+  "name": "Celery, cooked",
+  "category": "Vegetables",
+  "calories": 18,
+  "protein_g": 0.8,
+  "carbs_g": 4,
+  "fat_g": 0.2
+ },
+ {
+  "id": 568,
+  "name": "Bell Pepper, green, raw",
+  "category": "Vegetables",
+  "calories": 20,
+  "protein_g": 0.9,
+  "carbs_g": 4.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 569,
+  "name": "Bell Pepper, red, raw",
+  "category": "Vegetables",
+  "calories": 31,
+  "protein_g": 1,
+  "carbs_g": 6,
+  "fat_g": 0.3
+ },
+ {
+  "id": 570,
+  "name": "Bell Pepper, yellow, raw",
+  "category": "Vegetables",
+  "calories": 27,
+  "protein_g": 1,
+  "carbs_g": 6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 571,
+  "name": "Bell Pepper, orange, raw",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 1,
+  "carbs_g": 5.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 572,
+  "name": "Bell Pepper, roasted",
+  "category": "Vegetables",
+  "calories": 30,
+  "protein_g": 1,
+  "carbs_g": 6,
+  "fat_g": 0.5
+ },
+ {
+  "id": 573,
+  "name": "Bell Pepper, stuffed with rice",
+  "category": "Vegetables",
+  "calories": 85,
+  "protein_g": 3,
+  "carbs_g": 12,
+  "fat_g": 2
+ },
+ {
+  "id": 574,
+  "name": "Jalapeno, raw",
+  "category": "Vegetables",
+  "calories": 29,
+  "protein_g": 0.9,
+  "carbs_g": 6.5,
+  "fat_g": 0.4
+ },
+ {
+  "id": 575,
+  "name": "Jalapeno, pickled",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 0.7,
+  "carbs_g": 4.5,
+  "fat_g": 0.5
+ },
+ {
+  "id": 576,
+  "name": "Habanero, raw",
+  "category": "Vegetables",
+  "calories": 40,
+  "protein_g": 2,
+  "carbs_g": 9,
+  "fat_g": 0.5
+ },
+ {
+  "id": 577,
+  "name": "Serrano, raw",
+  "category": "Vegetables",
+  "calories": 32,
+  "protein_g": 1.7,
+  "carbs_g": 6.5,
+  "fat_g": 0.4
+ },
+ {
+  "id": 578,
+  "name": "Poblano, raw",
+  "category": "Vegetables",
+  "calories": 20,
+  "protein_g": 1,
+  "carbs_g": 4.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 579,
+  "name": "Anaheim, raw",
+  "category": "Vegetables",
+  "calories": 20,
+  "protein_g": 0.9,
+  "carbs_g": 4.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 580,
+  "name": "Cayenne, raw",
+  "category": "Vegetables",
+  "calories": 32,
+  "protein_g": 1.2,
+  "carbs_g": 6,
+  "fat_g": 0.6
+ },
+ {
+  "id": 581,
+  "name": "Onion, yellow, raw",
+  "category": "Vegetables",
+  "calories": 40,
+  "protein_g": 1.1,
+  "carbs_g": 9.3,
+  "fat_g": 0.1
+ },
+ {
+  "id": 582,
+  "name": "Onion, yellow, cooked",
+  "category": "Vegetables",
+  "calories": 44,
+  "protein_g": 1.4,
+  "carbs_g": 9.9,
+  "fat_g": 0.2
+ },
+ {
+  "id": 583,
+  "name": "Onion, red, raw",
+  "category": "Vegetables",
+  "calories": 42,
+  "protein_g": 1,
+  "carbs_g": 9.9,
+  "fat_g": 0.1
+ },
+ {
+  "id": 584,
+  "name": "Onion, white, raw",
+  "category": "Vegetables",
+  "calories": 38,
+  "protein_g": 1,
+  "carbs_g": 9,
+  "fat_g": 0.1
+ },
+ {
+  "id": 585,
+  "name": "Onion, sweet, raw",
+  "category": "Vegetables",
+  "calories": 32,
+  "protein_g": 0.8,
+  "carbs_g": 7.6,
+  "fat_g": 0.1
+ },
+ {
+  "id": 586,
+  "name": "Onion, green (scallions), raw",
+  "category": "Vegetables",
+  "calories": 32,
+  "protein_g": 1.8,
+  "carbs_g": 7.3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 587,
+  "name": "Onion, shallot, raw",
+  "category": "Vegetables",
+  "calories": 72,
+  "protein_g": 2.5,
+  "carbs_g": 16.8,
+  "fat_g": 0.1
+ },
+ {
+  "id": 588,
+  "name": "Onion, caramelized",
+  "category": "Vegetables",
+  "calories": 85,
+  "protein_g": 1.5,
+  "carbs_g": 18,
+  "fat_g": 0.2
+ },
+ {
+  "id": 589,
+  "name": "Onion, fried, rings",
+  "category": "Vegetables",
+  "calories": 334,
+  "protein_g": 4,
+  "carbs_g": 38,
+  "fat_g": 16
+ },
+ {
+  "id": 590,
+  "name": "Onion, flakes, dried",
+  "category": "Vegetables",
+  "calories": 349,
+  "protein_g": 10,
+  "carbs_g": 82,
+  "fat_g": 1
+ },
+ {
+  "id": 591,
+  "name": "Garlic, raw",
+  "category": "Vegetables",
+  "calories": 149,
+  "protein_g": 6.4,
+  "carbs_g": 33.1,
+  "fat_g": 0.5
+ },
+ {
+  "id": 592,
+  "name": "Garlic, cooked",
+  "category": "Vegetables",
+  "calories": 136,
+  "protein_g": 5.9,
+  "carbs_g": 28.2,
+  "fat_g": 0.4
+ },
+ {
+  "id": 593,
+  "name": "Garlic, powdered",
+  "category": "Vegetables",
+  "calories": 331,
+  "protein_g": 16.6,
+  "carbs_g": 72.6,
+  "fat_g": 0.7
+ },
+ {
+  "id": 594,
+  "name": "Garlic, minced, jarred",
+  "category": "Vegetables",
+  "calories": 149,
+  "protein_g": 6.4,
+  "carbs_g": 33.1,
+  "fat_g": 0.5
+ },
+ {
+  "id": 595,
+  "name": "Ginger, raw",
+  "category": "Vegetables",
+  "calories": 80,
+  "protein_g": 1.8,
+  "carbs_g": 17.8,
+  "fat_g": 0.8
+ },
+ {
+  "id": 596,
+  "name": "Ginger, ground",
+  "category": "Vegetables",
+  "calories": 335,
+  "protein_g": 9,
+  "carbs_g": 71.6,
+  "fat_g": 4.2
+ },
+ {
+  "id": 597,
+  "name": "Ginger, pickled",
+  "category": "Vegetables",
+  "calories": 20,
+  "protein_g": 0.5,
+  "carbs_g": 4,
+  "fat_g": 0.1
+ },
+ {
+  "id": 598,
+  "name": "Zucchini, raw",
+  "category": "Vegetables",
+  "calories": 17,
+  "protein_g": 1.2,
+  "carbs_g": 3.1,
+  "fat_g": 0.3
+ },
+ {
+  "id": 599,
+  "name": "Zucchini, cooked",
+  "category": "Vegetables",
+  "calories": 19,
+  "protein_g": 1.2,
+  "carbs_g": 3.5,
+  "fat_g": 0.4
+ },
+ {
+  "id": 600,
+  "name": "Zucchini, breaded and fried",
+  "category": "Vegetables",
+  "calories": 180,
+  "protein_g": 3,
+  "carbs_g": 15,
+  "fat_g": 9
+ },
+ {
+  "id": 601,
+  "name": "Zucchini, noodles (zoodles)",
+  "category": "Vegetables",
+  "calories": 17,
+  "protein_g": 1.2,
+  "carbs_g": 3.1,
+  "fat_g": 0.3
+ },
+ {
+  "id": 602,
+  "name": "Eggplant, raw",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 1,
+  "carbs_g": 6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 603,
+  "name": "Eggplant, cooked",
+  "category": "Vegetables",
+  "calories": 28,
+  "protein_g": 0.8,
+  "carbs_g": 6.9,
+  "fat_g": 0.2
+ },
+ {
+  "id": 604,
+  "name": "Eggplant, breaded and fried",
+  "category": "Vegetables",
+  "calories": 180,
+  "protein_g": 3,
+  "carbs_g": 16,
+  "fat_g": 8
+ },
+ {
+  "id": 605,
+  "name": "Eggplant, parmesan",
+  "category": "Vegetables",
+  "calories": 150,
+  "protein_g": 6,
+  "carbs_g": 10,
+  "fat_g": 9
+ },
+ {
+  "id": 606,
+  "name": "Eggplant, baba ganoush",
+  "category": "Vegetables",
+  "calories": 80,
+  "protein_g": 1.5,
+  "carbs_g": 8,
+  "fat_g": 5
+ },
+ {
+  "id": 607,
+  "name": "Yellow Squash, raw",
+  "category": "Vegetables",
+  "calories": 16,
+  "protein_g": 1.2,
+  "carbs_g": 3.4,
+  "fat_g": 0.2
+ },
+ {
+  "id": 608,
+  "name": "Yellow Squash, cooked",
+  "category": "Vegetables",
+  "calories": 19,
+  "protein_g": 1.2,
+  "carbs_g": 4,
+  "fat_g": 0.2
+ },
+ {
+  "id": 609,
+  "name": "Butternut Squash, raw",
+  "category": "Vegetables",
+  "calories": 45,
+  "protein_g": 1,
+  "carbs_g": 11.7,
+  "fat_g": 0.1
+ },
+ {
+  "id": 610,
+  "name": "Butternut Squash, baked",
+  "category": "Vegetables",
+  "calories": 40,
+  "protein_g": 0.9,
+  "carbs_g": 10.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 611,
+  "name": "Butternut Squash, mashed",
+  "category": "Vegetables",
+  "calories": 45,
+  "protein_g": 1,
+  "carbs_g": 11,
+  "fat_g": 0.5
+ },
+ {
+  "id": 612,
+  "name": "Acorn Squash, baked",
+  "category": "Vegetables",
+  "calories": 56,
+  "protein_g": 1.1,
+  "carbs_g": 14.6,
+  "fat_g": 0.1
+ },
+ {
+  "id": 613,
+  "name": "Spaghetti Squash, cooked",
+  "category": "Vegetables",
+  "calories": 31,
+  "protein_g": 0.6,
+  "carbs_g": 7,
+  "fat_g": 0.3
+ },
+ {
+  "id": 614,
+  "name": "Pumpkin, raw",
+  "category": "Vegetables",
+  "calories": 26,
+  "protein_g": 1,
+  "carbs_g": 6.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 615,
+  "name": "Pumpkin, canned",
+  "category": "Vegetables",
+  "calories": 26,
+  "protein_g": 1,
+  "carbs_g": 6.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 616,
+  "name": "Pumpkin, puree",
+  "category": "Vegetables",
+  "calories": 26,
+  "protein_g": 1,
+  "carbs_g": 6.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 617,
+  "name": "Pumpkin, pie filling",
+  "category": "Vegetables",
+  "calories": 104,
+  "protein_g": 1.1,
+  "carbs_g": 25,
+  "fat_g": 0.3
+ },
+ {
+  "id": 618,
+  "name": "Kabocha Squash, baked",
+  "category": "Vegetables",
+  "calories": 40,
+  "protein_g": 1,
+  "carbs_g": 9,
+  "fat_g": 0.3
+ },
+ {
+  "id": 619,
+  "name": "Delicata Squash, roasted",
+  "category": "Vegetables",
+  "calories": 50,
+  "protein_g": 1,
+  "carbs_g": 12,
+  "fat_g": 0.5
+ },
+ {
+  "id": 620,
+  "name": "Hubbard Squash, baked",
+  "category": "Vegetables",
+  "calories": 40,
+  "protein_g": 2,
+  "carbs_g": 8,
+  "fat_g": 0.5
+ },
+ {
+  "id": 621,
+  "name": "Asparagus, raw",
+  "category": "Vegetables",
+  "calories": 20,
+  "protein_g": 2.2,
+  "carbs_g": 3.9,
+  "fat_g": 0.1
+ },
+ {
+  "id": 622,
+  "name": "Asparagus, cooked",
+  "category": "Vegetables",
+  "calories": 22,
+  "protein_g": 2.4,
+  "carbs_g": 4.1,
+  "fat_g": 0.2
+ },
+ {
+  "id": 623,
+  "name": "Asparagus, grilled",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 2.5,
+  "carbs_g": 4,
+  "fat_g": 0.5
+ },
+ {
+  "id": 624,
+  "name": "Green Beans, raw",
+  "category": "Vegetables",
+  "calories": 31,
+  "protein_g": 1.8,
+  "carbs_g": 7,
+  "fat_g": 0.2
+ },
+ {
+  "id": 625,
+  "name": "Green Beans, cooked",
+  "category": "Vegetables",
+  "calories": 35,
+  "protein_g": 2,
+  "carbs_g": 7.9,
+  "fat_g": 0.3
+ },
+ {
+  "id": 626,
+  "name": "Green Beans, canned",
+  "category": "Vegetables",
+  "calories": 18,
+  "protein_g": 0.8,
+  "carbs_g": 4,
+  "fat_g": 0.1
+ },
+ {
+  "id": 627,
+  "name": "Green Beans, frozen, cooked",
+  "category": "Vegetables",
+  "calories": 28,
+  "protein_g": 1.5,
+  "carbs_g": 6.4,
+  "fat_g": 0.2
+ },
+ {
+  "id": 628,
+  "name": "Green Beans, french cut",
+  "category": "Vegetables",
+  "calories": 30,
+  "protein_g": 1.7,
+  "carbs_g": 6.8,
+  "fat_g": 0.2
+ },
+ {
+  "id": 629,
+  "name": "Wax Beans, cooked",
+  "category": "Vegetables",
+  "calories": 28,
+  "protein_g": 1.5,
+  "carbs_g": 6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 630,
+  "name": "Snap Peas, raw",
+  "category": "Vegetables",
+  "calories": 42,
+  "protein_g": 2.8,
+  "carbs_g": 7.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 631,
+  "name": "Snow Peas, raw",
+  "category": "Vegetables",
+  "calories": 42,
+  "protein_g": 2.8,
+  "carbs_g": 7.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 632,
+  "name": "Peas, green, raw",
+  "category": "Vegetables",
+  "calories": 81,
+  "protein_g": 5.4,
+  "carbs_g": 14.5,
+  "fat_g": 0.4
+ },
+ {
+  "id": 633,
+  "name": "Peas, green, cooked",
+  "category": "Vegetables",
+  "calories": 84,
+  "protein_g": 5.4,
+  "carbs_g": 15.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 634,
+  "name": "Peas, green, canned",
+  "category": "Vegetables",
+  "calories": 71,
+  "protein_g": 4.5,
+  "carbs_g": 12,
+  "fat_g": 0.4
+ },
+ {
+  "id": 635,
+  "name": "Peas, green, frozen, cooked",
+  "category": "Vegetables",
+  "calories": 77,
+  "protein_g": 5,
+  "carbs_g": 14,
+  "fat_g": 0.3
+ },
+ {
+  "id": 636,
+  "name": "Peas, split, cooked",
+  "category": "Vegetables",
+  "calories": 118,
+  "protein_g": 8.3,
+  "carbs_g": 21.1,
+  "fat_g": 0.4
+ },
+ {
+  "id": 637,
+  "name": "Peas, black-eyed, cooked",
+  "category": "Vegetables",
+  "calories": 116,
+  "protein_g": 7.7,
+  "carbs_g": 20.8,
+  "fat_g": 0.5
+ },
+ {
+  "id": 638,
+  "name": "Edamame, in pod",
+  "category": "Vegetables",
+  "calories": 56,
+  "protein_g": 5.2,
+  "carbs_g": 4.8,
+  "fat_g": 2.2
+ },
+ {
+  "id": 639,
+  "name": "Bamboo Shoots, raw",
+  "category": "Vegetables",
+  "calories": 27,
+  "protein_g": 2.6,
+  "carbs_g": 4.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 640,
+  "name": "Bamboo Shoots, canned",
+  "category": "Vegetables",
+  "calories": 12,
+  "protein_g": 1.5,
+  "carbs_g": 2,
+  "fat_g": 0.1
+ },
+ {
+  "id": 641,
+  "name": "Water Chestnuts, raw",
+  "category": "Vegetables",
+  "calories": 97,
+  "protein_g": 1.4,
+  "carbs_g": 23.9,
+  "fat_g": 0.1
+ },
+ {
+  "id": 642,
+  "name": "Water Chestnuts, canned",
+  "category": "Vegetables",
+  "calories": 50,
+  "protein_g": 0.6,
+  "carbs_g": 12.3,
+  "fat_g": 0
+ },
+ {
+  "id": 643,
+  "name": "Bean Sprouts, mung, raw",
+  "category": "Vegetables",
+  "calories": 30,
+  "protein_g": 3,
+  "carbs_g": 5.9,
+  "fat_g": 0.2
+ },
+ {
+  "id": 644,
+  "name": "Bean Sprouts, mung, cooked",
+  "category": "Vegetables",
+  "calories": 20,
+  "protein_g": 2,
+  "carbs_g": 4,
+  "fat_g": 0.1
+ },
+ {
+  "id": 645,
+  "name": "Alfalfa Sprouts, raw",
+  "category": "Vegetables",
+  "calories": 23,
+  "protein_g": 3.8,
+  "carbs_g": 2.1,
+  "fat_g": 0.7
+ },
+ {
+  "id": 646,
+  "name": "Radish, raw",
+  "category": "Vegetables",
+  "calories": 16,
+  "protein_g": 0.7,
+  "carbs_g": 3.4,
+  "fat_g": 0.1
+ },
+ {
+  "id": 647,
+  "name": "Daikon, raw",
+  "category": "Vegetables",
+  "calories": 18,
+  "protein_g": 0.6,
+  "carbs_g": 4.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 648,
+  "name": "Turnip, raw",
+  "category": "Vegetables",
+  "calories": 28,
+  "protein_g": 0.9,
+  "carbs_g": 6.4,
+  "fat_g": 0.1
+ },
+ {
+  "id": 649,
+  "name": "Turnip, cooked",
+  "category": "Vegetables",
+  "calories": 22,
+  "protein_g": 0.7,
+  "carbs_g": 5.1,
+  "fat_g": 0.1
+ },
+ {
+  "id": 650,
+  "name": "Rutabaga, raw",
+  "category": "Vegetables",
+  "calories": 37,
+  "protein_g": 1.1,
+  "carbs_g": 8.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 651,
+  "name": "Rutabaga, cooked",
+  "category": "Vegetables",
+  "calories": 30,
+  "protein_g": 0.9,
+  "carbs_g": 7,
+  "fat_g": 0.2
+ },
+ {
+  "id": 652,
+  "name": "Parsnips, raw",
+  "category": "Vegetables",
+  "calories": 75,
+  "protein_g": 1.2,
+  "carbs_g": 18,
+  "fat_g": 0.3
+ },
+ {
+  "id": 653,
+  "name": "Parsnips, cooked",
+  "category": "Vegetables",
+  "calories": 71,
+  "protein_g": 1,
+  "carbs_g": 17,
+  "fat_g": 0.3
+ },
+ {
+  "id": 654,
+  "name": "Jicama, raw",
+  "category": "Vegetables",
+  "calories": 38,
+  "protein_g": 0.7,
+  "carbs_g": 8.8,
+  "fat_g": 0.1
+ },
+ {
+  "id": 655,
+  "name": "Kohlrabi, raw",
+  "category": "Vegetables",
+  "calories": 27,
+  "protein_g": 1.7,
+  "carbs_g": 6.2,
+  "fat_g": 0.1
+ },
+ {
+  "id": 656,
+  "name": "Kohlrabi, cooked",
+  "category": "Vegetables",
+  "calories": 29,
+  "protein_g": 1.8,
+  "carbs_g": 6.7,
+  "fat_g": 0.1
+ },
+ {
+  "id": 657,
+  "name": "Leeks, raw",
+  "category": "Vegetables",
+  "calories": 61,
+  "protein_g": 1.5,
+  "carbs_g": 14.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 658,
+  "name": "Leeks, cooked",
+  "category": "Vegetables",
+  "calories": 54,
+  "protein_g": 1.2,
+  "carbs_g": 12.6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 659,
+  "name": "Mushrooms, white, raw",
+  "category": "Vegetables",
+  "calories": 22,
+  "protein_g": 3.1,
+  "carbs_g": 3.3,
+  "fat_g": 0.3
+ },
+ {
+  "id": 660,
+  "name": "Mushrooms, white, cooked",
+  "category": "Vegetables",
+  "calories": 28,
+  "protein_g": 2.2,
+  "carbs_g": 4.3,
+  "fat_g": 0.4
+ },
+ {
+  "id": 661,
+  "name": "Mushrooms, cremini, raw",
+  "category": "Vegetables",
+  "calories": 22,
+  "protein_g": 2.5,
+  "carbs_g": 4.3,
+  "fat_g": 0.1
+ },
+ {
+  "id": 662,
+  "name": "Mushrooms, portobello, raw",
+  "category": "Vegetables",
+  "calories": 22,
+  "protein_g": 2.1,
+  "carbs_g": 3.3,
+  "fat_g": 0.3
+ },
+ {
+  "id": 663,
+  "name": "Mushrooms, portobello, grilled",
+  "category": "Vegetables",
+  "calories": 29,
+  "protein_g": 2.5,
+  "carbs_g": 4.5,
+  "fat_g": 0.5
+ },
+ {
+  "id": 664,
+  "name": "Mushrooms, shiitake, cooked",
+  "category": "Vegetables",
+  "calories": 34,
+  "protein_g": 2.2,
+  "carbs_g": 6.8,
+  "fat_g": 0.5
+ },
+ {
+  "id": 665,
+  "name": "Mushrooms, oyster, cooked",
+  "category": "Vegetables",
+  "calories": 33,
+  "protein_g": 3.3,
+  "carbs_g": 6.1,
+  "fat_g": 0.4
+ },
+ {
+  "id": 666,
+  "name": "Mushrooms, enoki, raw",
+  "category": "Vegetables",
+  "calories": 37,
+  "protein_g": 2.7,
+  "carbs_g": 7.8,
+  "fat_g": 0.2
+ },
+ {
+  "id": 667,
+  "name": "Mushrooms, morel, cooked",
+  "category": "Vegetables",
+  "calories": 31,
+  "protein_g": 3.1,
+  "carbs_g": 5.1,
+  "fat_g": 0.6
+ },
+ {
+  "id": 668,
+  "name": "Mushrooms, chanterelle, cooked",
+  "category": "Vegetables",
+  "calories": 38,
+  "protein_g": 1.6,
+  "carbs_g": 6.9,
+  "fat_g": 0.5
+ },
+ {
+  "id": 669,
+  "name": "Mushrooms, porcini, cooked",
+  "category": "Vegetables",
+  "calories": 30,
+  "protein_g": 3,
+  "carbs_g": 5,
+  "fat_g": 0.5
+ },
+ {
+  "id": 670,
+  "name": "Mushrooms, maitake, cooked",
+  "category": "Vegetables",
+  "calories": 31,
+  "protein_g": 1.9,
+  "carbs_g": 6.8,
+  "fat_g": 0.2
+ },
+ {
+  "id": 671,
+  "name": "Mushrooms, wood ear, cooked",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 0.5,
+  "carbs_g": 6,
+  "fat_g": 0.1
+ },
+ {
+  "id": 672,
+  "name": "Mushrooms, black trumpet, cooked",
+  "category": "Vegetables",
+  "calories": 30,
+  "protein_g": 2.5,
+  "carbs_g": 4,
+  "fat_g": 0.3
+ },
+ {
+  "id": 673,
+  "name": "Mushrooms, straw, canned",
+  "category": "Vegetables",
+  "calories": 25,
+  "protein_g": 2,
+  "carbs_g": 4,
+  "fat_g": 0.3
+ },
+ {
+  "id": 674,
+  "name": "Mushrooms, button, canned",
+  "category": "Vegetables",
+  "calories": 15,
+  "protein_g": 1.5,
+  "carbs_g": 3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 675,
+  "name": "Corn, yellow, raw",
+  "category": "Vegetables",
+  "calories": 86,
+  "protein_g": 3.3,
+  "carbs_g": 18.7,
+  "fat_g": 1.4
+ },
+ {
+  "id": 676,
+  "name": "Corn, yellow, cooked",
+  "category": "Vegetables",
+  "calories": 96,
+  "protein_g": 3.4,
+  "carbs_g": 21,
+  "fat_g": 1.5
+ },
+ {
+  "id": 677,
+  "name": "Corn, yellow, canned",
+  "category": "Vegetables",
+  "calories": 61,
+  "protein_g": 1.7,
+  "carbs_g": 13.9,
+  "fat_g": 0.5
+ },
+ {
+  "id": 678,
+  "name": "Corn, yellow, frozen, cooked",
+  "category": "Vegetables",
+  "calories": 80,
+  "protein_g": 2.5,
+  "carbs_g": 18,
+  "fat_g": 0.5
+ },
+ {
+  "id": 679,
+  "name": "Corn, white, cooked",
+  "category": "Vegetables",
+  "calories": 90,
+  "protein_g": 3,
+  "carbs_g": 20,
+  "fat_g": 1
+ },
+ {
+  "id": 680,
+  "name": "Corn, creamed",
+  "category": "Vegetables",
+  "calories": 90,
+  "protein_g": 2,
+  "carbs_g": 20,
+  "fat_g": 2
+ },
+ {
+  "id": 681,
+  "name": "Corn, cream style, canned",
+  "category": "Vegetables",
+  "calories": 72,
+  "protein_g": 1.7,
+  "carbs_g": 18,
+  "fat_g": 0.5
+ },
+ {
+  "id": 682,
+  "name": "Corn, kernels, frozen",
+  "category": "Vegetables",
+  "calories": 76,
+  "protein_g": 2.5,
+  "carbs_g": 17,
+  "fat_g": 0.3
+ },
+ {
+  "id": 683,
+  "name": "Baby Corn, canned",
+  "category": "Vegetables",
+  "calories": 19,
+  "protein_g": 1.7,
+  "carbs_g": 3.7,
+  "fat_g": 0.3
+ },
+ {
+  "id": 684,
+  "name": "Corn, sweet, raw",
+  "category": "Vegetables",
+  "calories": 86,
+  "protein_g": 3.3,
+  "carbs_g": 18.7,
+  "fat_g": 1.4
+ },
+ {
+  "id": 685,
+  "name": "Corn, popcorn, air-popped",
+  "category": "Vegetables",
+  "calories": 387,
+  "protein_g": 13,
+  "carbs_g": 78,
+  "fat_g": 4.5
+ },
+ {
+  "id": 686,
+  "name": "Corn, popcorn, buttered",
+  "category": "Vegetables",
+  "calories": 501,
+  "protein_g": 9,
+  "carbs_g": 61,
+  "fat_g": 28
+ },
+ {
+  "id": 687,
+  "name": "Corn, popcorn, kettle corn",
+  "category": "Vegetables",
+  "calories": 436,
+  "protein_g": 8,
+  "carbs_g": 78,
+  "fat_g": 14
+ },
+ {
+  "id": 688,
+  "name": "Okra, raw",
+  "category": "Vegetables",
+  "calories": 33,
+  "protein_g": 1.9,
+  "carbs_g": 7.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 689,
+  "name": "Okra, cooked",
+  "category": "Vegetables",
+  "calories": 22,
+  "protein_g": 1.5,
+  "carbs_g": 4.5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 690,
+  "name": "Okra, breaded and fried",
+  "category": "Vegetables",
+  "calories": 180,
+  "protein_g": 3,
+  "carbs_g": 16,
+  "fat_g": 8
+ },
+ {
+  "id": 691,
+  "name": "Artichoke, raw",
+  "category": "Vegetables",
+  "calories": 47,
+  "protein_g": 3.3,
+  "carbs_g": 10.5,
+  "fat_g": 0.2
+ },
+ {
+  "id": 692,
+  "name": "Artichoke, cooked",
+  "category": "Vegetables",
+  "calories": 53,
+  "protein_g": 2.9,
+  "carbs_g": 12,
+  "fat_g": 0.3
+ },
+ {
+  "id": 693,
+  "name": "Artichoke, hearts, marinated",
+  "category": "Vegetables",
+  "calories": 50,
+  "protein_g": 3,
+  "carbs_g": 8,
+  "fat_g": 1.5
+ },
+ {
+  "id": 694,
+  "name": "Artichoke, hearts, canned",
+  "category": "Vegetables",
+  "calories": 45,
+  "protein_g": 2.5,
+  "carbs_g": 9,
+  "fat_g": 0.3
+ },
+ {
+  "id": 695,
+  "name": "Artichoke, stuffed",
+  "category": "Vegetables",
+  "calories": 120,
+  "protein_g": 5,
+  "carbs_g": 15,
+  "fat_g": 4
+ },
+ {
+  "id": 696,
+  "name": "Sun hearts, canned",
+  "category": "Vegetables",
+  "calories": 15,
+  "protein_g": 0.8,
+  "carbs_g": 3,
+  "fat_g": 0.1
+ },
+ {
+  "id": 697,
+  "name": "Fennel, raw",
+  "category": "Vegetables",
+  "calories": 31,
+  "protein_g": 1.2,
+  "carbs_g": 7.3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 698,
+  "name": "Fennel, cooked",
+  "category": "Vegetables",
+  "calories": 27,
+  "protein_g": 1.1,
+  "carbs_g": 6.3,
+  "fat_g": 0.2
+ },
+ {
+  "id": 699,
+  "name": "Celery Root, raw",
+  "category": "Vegetables",
+  "calories": 42,
+  "protein_g": 1.5,
+  "carbs_g": 9.2,
+  "fat_g": 0.3
+ },
+ {
+  "id": 700,
+  "name": "Celery Root, cooked",
+  "category": "Vegetables",
+  "calories": 34,
+  "protein_g": 1.3,
+  "carbs_g": 7.4,
+  "fat_g": 0.2
+ },
+ {
+  "id": 701,
+  "name": "Milk, whole (3.25% fat)",
+  "category": "Dairy",
+  "calories": 61,
+  "protein_g": 3.2,
+  "carbs_g": 4.8,
+  "fat_g": 3.3
+ },
+ {
+  "id": 702,
+  "name": "Milk, reduced fat (2%)",
+  "category": "Dairy",
+  "calories": 50,
+  "protein_g": 3.3,
+  "carbs_g": 4.8,
+  "fat_g": 2
+ },
+ {
+  "id": 703,
+  "name": "Milk, low fat (1%)",
+  "category": "Dairy",
+  "calories": 42,
+  "protein_g": 3.4,
+  "carbs_g": 5,
+  "fat_g": 1
+ },
+ {
+  "id": 704,
+  "name": "Milk, nonfat (skim)",
+  "category": "Dairy",
+  "calories": 34,
+  "protein_g": 3.4,
+  "carbs_g": 5,
+  "fat_g": 0.1
+ },
+ {
+  "id": 705,
+  "name": "Milk, raw, cow",
+  "category": "Dairy",
+  "calories": 61,
+  "protein_g": 3.2,
+  "carbs_g": 4.8,
+  "fat_g": 3.3
+ },
+ {
+  "id": 706,
+  "name": "Milk, goat",
+  "category": "Dairy",
+  "calories": 69,
+  "protein_g": 3.6,
+  "carbs_g": 4.5,
+  "fat_g": 4.1
+ },
+ {
+  "id": 707,
+  "name": "Milk, sheep",
+  "category": "Dairy",
+  "calories": 108,
+  "protein_g": 5.4,
+  "carbs_g": 5.1,
+  "fat_g": 7
+ },
+ {
+  "id": 708,
+  "name": "Milk, buffalo",
+  "category": "Dairy",
+  "calories": 97,
+  "protein_g": 3.8,
+  "carbs_g": 5.2,
+  "fat_g": 6.9
+ },
+ {
+  "id": 709,
+  "name": "Milk, evaporated, canned",
+  "category": "Dairy",
+  "calories": 134,
+  "protein_g": 6.8,
+  "carbs_g": 10,
+  "fat_g": 7.6
+ },
+ {
+  "id": 710,
+  "name": "Milk, condensed, sweetened",
+  "category": "Dairy",
+  "calories": 321,
+  "protein_g": 7.9,
+  "carbs_g": 54.4,
+  "fat_g": 8.7
+ },
+ {
+  "id": 711,
+  "name": "Milk, powdered, whole",
+  "category": "Dairy",
+  "calories": 496,
+  "protein_g": 26.3,
+  "carbs_g": 38.4,
+  "fat_g": 26.7
+ },
+ {
+  "id": 712,
+  "name": "Milk, powdered, nonfat",
+  "category": "Dairy",
+  "calories": 362,
+  "protein_g": 36,
+  "carbs_g": 52,
+  "fat_g": 0.8
+ },
+ {
+  "id": 713,
+  "name": "Milk, chocolate",
+  "category": "Dairy",
+  "calories": 83,
+  "protein_g": 3.2,
+  "carbs_g": 10,
+  "fat_g": 3
+ },
+ {
+  "id": 714,
+  "name": "Milk, strawberry",
+  "category": "Dairy",
+  "calories": 70,
+  "protein_g": 2.5,
+  "carbs_g": 10,
+  "fat_g": 1.5
+ },
+ {
+  "id": 715,
+  "name": "Milk, vanilla",
+  "category": "Dairy",
+  "calories": 65,
+  "protein_g": 3,
+  "carbs_g": 7,
+  "fat_g": 2
+ },
+ {
+  "id": 716,
+  "name": "Milk, almond, unsweetened",
+  "category": "Dairy",
+  "calories": 15,
+  "protein_g": 0.6,
+  "carbs_g": 0.3,
+  "fat_g": 1.2
+ },
+ {
+  "id": 717,
+  "name": "Milk, soy, unsweetened",
+  "category": "Dairy",
+  "calories": 54,
+  "protein_g": 3.3,
+  "carbs_g": 3,
+  "fat_g": 1.8
+ },
+ {
+  "id": 718,
+  "name": "Milk, oat",
+  "category": "Dairy",
+  "calories": 48,
+  "protein_g": 1,
+  "carbs_g": 9,
+  "fat_g": 1.5
+ },
+ {
+  "id": 719,
+  "name": "Milk, coconut, carton",
+  "category": "Dairy",
+  "calories": 23,
+  "protein_g": 0.2,
+  "carbs_g": 3,
+  "fat_g": 2
+ },
+ {
+  "id": 720,
+  "name": "Milk, rice",
+  "category": "Dairy",
+  "calories": 47,
+  "protein_g": 0.3,
+  "carbs_g": 9,
+  "fat_g": 1
+ },
+ {
+  "id": 721,
+  "name": "Coconut Milk, canned",
+  "category": "Dairy",
+  "calories": 197,
+  "protein_g": 2,
+  "carbs_g": 3,
+  "fat_g": 19
+ },
+ {
+  "id": 722,
+  "name": "Coconut Milk, carton",
+  "category": "Dairy",
+  "calories": 23,
+  "protein_g": 0.2,
+  "carbs_g": 3,
+  "fat_g": 2
+ },
+ {
+  "id": 723,
+  "name": "Heavy Cream",
+  "category": "Dairy",
+  "calories": 340,
+  "protein_g": 2.8,
+  "carbs_g": 2.8,
+  "fat_g": 36.1
+ },
+ {
+  "id": 724,
+  "name": "Whipping Cream, 35%",
+  "category": "Dairy",
+  "calories": 339,
+  "protein_g": 2.5,
+  "carbs_g": 3,
+  "fat_g": 35
+ },
+ {
+  "id": 725,
+  "name": "Half and Half",
+  "category": "Dairy",
+  "calories": 131,
+  "protein_g": 3,
+  "carbs_g": 4,
+  "fat_g": 11
+ },
+ {
+  "id": 726,
+  "name": "Light Cream, coffee",
+  "category": "Dairy",
+  "calories": 195,
+  "protein_g": 2.7,
+  "carbs_g": 3.5,
+  "fat_g": 19
+ },
+ {
+  "id": 727,
+  "name": "Sour Cream",
+  "category": "Dairy",
+  "calories": 193,
+  "protein_g": 2.4,
+  "carbs_g": 4.6,
+  "fat_g": 19.3
+ },
+ {
+  "id": 728,
+  "name": "Sour Cream, reduced fat",
+  "category": "Dairy",
+  "calories": 136,
+  "protein_g": 3,
+  "carbs_g": 5,
+  "fat_g": 10
+ },
+ {
+  "id": 729,
+  "name": "Sour Cream, fat free",
+  "category": "Dairy",
+  "calories": 74,
+  "protein_g": 3.1,
+  "carbs_g": 7,
+  "fat_g": 1
+ },
+ {
+  "id": 730,
+  "name": "Creme Fraiche",
+  "category": "Dairy",
+  "calories": 292,
+  "protein_g": 2.5,
+  "carbs_g": 3,
+  "fat_g": 30
+ },
+ {
+  "id": 731,
+  "name": "Clotted Cream",
+  "category": "Dairy",
+  "calories": 470,
+  "protein_g": 2,
+  "carbs_g": 3,
+  "fat_g": 50
+ },
+ {
+  "id": 732,
+  "name": "Mascarpone",
+  "category": "Dairy",
+  "calories": 429,
+  "protein_g": 4,
+  "carbs_g": 4,
+  "fat_g": 46
+ },
+ {
+  "id": 733,
+  "name": "Ricotta, whole milk",
+  "category": "Dairy",
+  "calories": 174,
+  "protein_g": 11.3,
+  "carbs_g": 3,
+  "fat_g": 13
+ },
+ {
+  "id": 734,
+  "name": "Ricotta, part skim",
+  "category": "Dairy",
+  "calories": 138,
+  "protein_g": 11.4,
+  "carbs_g": 5.1,
+  "fat_g": 7.9
+ },
+ {
+  "id": 735,
+  "name": "Ricotta, fat free",
+  "category": "Dairy",
+  "calories": 72,
+  "protein_g": 8,
+  "carbs_g": 5,
+  "fat_g": 0
+ },
+ {
+  "id": 736,
+  "name": "Cream Cheese",
+  "category": "Dairy",
+  "calories": 342,
+  "protein_g": 5.9,
+  "carbs_g": 4.1,
+  "fat_g": 34.2
+ },
+ {
+  "id": 737,
+  "name": "Cream Cheese, reduced fat",
+  "category": "Dairy",
+  "calories": 240,
+  "protein_g": 6,
+  "carbs_g": 6,
+  "fat_g": 20
+ },
+ {
+  "id": 738,
+  "name": "Cream Cheese, fat free",
+  "category": "Dairy",
+  "calories": 70,
+  "protein_g": 8,
+  "carbs_g": 6,
+  "fat_g": 0
+ },
+ {
+  "id": 739,
+  "name": "Cream Cheese, whipped",
+  "category": "Dairy",
+  "calories": 240,
+  "protein_g": 6,
+  "carbs_g": 5,
+  "fat_g": 20
+ },
+ {
+  "id": 740,
+  "name": "Cream Cheese, flavored (strawberry)",
+  "category": "Dairy",
+  "calories": 320,
+  "protein_g": 5,
+  "carbs_g": 12,
+  "fat_g": 28
+ },
+ {
+  "id": 741,
+  "name": "Cottage Cheese, whole milk",
+  "category": "Dairy",
+  "calories": 98,
+  "protein_g": 11,
+  "carbs_g": 3.4,
+  "fat_g": 4.3
+ },
+ {
+  "id": 742,
+  "name": "Cottage Cheese, 2% fat",
+  "category": "Dairy",
+  "calories": 84,
+  "protein_g": 11.8,
+  "carbs_g": 4.3,
+  "fat_g": 2.3
+ },
+ {
+  "id": 743,
+  "name": "Cottage Cheese, 1% fat",
+  "category": "Dairy",
+  "calories": 72,
+  "protein_g": 12.4,
+  "carbs_g": 2.7,
+  "fat_g": 1
+ },
+ {
+  "id": 744,
+  "name": "Cottage Cheese, fat free",
+  "category": "Dairy",
+  "calories": 72,
+  "protein_g": 12,
+  "carbs_g": 6,
+  "fat_g": 0
+ },
+ {
+  "id": 745,
+  "name": "Cottage Cheese, with pineapple",
+  "category": "Dairy",
+  "calories": 96,
+  "protein_g": 10,
+  "carbs_g": 9,
+  "fat_g": 1
+ },
+ {
+  "id": 746,
+  "name": "Cottage Cheese, with chives",
+  "category": "Dairy",
+  "calories": 72,
+  "protein_g": 12,
+  "carbs_g": 4,
+  "fat_g": 1
+ },
+ {
+  "id": 747,
+  "name": "Cottage Cheese, large curd",
+  "category": "Dairy",
+  "calories": 98,
+  "protein_g": 11,
+  "carbs_g": 3.4,
+  "fat_g": 4.3
+ },
+ {
+  "id": 748,
+  "name": "Cottage Cheese, small curd",
+  "category": "Dairy",
+  "calories": 98,
+  "protein_g": 11,
+  "carbs_g": 3.4,
+  "fat_g": 4.3
+ },
+ {
+  "id": 749,
+  "name": "Yogurt, whole milk, plain",
+  "category": "Dairy",
+  "calories": 61,
+  "protein_g": 3.5,
+  "carbs_g": 4.7,
+  "fat_g": 3.3
+ },
+ {
+  "id": 750,
+  "name": "Yogurt, low fat, plain",
+  "category": "Dairy",
+  "calories": 56,
+  "protein_g": 4,
+  "carbs_g": 6,
+  "fat_g": 1.5
+ },
+ {
+  "id": 751,
+  "name": "Yogurt, nonfat, plain",
+  "category": "Dairy",
+  "calories": 48,
+  "protein_g": 4,
+  "carbs_g": 6,
+  "fat_g": 0.2
+ },
+ {
+  "id": 752,
+  "name": "Yogurt, Greek, whole milk, plain",
+  "category": "Dairy",
+  "calories": 97,
+  "protein_g": 9,
+  "carbs_g": 3.9,
+  "fat_g": 5
+ },
+ {
+  "id": 753,
+  "name": "Yogurt, Greek, 2% fat, plain",
+  "category": "Dairy",
+  "calories": 73,
+  "protein_g": 9.9,
+  "carbs_g": 3.9,
+  "fat_g": 1.9
+ },
+ {
+  "id": 754,
+  "name": "Yogurt, Greek, nonfat, plain",
+  "category": "Dairy",
+  "calories": 57,
+  "protein_g": 10.3,
+  "carbs_g": 3.9,
+  "fat_g": 0.4
+ },
+ {
+  "id": 755,
+  "name": "Yogurt, Greek, vanilla, 2%",
+  "category": "Dairy",
+  "calories": 90,
+  "protein_g": 9,
+  "carbs_g": 8,
+  "fat_g": 2
+ },
+ {
+  "id": 756,
+  "name": "Yogurt, Greek, strawberry, 2%",
+  "category": "Dairy",
+  "calories": 88,
+  "protein_g": 8.5,
+  "carbs_g": 9,
+  "fat_g": 1.8
+ },
+ {
+  "id": 757,
+  "name": "Yogurt, Greek, peach, 2%",
+  "category": "Dairy",
+  "calories": 86,
+  "protein_g": 8.5,
+  "carbs_g": 9,
+  "fat_g": 1.8
+ },
+ {
+  "id": 758,
+  "name": "Yogurt, Greek, blueberry, 2%",
+  "category": "Dairy",
+  "calories": 88,
+  "protein_g": 8.5,
+  "carbs_g": 9,
+  "fat_g": 1.8
+ },
+ {
+  "id": 759,
+  "name": "Yogurt, drinkable, low fat",
+  "category": "Dairy",
+  "calories": 55,
+  "protein_g": 3,
+  "carbs_g": 8,
+  "fat_g": 1
+ },
+ {
+  "id": 760,
+  "name": "Yogurt, drinkable, nonfat",
+  "category": "Dairy",
+  "calories": 45,
+  "protein_g": 4,
+  "carbs_g": 6,
+  "fat_g": 0
+ },
+ {
+  "id": 761,
+  "name": "Yogurt, frozen, vanilla, soft serve",
+  "category": "Dairy",
+  "calories": 127,
+  "protein_g": 3,
+  "carbs_g": 21,
+  "fat_g": 4
+ },
+ {
+  "id": 762,
+  "name": "Yogurt, frozen, chocolate, soft serve",
+  "category": "Dairy",
+  "calories": 130,
+  "protein_g": 3.5,
+  "carbs_g": 22,
+  "fat_g": 4
+ },
+ {
+  "id": 763,
+  "name": "Yogurt, frozen, strawberry, soft serve",
+  "category": "Dairy",
+  "calories": 120,
+  "protein_g": 3,
+  "carbs_g": 20,
+  "fat_g": 3.5
+ },
+ {
+  "id": 764,
+  "name": "Yogurt, Kefir, plain, low fat",
+  "category": "Dairy",
+  "calories": 43,
+  "protein_g": 3.4,
+  "carbs_g": 4.7,
+  "fat_g": 1
+ },
+ {
+  "id": 765,
+  "name": "Yogurt, Kefir, strawberry, low fat",
+  "category": "Dairy",
+  "calories": 55,
+  "protein_g": 3,
+  "carbs_g": 8,
+  "fat_g": 1
+ },
+ {
+  "id": 766,
+  "name": "Buttermilk, cultured, low fat",
+  "category": "Dairy",
+  "calories": 40,
+  "protein_g": 3.3,
+  "carbs_g": 4.8,
+  "fat_g": 0.9
+ },
+ {
+  "id": 767,
+  "name": "Buttermilk, cultured, whole",
+  "category": "Dairy",
+  "calories": 62,
+  "protein_g": 3.2,
+  "carbs_g": 4.8,
+  "fat_g": 3.3
+ },
+ {
+  "id": 768,
+  "name": "Buttermilk, powdered",
+  "category": "Dairy",
+  "calories": 357,
+  "protein_g": 29,
+  "carbs_g": 49,
+  "fat_g": 6
+ },
+ {
+  "id": 769,
+  "name": "Butter, salted",
+  "category": "Dairy",
+  "calories": 717,
+  "protein_g": 0.9,
+  "carbs_g": 0.1,
+  "fat_g": 81.1
+ },
+ {
+  "id": 770,
+  "name": "Butter, unsalted",
+  "category": "Dairy",
+  "calories": 717,
+  "protein_g": 0.9,
+  "carbs_g": 0.1,
+  "fat_g": 81.1
+ },
+ {
+  "id": 771,
+  "name": "Butter, whipped, salted",
+  "category": "Dairy",
+  "calories": 718,
+  "protein_g": 0.5,
+  "carbs_g": 0,
+  "fat_g": 78.3
+ },
+ {
+  "id": 772,
+  "name": "Butter, clarified (ghee)",
+  "category": "Dairy",
+  "calories": 876,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 99.5
+ },
+ {
+  "id": 773,
+  "name": "Butter, light",
+  "category": "Dairy",
+  "calories": 499,
+  "protein_g": 0.5,
+  "carbs_g": 0,
+  "fat_g": 55.1
+ },
+ {
+  "id": 774,
+  "name": "Butter, spreadable",
+  "category": "Dairy",
+  "calories": 621,
+  "protein_g": 0.7,
+  "carbs_g": 1,
+  "fat_g": 67
+ },
+ {
+  "id": 775,
+  "name": "Cheese, cheddar",
+  "category": "Dairy",
+  "calories": 403,
+  "protein_g": 24.9,
+  "carbs_g": 1.3,
+  "fat_g": 33.1
+ },
+ {
+  "id": 776,
+  "name": "Cheese, cheddar, sharp",
+  "category": "Dairy",
+  "calories": 403,
+  "protein_g": 24.9,
+  "carbs_g": 1.3,
+  "fat_g": 33.1
+ },
+ {
+  "id": 777,
+  "name": "Cheese, cheddar, mild",
+  "category": "Dairy",
+  "calories": 403,
+  "protein_g": 24.9,
+  "carbs_g": 1.3,
+  "fat_g": 33.1
+ },
+ {
+  "id": 778,
+  "name": "Cheese, cheddar, reduced fat",
+  "category": "Dairy",
+  "calories": 300,
+  "protein_g": 24,
+  "carbs_g": 2,
+  "fat_g": 20
+ },
+ {
+  "id": 779,
+  "name": "Cheese, cheddar, fat free",
+  "category": "Dairy",
+  "calories": 150,
+  "protein_g": 24,
+  "carbs_g": 4,
+  "fat_g": 0
+ },
+ {
+  "id": 780,
+  "name": "Cheese, mozzarella, whole milk",
+  "category": "Dairy",
+  "calories": 280,
+  "protein_g": 28,
+  "carbs_g": 3.1,
+  "fat_g": 17
+ },
+ {
+  "id": 781,
+  "name": "Cheese, mozzarella, part skim",
+  "category": "Dairy",
+  "calories": 254,
+  "protein_g": 24,
+  "carbs_g": 2.8,
+  "fat_g": 15.9
+ },
+ {
+  "id": 782,
+  "name": "Cheese, mozzarella, fresh",
+  "category": "Dairy",
+  "calories": 280,
+  "protein_g": 28,
+  "carbs_g": 3.1,
+  "fat_g": 17
+ },
+ {
+  "id": 783,
+  "name": "Cheese, mozzarella, string",
+  "category": "Dairy",
+  "calories": 254,
+  "protein_g": 24,
+  "carbs_g": 2.8,
+  "fat_g": 15.9
+ },
+ {
+  "id": 784,
+  "name": "Cheese, parmesan, grated",
+  "category": "Dairy",
+  "calories": 431,
+  "protein_g": 38,
+  "carbs_g": 4.1,
+  "fat_g": 29
+ },
+ {
+  "id": 785,
+  "name": "Cheese, parmesan, shredded",
+  "category": "Dairy",
+  "calories": 431,
+  "protein_g": 38,
+  "carbs_g": 4.1,
+  "fat_g": 29
+ },
+ {
+  "id": 786,
+  "name": "Cheese, parmesan, romano",
+  "category": "Dairy",
+  "calories": 387,
+  "protein_g": 35,
+  "carbs_g": 3,
+  "fat_g": 26
+ },
+ {
+  "id": 787,
+  "name": "Cheese, feta",
+  "category": "Dairy",
+  "calories": 264,
+  "protein_g": 14.2,
+  "carbs_g": 4.1,
+  "fat_g": 21.3
+ },
+ {
+  "id": 788,
+  "name": "Cheese, feta, reduced fat",
+  "category": "Dairy",
+  "calories": 200,
+  "protein_g": 16,
+  "carbs_g": 4,
+  "fat_g": 14
+ },
+ {
+  "id": 789,
+  "name": "Cheese, feta, crumbled",
+  "category": "Dairy",
+  "calories": 264,
+  "protein_g": 14.2,
+  "carbs_g": 4.1,
+  "fat_g": 21.3
+ },
+ {
+  "id": 790,
+  "name": "Cheese, swiss",
+  "category": "Dairy",
+  "calories": 380,
+  "protein_g": 26.9,
+  "carbs_g": 5.4,
+  "fat_g": 27.8
+ },
+ {
+  "id": 791,
+  "name": "Cheese, swiss, reduced fat",
+  "category": "Dairy",
+  "calories": 280,
+  "protein_g": 27,
+  "carbs_g": 5,
+  "fat_g": 18
+ },
+ {
+  "id": 792,
+  "name": "Cheese, provolone",
+  "category": "Dairy",
+  "calories": 351,
+  "protein_g": 25.6,
+  "carbs_g": 2.1,
+  "fat_g": 26.6
+ },
+ {
+  "id": 793,
+  "name": "Cheese, monterey jack",
+  "category": "Dairy",
+  "calories": 373,
+  "protein_g": 24,
+  "carbs_g": 0.7,
+  "fat_g": 30
+ },
+ {
+  "id": 794,
+  "name": "Cheese, pepper jack",
+  "category": "Dairy",
+  "calories": 376,
+  "protein_g": 24,
+  "carbs_g": 1,
+  "fat_g": 30
+ },
+ {
+  "id": 795,
+  "name": "Cheese, colby",
+  "category": "Dairy",
+  "calories": 394,
+  "protein_g": 23.8,
+  "carbs_g": 2.6,
+  "fat_g": 32.1
+ },
+ {
+  "id": 796,
+  "name": "Cheese, muenster",
+  "category": "Dairy",
+  "calories": 368,
+  "protein_g": 23.4,
+  "carbs_g": 1.1,
+  "fat_g": 29.7
+ },
+ {
+  "id": 797,
+  "name": "Cheese, havarti",
+  "category": "Dairy",
+  "calories": 371,
+  "protein_g": 23,
+  "carbs_g": 2,
+  "fat_g": 29
+ },
+ {
+  "id": 798,
+  "name": "Cheese, gouda",
+  "category": "Dairy",
+  "calories": 356,
+  "protein_g": 24.9,
+  "carbs_g": 2.2,
+  "fat_g": 27.4
+ },
+ {
+  "id": 799,
+  "name": "Cheese, brie",
+  "category": "Dairy",
+  "calories": 334,
+  "protein_g": 20.8,
+  "carbs_g": 0.5,
+  "fat_g": 27.7
+ },
+ {
+  "id": 800,
+  "name": "Cheese, camembert",
+  "category": "Dairy",
+  "calories": 299,
+  "protein_g": 19.8,
+  "carbs_g": 0.5,
+  "fat_g": 24.3
+ },
+ {
+  "id": 801,
+  "name": "Cheese, blue",
+  "category": "Dairy",
+  "calories": 353,
+  "protein_g": 21.4,
+  "carbs_g": 2.3,
+  "fat_g": 28.7
+ },
+ {
+  "id": 802,
+  "name": "Cheese, gorgonzola",
+  "category": "Dairy",
+  "calories": 353,
+  "protein_g": 21.4,
+  "carbs_g": 2.3,
+  "fat_g": 28.7
+ },
+ {
+  "id": 803,
+  "name": "Cheese, roquefort",
+  "category": "Dairy",
+  "calories": 369,
+  "protein_g": 21.5,
+  "carbs_g": 2,
+  "fat_g": 30.9
+ },
+ {
+  "id": 804,
+  "name": "Cheese, stilton",
+  "category": "Dairy",
+  "calories": 394,
+  "protein_g": 24,
+  "carbs_g": 0,
+  "fat_g": 33
+ },
+ {
+  "id": 805,
+  "name": "Cheese, gorgonzola, dolce",
+  "category": "Dairy",
+  "calories": 350,
+  "protein_g": 21,
+  "carbs_g": 2,
+  "fat_g": 28
+ },
+ {
+  "id": 806,
+  "name": "Cheese, gruyere",
+  "category": "Dairy",
+  "calories": 413,
+  "protein_g": 29.8,
+  "carbs_g": 0.4,
+  "fat_g": 32.3
+ },
+ {
+  "id": 807,
+  "name": "Cheese, emmental",
+  "category": "Dairy",
+  "calories": 380,
+  "protein_g": 28,
+  "carbs_g": 0,
+  "fat_g": 30
+ },
+ {
+  "id": 808,
+  "name": "Cheese, raclette",
+  "category": "Dairy",
+  "calories": 357,
+  "protein_g": 27,
+  "carbs_g": 0,
+  "fat_g": 28
+ },
+ {
+  "id": 809,
+  "name": "Cheese, halloumi",
+  "category": "Dairy",
+  "calories": 321,
+  "protein_g": 22,
+  "carbs_g": 2,
+  "fat_g": 25
+ },
+ {
+  "id": 810,
+  "name": "Cheese, paneer",
+  "category": "Dairy",
+  "calories": 265,
+  "protein_g": 18.3,
+  "carbs_g": 3.6,
+  "fat_g": 20.8
+ },
+ {
+  "id": 811,
+  "name": "Cheese, queso fresco",
+  "category": "Dairy",
+  "calories": 299,
+  "protein_g": 18,
+  "carbs_g": 2,
+  "fat_g": 24
+ },
+ {
+  "id": 812,
+  "name": "Cheese, queso blanco",
+  "category": "Dairy",
+  "calories": 300,
+  "protein_g": 20,
+  "carbs_g": 2,
+  "fat_g": 24
+ },
+ {
+  "id": 813,
+  "name": "Cheese, cotija",
+  "category": "Dairy",
+  "calories": 366,
+  "protein_g": 20,
+  "carbs_g": 2,
+  "fat_g": 30
+ },
+ {
+  "id": 814,
+  "name": "Cheese, manchego",
+  "category": "Dairy",
+  "calories": 403,
+  "protein_g": 25,
+  "carbs_g": 0,
+  "fat_g": 32
+ },
+ {
+  "id": 815,
+  "name": "Cheese, asiago",
+  "category": "Dairy",
+  "calories": 392,
+  "protein_g": 25,
+  "carbs_g": 1,
+  "fat_g": 30
+ },
+ {
+  "id": 816,
+  "name": "Cheese, fontina",
+  "category": "Dairy",
+  "calories": 389,
+  "protein_g": 25.6,
+  "carbs_g": 1.6,
+  "fat_g": 31.1
+ },
+ {
+  "id": 817,
+  "name": "Cheese, taleggio",
+  "category": "Dairy",
+  "calories": 290,
+  "protein_g": 18,
+  "carbs_g": 0,
+  "fat_g": 25
+ },
+ {
+  "id": 818,
+  "name": "Cheese, reblochon",
+  "category": "Dairy",
+  "calories": 320,
+  "protein_g": 18,
+  "carbs_g": 1,
+  "fat_g": 28
+ },
+ {
+  "id": 819,
+  "name": "Cheese, limburger",
+  "category": "Dairy",
+  "calories": 327,
+  "protein_g": 20,
+  "carbs_g": 1,
+  "fat_g": 27
+ },
+ {
+  "id": 820,
+  "name": "Cheese, mozzarella, buffalo",
+  "category": "Dairy",
+  "calories": 280,
+  "protein_g": 28,
+  "carbs_g": 3.1,
+  "fat_g": 17
+ },
+ {
+  "id": 821,
+  "name": "Cheese, ricotta, sheep",
+  "category": "Dairy",
+  "calories": 200,
+  "protein_g": 12,
+  "carbs_g": 3,
+  "fat_g": 16
+ },
+ {
+  "id": 822,
+  "name": "Cheese, goat, soft",
+  "category": "Dairy",
+  "calories": 264,
+  "protein_g": 18,
+  "carbs_g": 2,
+  "fat_g": 21
+ },
+ {
+  "id": 823,
+  "name": "Cheese, goat, aged",
+  "category": "Dairy",
+  "calories": 364,
+  "protein_g": 25,
+  "carbs_g": 2,
+  "fat_g": 29
+ },
+ {
+  "id": 824,
+  "name": "Cheese, burrata",
+  "category": "Dairy",
+  "calories": 290,
+  "protein_g": 18,
+  "carbs_g": 2,
+  "fat_g": 25
+ },
+ {
+  "id": 825,
+  "name": "Cheese, stracciatella",
+  "category": "Dairy",
+  "calories": 280,
+  "protein_g": 16,
+  "carbs_g": 3,
+  "fat_g": 24
+ },
+ {
+  "id": 826,
+  "name": "Cheese, scamorza",
+  "category": "Dairy",
+  "calories": 300,
+  "protein_g": 24,
+  "carbs_g": 2,
+  "fat_g": 23
+ },
+ {
+  "id": 827,
+  "name": "Cheese, caciocavallo",
+  "category": "Dairy",
+  "calories": 360,
+  "protein_g": 26,
+  "carbs_g": 2,
+  "fat_g": 28
+ },
+ {
+  "id": 828,
+  "name": "Cheese, pecorino romano",
+  "category": "Dairy",
+  "calories": 387,
+  "protein_g": 35,
+  "carbs_g": 3,
+  "fat_g": 26
+ },
+ {
+  "id": 829,
+  "name": "Cheese, piave",
+  "category": "Dairy",
+  "calories": 390,
+  "protein_g": 26,
+  "carbs_g": 1,
+  "fat_g": 30
+ },
+ {
+  "id": 830,
+  "name": "Cheese, montasio",
+  "category": "Dairy",
+  "calories": 380,
+  "protein_g": 26,
+  "carbs_g": 1,
+  "fat_g": 29
+ },
+ {
+  "id": 831,
+  "name": "Cheese, quartirolo",
+  "category": "Dairy",
+  "calories": 320,
+  "protein_g": 22,
+  "carbs_g": 2,
+  "fat_g": 26
+ },
+ {
+  "id": 832,
+  "name": "Cheese, robiola",
+  "category": "Dairy",
+  "calories": 320,
+  "protein_g": 18,
+  "carbs_g": 2,
+  "fat_g": 28
+ },
+ {
+  "id": 833,
+  "name": "Cheese, taleggio, d.o.p.",
+  "category": "Dairy",
+  "calories": 290,
+  "protein_g": 18,
+  "carbs_g": 0,
+  "fat_g": 25
+ },
+ {
+  "id": 834,
+  "name": "Cheese, gorgonzola, piccante",
+  "category": "Dairy",
+  "calories": 353,
+  "protein_g": 21.4,
+  "carbs_g": 2.3,
+  "fat_g": 28.7
+ },
+ {
+  "id": 835,
+  "name": "Cheese, valtelinese",
+  "category": "Dairy",
+  "calories": 350,
+  "protein_g": 22,
+  "carbs_g": 2,
+  "fat_g": 28
+ },
+ {
+  "id": 836,
+  "name": "Cheese, casizolu",
+  "category": "Dairy",
+  "calories": 350,
+  "protein_g": 24,
+  "carbs_g": 2,
+  "fat_g": 27
+ },
+ {
+  "id": 837,
+  "name": "Cheese, castelmagno",
+  "category": "Dairy",
+  "calories": 380,
+  "protein_g": 22,
+  "carbs_g": 2,
+  "fat_g": 31
+ },
+ {
+  "id": 838,
+  "name": "Cheese, gorgonzola, naturale",
+  "category": "Dairy",
+  "calories": 353,
+  "protein_g": 21.4,
+  "carbs_g": 2.3,
+  "fat_g": 28.7
+ },
+ {
+  "id": 839,
+  "name": "Cheese, murazzano",
+  "category": "Dairy",
+  "calories": 320,
+  "protein_g": 20,
+  "carbs_g": 2,
+  "fat_g": 26
+ },
+ {
+  "id": 840,
+  "name": "Cheese, murazzano, extra",
+  "category": "Dairy",
+  "calories": 340,
+  "protein_g": 21,
+  "carbs_g": 2,
+  "fat_g": 28
+ },
+ {
+  "id": 841,
+  "name": "Olive Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 842,
+  "name": "Extra Virgin Olive Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 843,
+  "name": "Virgin Coconut Oil",
+  "category": "Fats",
+  "calories": 862,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 844,
+  "name": "Palm Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 845,
+  "name": "Sunflower Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 846,
+  "name": "Safflower Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 847,
+  "name": "Canola Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 848,
+  "name": "Vegetable Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 849,
+  "name": "Corn Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 850,
+  "name": "Soybean Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 851,
+  "name": "Peanut Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 852,
+  "name": "Sesame Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 853,
+  "name": "Grapeseed Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 854,
+  "name": "Walnut Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 855,
+  "name": "Almond Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 856,
+  "name": "Avocado Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 857,
+  "name": "Flaxseed Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 858,
+  "name": "Hemp Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 859,
+  "name": "Pumpkin Seed Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 860,
+  "name": "Sunflower Oil, high oleic",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 861,
+  "name": "Safflower Oil, high oleic",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 862,
+  "name": "Rice Bran Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 863,
+  "name": "Tea Seed Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 864,
+  "name": "Macadamia Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 865,
+  "name": "Hazelnut Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 866,
+  "name": "Pistachio Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 867,
+  "name": "Brazil Nut Oil",
+  "category": "Fats",
+  "calories": 884,
+  "protein_g": 0,
+  "carbs_g": 0,
+  "fat_g": 100
+ },
+ {
+  "id": 868,
+  "name": "Almonds, raw",
+  "category": "Fats",
+  "calories": 579,
+  "protein_g": 21.2,
+  "carbs_g": 21.6,
+  "fat_g": 49.9
+ },
+ {
+  "id": 869,
+  "name": "Almonds, roasted",
+  "category": "Fats",
+  "calories": 597,
+  "protein_g": 21.2,
+  "carbs_g": 21,
+  "fat_g": 52.1
+ },
+ {
+  "id": 870,
+  "name": "Almonds, blanched",
+  "category": "Fats",
+  "calories": 576,
+  "protein_g": 21.4,
+  "carbs_g": 21.5,
+  "fat_g": 49.4
+ },
+ {
+  "id": 871,
+  "name": "Almonds, slivered",
+  "category": "Fats",
+  "calories": 579,
+  "protein_g": 21.2,
+  "carbs_g": 21.6,
+  "fat_g": 49.9
+ },
+ {
+  "id": 872,
+  "name": "Almonds, sliced",
+  "category": "Fats",
+  "calories": 579,
+  "protein_g": 21.2,
+  "carbs_g": 21.6,
+  "fat_g": 49.9
+ },
+ {
+  "id": 873,
+  "name": "Almonds, flour",
+  "category": "Fats",
+  "calories": 571,
+  "protein_g": 24,
+  "carbs_g": 19,
+  "fat_g": 50
+ },
+ {
+  "id": 874,
+  "name": "Almonds, meal",
+  "category": "Fats",
+  "calories": 571,
+  "protein_g": 24,
+  "carbs_g": 19,
+  "fat_g": 50
+ },
+ {
+  "id": 875,
+  "name": "Almond Butter",
+  "category": "Fats",
+  "calories": 614,
+  "protein_g": 21,
+  "carbs_g": 19,
+  "fat_g": 56
+ },
+ {
+  "id": 876,
+  "name": "Almond Butter, crunchy",
+  "category": "Fats",
+  "calories": 614,
+  "protein_g": 21,
+  "carbs_g": 19,
+  "fat_g": 56
+ },
+ {
+  "id": 877,
+  "name": "Almond Milk, unsweetened",
+  "category": "Fats",
+  "calories": 15,
+  "protein_g": 0.6,
+  "carbs_g": 0.3,
+  "fat_g": 1.2
+ },
+ {
+  "id": 878,
+  "name": "Walnuts, raw",
+  "category": "Fats",
+  "calories": 654,
+  "protein_g": 15.2,
+  "carbs_g": 13.7,
+  "fat_g": 65.2
+ },
+ {
+  "id": 879,
+  "name": "Walnuts, roasted",
+  "category": "Fats",
+  "calories": 667,
+  "protein_g": 15.2,
+  "carbs_g": 13.7,
+  "fat_g": 66
+ },
+ {
+  "id": 880,
+  "name": "Walnuts, chopped",
+  "category": "Fats",
+  "calories": 654,
+  "protein_g": 15.2,
+  "carbs_g": 13.7,
+  "fat_g": 65.2
+ },
+ {
+  "id": 881,
+  "name": "Walnuts, halves",
+  "category": "Fats",
+  "calories": 654,
+  "protein_g": 15.2,
+  "carbs_g": 13.7,
+  "fat_g": 65.2
+ },
+ {
+  "id": 882,
+  "name": "Walnuts, pieces",
+  "category": "Fats",
+  "calories": 654,
+  "protein_g": 15.2,
+  "carbs_g": 13.7,
+  "fat_g": 65.2
+ },
+ {
+  "id": 883,
+  "name": "Pecans, raw",
+  "category": "Fats",
+  "calories": 691,
+  "protein_g": 9.2,
+  "carbs_g": 13.9,
+  "fat_g": 72
+ },
+ {
+  "id": 884,
+  "name": "Pecans, roasted",
+  "category": "Fats",
+  "calories": 710,
+  "protein_g": 9.2,
+  "carbs_g": 13.9,
+  "fat_g": 74
+ },
+ {
+  "id": 885,
+  "name": "Pecans, halves",
+  "category": "Fats",
+  "calories": 691,
+  "protein_g": 9.2,
+  "carbs_g": 13.9,
+  "fat_g": 72
+ },
+ {
+  "id": 886,
+  "name": "Pecans, chopped",
+  "category": "Fats",
+  "calories": 691,
+  "protein_g": 9.2,
+  "carbs_g": 13.9,
+  "fat_g": 72
+ },
+ {
+  "id": 887,
+  "name": "Pecans, pieces",
+  "category": "Fats",
+  "calories": 691,
+  "protein_g": 9.2,
+  "carbs_g": 13.9,
+  "fat_g": 72
+ },
+ {
+  "id": 888,
+  "name": "Cashews, raw",
+  "category": "Fats",
+  "calories": 553,
+  "protein_g": 18.2,
+  "carbs_g": 30.2,
+  "fat_g": 43.9
+ },
+ {
+  "id": 889,
+  "name": "Cashews, roasted",
+  "category": "Fats",
+  "calories": 574,
+  "protein_g": 18.2,
+  "carbs_g": 29,
+  "fat_g": 46
+ },
+ {
+  "id": 890,
+  "name": "Cashews, salted",
+  "category": "Fats",
+  "calories": 574,
+  "protein_g": 18.2,
+  "carbs_g": 29,
+  "fat_g": 46
+ },
+ {
+  "id": 891,
+  "name": "Cashews, unsalted",
+  "category": "Fats",
+  "calories": 574,
+  "protein_g": 18.2,
+  "carbs_g": 29,
+  "fat_g": 46
+ },
+ {
+  "id": 892,
+  "name": "Cashew Butter",
+  "category": "Fats",
+  "calories": 587,
+  "protein_g": 18,
+  "carbs_g": 28,
+  "fat_g": 48
+ },
+ {
+  "id": 893,
+  "name": "Peanuts, raw",
+  "category": "Fats",
+  "calories": 567,
+  "protein_g": 25.8,
+  "carbs_g": 16.1,
+  "fat_g": 49.2
+ },
+ {
+  "id": 894,
+  "name": "Peanuts, roasted",
+  "category": "Fats",
+  "calories": 587,
+  "protein_g": 24,
+  "carbs_g": 21,
+  "fat_g": 50
+ },
+ {
+  "id": 895,
+  "name": "Peanuts, salted",
+  "category": "Fats",
+  "calories": 587,
+  "protein_g": 24,
+  "carbs_g": 21,
+  "fat_g": 50
+ },
+ {
+  "id": 896,
+  "name": "Peanuts, unsalted",
+  "category": "Fats",
+  "calories": 587,
+  "protein_g": 24,
+  "carbs_g": 21,
+  "fat_g": 50
+ },
+ {
+  "id": 897,
+  "name": "Peanuts, dry roasted",
+  "category": "Fats",
+  "calories": 585,
+  "protein_g": 24,
+  "carbs_g": 20,
+  "fat_g": 50
+ },
+ {
+  "id": 898,
+  "name": "Peanuts, honey roasted",
+  "category": "Fats",
+  "calories": 598,
+  "protein_g": 24,
+  "carbs_g": 24,
+  "fat_g": 50
+ },
+ {
+  "id": 899,
+  "name": "Peanut Butter",
+  "category": "Fats",
+  "calories": 588,
+  "protein_g": 25,
+  "carbs_g": 20,
+  "fat_g": 50
+ },
+ {
+  "id": 900,
+  "name": "Peanut Butter, crunchy",
+  "category": "Fats",
+  "calories": 588,
+  "protein_g": 25,
+  "carbs_g": 20,
+  "fat_g": 50
+ },
+ {
+  "id": 901,
+  "name": "Peanut Butter, natural",
+  "category": "Fats",
+  "calories": 588,
+  "protein_g": 25,
+  "carbs_g": 20,
+  "fat_g": 50
+ },
+ {
+  "id": 902,
+  "name": "Peanut Butter, reduced fat",
+  "category": "Fats",
+  "calories": 495,
+  "protein_g": 26,
+  "carbs_g": 28,
+  "fat_g": 34
+ },
+ {
+  "id": 903,
+  "name": "Macadamia Nuts, raw",
+  "category": "Fats",
+  "calories": 718,
+  "protein_g": 7.9,
+  "carbs_g": 13.8,
+  "fat_g": 75.8
+ },
+ {
+  "id": 904,
+  "name": "Macadamia Nuts, roasted",
+  "category": "Fats",
+  "calories": 720,
+  "protein_g": 7.9,
+  "carbs_g": 13.8,
+  "fat_g": 76
+ },
+ {
+  "id": 905,
+  "name": "Macadamia Nuts, salted",
+  "category": "Fats",
+  "calories": 720,
+  "protein_g": 7.9,
+  "carbs_g": 13.8,
+  "fat_g": 76
+ },
+ {
+  "id": 906,
+  "name": "Pistachios, raw",
+  "category": "Fats",
+  "calories": 560,
+  "protein_g": 20.2,
+  "carbs_g": 27.2,
+  "fat_g": 45.3
+ },
+ {
+  "id": 907,
+  "name": "Pistachios, roasted",
+  "category": "Fats",
+  "calories": 572,
+  "protein_g": 20.2,
+  "carbs_g": 25,
+  "fat_g": 47
+ },
+ {
+  "id": 908,
+  "name": "Pistachios, salted",
+  "category": "Fats",
+  "calories": 572,
+  "protein_g": 20.2,
+  "carbs_g": 25,
+  "fat_g": 47
+ },
+ {
+  "id": 909,
+  "name": "Pistachios, unsalted",
+  "category": "Fats",
+  "calories": 572,
+  "protein_g": 20.2,
+  "carbs_g": 25,
+  "fat_g": 47
+ },
+ {
+  "id": 910,
+  "name": "Hazelnuts, raw",
+  "category": "Fats",
+  "calories": 628,
+  "protein_g": 15,
+  "carbs_g": 16.7,
+  "fat_g": 60.8
+ },
+ {
+  "id": 911,
+  "name": "Hazelnuts, roasted",
+  "category": "Fats",
+  "calories": 646,
+  "protein_g": 15,
+  "carbs_g": 16.7,
+  "fat_g": 62.9
+ },
+ {
+  "id": 912,
+  "name": "Hazelnuts, blanched",
+  "category": "Fats",
+  "calories": 628,
+  "protein_g": 15,
+  "carbs_g": 16.7,
+  "fat_g": 60.8
+ },
+ {
+  "id": 913,
+  "name": "Hazelnut Butter",
+  "category": "Fats",
+  "calories": 630,
+  "protein_g": 15,
+  "carbs_g": 17,
+  "fat_g": 61
+ },
+ {
+  "id": 914,
+  "name": "Brazil Nuts, raw",
+  "category": "Fats",
+  "calories": 656,
+  "protein_g": 14.3,
+  "carbs_g": 12.3,
+  "fat_g": 66.4
+ },
+ {
+  "id": 915,
+  "name": "Brazil Nuts, roasted",
+  "category": "Fats",
+  "calories": 659,
+  "protein_g": 14.3,
+  "carbs_g": 12.3,
+  "fat_g": 67.1
+ },
+ {
+  "id": 916,
+  "name": "Brazil Nuts, salted",
+  "category": "Fats",
+  "calories": 659,
+  "protein_g": 14.3,
+  "carbs_g": 12.3,
+  "fat_g": 67.1
+ },
+ {
+  "id": 917,
+  "name": "Pine Nuts, raw",
+  "category": "Fats",
+  "calories": 673,
+  "protein_g": 13.7,
+  "carbs_g": 13.1,
+  "fat_g": 68.4
+ },
+ {
+  "id": 918,
+  "name": "Pine Nuts, roasted",
+  "category": "Fats",
+  "calories": 718,
+  "protein_g": 13.7,
+  "carbs_g": 13.1,
+  "fat_g": 72
+ },
+ {
+  "id": 919,
+  "name": "Sun Nuts, raw",
+  "category": "Fats",
+  "calories": 582,
+  "protein_g": 12.5,
+  "carbs_g": 19.3,
+  "fat_g": 54.1
+ },
+ {
+  "id": 920,
+  "name": "Sun Nuts, roasted",
+  "category": "Fats",
+  "calories": 600,
+  "protein_g": 12.5,
+  "carbs_g": 19.3,
+  "fat_g": 56
+ },
+ {
+  "id": 921,
+  "name": "Sun Nuts, salted",
+  "category": "Fats",
+  "calories": 600,
+  "protein_g": 12.5,
+  "carbs_g": 19.3,
+  "fat_g": 56
+ },
+ {
+  "id": 922,
+  "name": "Pecans, candied",
+  "category": "Fats",
+  "calories": 450,
+  "protein_g": 6,
+  "carbs_g": 35,
+  "fat_g": 30
+ },
+ {
+  "id": 923,
+  "name": "Sun Nuts, raw",
+  "category": "Fats",
+  "calories": 582,
+  "protein_g": 12.5,
+  "carbs_g": 19.3,
+  "fat_g": 54.1
+ },
+ {
+  "id": 924,
+  "name": "Chia Seeds",
+  "category": "Fats",
+  "calories": 486,
+  "protein_g": 16.5,
+  "carbs_g": 42.1,
+  "fat_g": 30.7
+ },
+ {
+  "id": 925,
+  "name": "Chia Seeds, soaked",
+  "category": "Fats",
+  "calories": 60,
+  "protein_g": 2,
+  "carbs_g": 5,
+  "fat_g": 3.6
+ },
+ {
+  "id": 926,
+  "name": "Flax Seeds, whole",
+  "category": "Fats",
+  "calories": 534,
+  "protein_g": 18.3,
+  "carbs_g": 28.9,
+  "fat_g": 42.2
+ },
+ {
+  "id": 927,
+  "name": "Flax Seeds, ground",
+  "category": "Fats",
+  "calories": 534,
+  "protein_g": 18.3,
+  "carbs_g": 28.9,
+  "fat_g": 42.2
+ },
+ {
+  "id": 928,
+  "name": "Hemp Seeds",
+  "category": "Fats",
+  "calories": 553,
+  "protein_g": 31.6,
+  "carbs_g": 8.7,
+  "fat_g": 48.8
+ },
+ {
+  "id": 929,
+  "name": "Hemp Seeds, hulled",
+  "category": "Fats",
+  "calories": 553,
+  "protein_g": 31.6,
+  "carbs_g": 8.7,
+  "fat_g": 48.8
+ },
+ {
+  "id": 930,
+  "name": "Pumpkin Seeds, raw",
+  "category": "Fats",
+  "calories": 559,
+  "protein_g": 30.2,
+  "carbs_g": 10.7,
+  "fat_g": 49.1
+ },
+ {
+  "id": 931,
+  "name": "Pumpkin Seeds, roasted",
+  "category": "Fats",
+  "calories": 574,
+  "protein_g": 30.2,
+  "carbs_g": 10.7,
+  "fat_g": 51
+ },
+ {
+  "id": 932,
+  "name": "Pumpkin Seeds, salted",
+  "category": "Fats",
+  "calories": 574,
+  "protein_g": 30.2,
+  "carbs_g": 10.7,
+  "fat_g": 51
+ },
+ {
+  "id": 933,
+  "name": "Sunflower Seeds, raw",
+  "category": "Fats",
+  "calories": 584,
+  "protein_g": 20.8,
+  "carbs_g": 20,
+  "fat_g": 51.5
+ },
+ {
+  "id": 934,
+  "name": "Sunflower Seeds, roasted",
+  "category": "Fats",
+  "calories": 582,
+  "protein_g": 20.8,
+  "carbs_g": 20,
+  "fat_g": 51.3
+ },
+ {
+  "id": 935,
+  "name": "Sunflower Seeds, salted",
+  "category": "Fats",
+  "calories": 582,
+  "protein_g": 20.8,
+  "carbs_g": 20,
+  "fat_g": 51.3
+ },
+ {
+  "id": 936,
+  "name": "Sunflower Seed Butter",
+  "category": "Fats",
+  "calories": 617,
+  "protein_g": 19,
+  "carbs_g": 20,
+  "fat_g": 54
+ },
+ {
+  "id": 937,
+  "name": "Sesame Seeds, whole",
+  "category": "Fats",
+  "calories": 573,
+  "protein_g": 17.7,
+  "carbs_g": 23.4,
+  "fat_g": 49.7
+ },
+ {
+  "id": 938,
+  "name": "Sesame Seeds, hulled",
+  "category": "Fats",
+  "calories": 573,
+  "protein_g": 17.7,
+  "carbs_g": 23.4,
+  "fat_g": 49.7
+ },
+ {
+  "id": 939,
+  "name": "Tahini",
+  "category": "Fats",
+  "calories": 595,
+  "protein_g": 17,
+  "carbs_g": 21,
+  "fat_g": 54
+ },
+ {
+  "id": 940,
+  "name": "Tahini, roasted",
+  "category": "Fats",
+  "calories": 595,
+  "protein_g": 17,
+  "carbs_g": 21,
+  "fat_g": 54
+ },
+ {
+  "id": 941,
+  "name": "Tahini, raw",
+  "category": "Fats",
+  "calories": 595,
+  "protein_g": 17,
+  "carbs_g": 21,
+  "fat_g": 54
+ },
+ {
+  "id": 942,
+  "name": "Tahini, stone ground",
+  "category": "Fats",
+  "calories": 595,
+  "protein_g": 17,
+  "carbs_g": 21,
+  "fat_g": 54
+ },
+ {
+  "id": 943,
+  "name": "Tahini, salted",
+  "category": "Fats",
+  "calories": 595,
+  "protein_g": 17,
+  "carbs_g": 21,
+  "fat_g": 54
+ },
+ {
+  "id": 944,
+  "name": "Tahini, unsalted",
+  "category": "Fats",
+  "calories": 595,
+  "protein_g": 17,
+  "carbs_g": 21,
+  "fat_g": 54
+ },
+ {
+  "id": 945,
+  "name": "Poppy Seeds",
+  "category": "Fats",
+  "calories": 525,
+  "protein_g": 18,
+  "carbs_g": 28.1,
+  "fat_g": 41.6
+ },
+ {
+  "id": 946,
+  "name": "Mustard Seeds, yellow",
+  "category": "Fats",
+  "calories": 508,
+  "protein_g": 26,
+  "carbs_g": 28,
+  "fat_g": 36
+ },
+ {
+  "id": 947,
+  "name": "Mustard Seeds, brown",
+  "category": "Fats",
+  "calories": 508,
+  "protein_g": 26,
+  "carbs_g": 28,
+  "fat_g": 36
+ },
+ {
+  "id": 948,
+  "name": "Mustard, yellow",
+  "category": "Fats",
+  "calories": 66,
+  "protein_g": 4,
+  "carbs_g": 6,
+  "fat_g": 3
+ },
+ {
+  "id": 949,
+  "name": "Mustard, dijon",
+  "category": "Fats",
+  "calories": 66,
+  "protein_g": 4,
+  "carbs_g": 6,
+  "fat_g": 3
+ },
+ {
+  "id": 950,
+  "name": "Mustard, honey",
+  "category": "Fats",
+  "calories": 120,
+  "protein_g": 3,
+  "carbs_g": 20,
+  "fat_g": 4
+ },
+ {
+  "id": 951,
+  "name": "Mayonnaise",
+  "category": "Fats",
+  "calories": 680,
+  "protein_g": 1,
+  "carbs_g": 0.6,
+  "fat_g": 74.9
+ },
+ {
+  "id": 952,
+  "name": "Mayonnaise, light",
+  "category": "Fats",
+  "calories": 371,
+  "protein_g": 1,
+  "carbs_g": 6,
+  "fat_g": 35
+ },
+ {
+  "id": 953,
+  "name": "Mayonnaise, fat free",
+  "category": "Fats",
+  "calories": 94,
+  "protein_g": 1,
+  "carbs_g": 20,
+  "fat_g": 3
+ },
+ {
+  "id": 954,
+  "name": "Mayonnaise, olive oil",
+  "category": "Fats",
+  "calories": 450,
+  "protein_g": 1,
+  "carbs_g": 2,
+  "fat_g": 47
+ },
+ {
+  "id": 955,
+  "name": "Mayonnaise, avocado oil",
+  "category": "Fats",
+  "calories": 460,
+  "protein_g": 1,
+  "carbs_g": 2,
+  "fat_g": 48
+ },
+ {
+  "id": 956,
+  "name": "Mayonnaise, canola oil",
+  "category": "Fats",
+  "calories": 450,
+  "protein_g": 1,
+  "carbs_g": 2,
+  "fat_g": 47
+ },
+ {
+  "id": 957,
+  "name": "Ketchup",
+  "category": "Fats",
+  "calories": 112,
+  "protein_g": 1,
+  "carbs_g": 27,
+  "fat_g": 0.1
+ },
+ {
+  "id": 958,
+  "name": "Ketchup, low sodium",
+  "category": "Fats",
+  "calories": 112,
+  "protein_g": 1,
+  "carbs_g": 27,
+  "fat_g": 0.1
+ },
+ {
+  "id": 959,
+  "name": "Ketchup, no sugar added",
+  "category": "Fats",
+  "calories": 20,
+  "protein_g": 1,
+  "carbs_g": 4,
+  "fat_g": 0.1
+ },
+ {
+  "id": 960,
+  "name": "BBQ Sauce",
+  "category": "Fats",
+  "calories": 172,
+  "protein_g": 1,
+  "carbs_g": 40,
+  "fat_g": 1
+ },
+ {
+  "id": 961,
+  "name": "BBQ Sauce, hickory smoke",
+  "category": "Fats",
+  "calories": 172,
+  "protein_g": 1,
+  "carbs_g": 40,
+  "fat_g": 1
+ },
+ {
+  "id": 962,
+  "name": "BBQ Sauce, sweet baby rays",
+  "category": "Fats",
+  "calories": 190,
+  "protein_g": 1,
+  "carbs_g": 43,
+  "fat_g": 1
+ },
+ {
+  "id": 963,
+  "name": "Pizza, cheese, frozen",
+  "category": "Prepared Foods",
+  "calories": 266,
+  "protein_g": 11,
+  "carbs_g": 33,
+  "fat_g": 10
+ },
+ {
+  "id": 964,
+  "name": "Pizza, pepperoni, frozen",
+  "category": "Prepared Foods",
+  "calories": 285,
+  "protein_g": 12,
+  "carbs_g": 30,
+  "fat_g": 13
+ },
+ {
+  "id": 965,
+  "name": "Pizza, supreme, frozen",
+  "category": "Prepared Foods",
+  "calories": 280,
+  "protein_g": 13,
+  "carbs_g": 29,
+  "fat_g": 12
+ },
+ {
+  "id": 966,
+  "name": "Pizza, vegetarian, frozen",
+  "category": "Prepared Foods",
+  "calories": 250,
+  "protein_g": 10,
+  "carbs_g": 32,
+  "fat_g": 8
+ },
+ {
+  "id": 967,
+  "name": "Lasagna, frozen",
+  "category": "Prepared Foods",
+  "calories": 135,
+  "protein_g": 7,
+  "carbs_g": 15,
+  "fat_g": 5
+ },
+ {
+  "id": 968,
+  "name": "Mac and Cheese, frozen",
+  "category": "Prepared Foods",
+  "calories": 158,
+  "protein_g": 6,
+  "carbs_g": 20,
+  "fat_g": 6
+ },
+ {
+  "id": 969,
+  "name": "Burrito, bean and cheese, frozen",
+  "category": "Prepared Foods",
+  "calories": 220,
+  "protein_g": 8,
+  "carbs_g": 35,
+  "fat_g": 6
+ },
+ {
+  "id": 970,
+  "name": "Burrito, beef, frozen",
+  "category": "Prepared Foods",
+  "calories": 230,
+  "protein_g": 10,
+  "carbs_g": 32,
+  "fat_g": 7
+ },
+ {
+  "id": 971,
+  "name": "Chicken Pot Pie, frozen",
+  "category": "Prepared Foods",
+  "calories": 220,
+  "protein_g": 7,
+  "carbs_g": 25,
+  "fat_g": 10
+ },
+ {
+  "id": 972,
+  "name": "Shepherd's Pie, frozen",
+  "category": "Prepared Foods",
+  "calories": 120,
+  "protein_g": 5,
+  "carbs_g": 14,
+  "fat_g": 5
+ },
+ {
+  "id": 973,
+  "name": "Pad Thai, frozen",
+  "category": "Prepared Foods",
+  "calories": 150,
+  "protein_g": 6,
+  "carbs_g": 22,
+  "fat_g": 4
+ },
+ {
+  "id": 974,
+  "name": "Chicken Tikka Masala, frozen",
+  "category": "Prepared Foods",
+  "calories": 160,
+  "protein_g": 9,
+  "carbs_g": 18,
+  "fat_g": 7
+ },
+ {
+  "id": 975,
+  "name": "Beef Stroganoff, frozen",
+  "category": "Prepared Foods",
+  "calories": 145,
+  "protein_g": 8,
+  "carbs_g": 16,
+  "fat_g": 5
+ },
+ {
+  "id": 976,
+  "name": "Chicken Teriyaki, frozen",
+  "category": "Prepared Foods",
+  "calories": 140,
+  "protein_g": 9,
+  "carbs_g": 18,
+  "fat_g": 3.5
+ },
+ {
+  "id": 977,
+  "name": "Potato Chips, regular",
+  "category": "Snacks",
+  "calories": 536,
+  "protein_g": 7,
+  "carbs_g": 53,
+  "fat_g": 35
+ },
+ {
+  "id": 978,
+  "name": "Potato Chips, baked",
+  "category": "Snacks",
+  "calories": 420,
+  "protein_g": 8,
+  "carbs_g": 70,
+  "fat_g": 9
+ },
+ {
+  "id": 979,
+  "name": "Potato Chips, kettle cooked",
+  "category": "Snacks",
+  "calories": 480,
+  "protein_g": 7,
+  "carbs_g": 60,
+  "fat_g": 23
+ },
+ {
+  "id": 980,
+  "name": "Potato Chips, sour cream and onion",
+  "category": "Snacks",
+  "calories": 540,
+  "protein_g": 6,
+  "carbs_g": 52,
+  "fat_g": 35
+ },
+ {
+  "id": 981,
+  "name": "Potato Chips, salt and vinegar",
+  "category": "Snacks",
+  "calories": 520,
+  "protein_g": 7,
+  "carbs_g": 54,
+  "fat_g": 32
+ },
+ {
+  "id": 982,
+  "name": "Potato Chips, barbecue",
+  "category": "Snacks",
+  "calories": 490,
+  "protein_g": 7,
+  "carbs_g": 56,
+  "fat_g": 28
+ },
+ {
+  "id": 983,
+  "name": "Potato Chips, cheddar and sour cream",
+  "category": "Snacks",
+  "calories": 550,
+  "protein_g": 6,
+  "carbs_g": 52,
+  "fat_g": 35
+ },
+ {
+  "id": 984,
+  "name": "Potato Chips, jalapeno",
+  "category": "Snacks",
+  "calories": 520,
+  "protein_g": 7,
+  "carbs_g": 54,
+  "fat_g": 32
+ },
+ {
+  "id": 985,
+  "name": "Potato Chips, dill pickle",
+  "category": "Snacks",
+  "calories": 490,
+  "protein_g": 7,
+  "carbs_g": 56,
+  "fat_g": 28
+ },
+ {
+  "id": 986,
+  "name": "Tortilla Chips, plain",
+  "category": "Snacks",
+  "calories": 497,
+  "protein_g": 7,
+  "carbs_g": 63,
+  "fat_g": 24
+ },
+ {
+  "id": 987,
+  "name": "Tortilla Chips, nacho cheese",
+  "category": "Snacks",
+  "calories": 497,
+  "protein_g": 7,
+  "carbs_g": 63,
+  "fat_g": 24
+ },
+ {
+  "id": 988,
+  "name": "Tortilla Chips, salsa verde",
+  "category": "Snacks",
+  "calories": 490,
+  "protein_g": 7,
+  "carbs_g": 64,
+  "fat_g": 23
+ },
+ {
+  "id": 989,
+  "name": "Tortilla Chips, ranch",
+  "category": "Snacks",
+  "calories": 490,
+  "protein_g": 7,
+  "carbs_g": 64,
+  "fat_g": 23
+ },
+ {
+  "id": 990,
+  "name": "Tortilla Chips, cool ranch",
+  "category": "Snacks",
+  "calories": 490,
+  "protein_g": 7,
+  "carbs_g": 64,
+  "fat_g": 23
+ },
+ {
+  "id": 991,
+  "name": "Tortilla Chips, spicy",
+  "category": "Snacks",
+  "calories": 490,
+  "protein_g": 7,
+  "carbs_g": 64,
+  "fat_g": 23
+ },
+ {
+  "id": 992,
+  "name": "Corn Chips, plain",
+  "category": "Snacks",
+  "calories": 536,
+  "protein_g": 7,
+  "carbs_g": 57,
+  "fat_g": 33
+ },
+ {
+  "id": 993,
+  "name": "Corn Chips, nacho cheese",
+  "category": "Snacks",
+  "calories": 536,
+  "protein_g": 7,
+  "carbs_g": 57,
+  "fat_g": 33
+ },
+ {
+  "id": 994,
+  "name": "Corn Chips, chili cheese",
+  "category": "Snacks",
+  "calories": 536,
+  "protein_g": 7,
+  "carbs_g": 57,
+  "fat_g": 33
+ },
+ {
+  "id": 995,
+  "name": "Pretzels, hard, salted",
+  "category": "Snacks",
+  "calories": 380,
+  "protein_g": 10,
+  "carbs_g": 79,
+  "fat_g": 3
+ },
+ {
+  "id": 996,
+  "name": "Pretzels, hard, unsalted",
+  "category": "Snacks",
+  "calories": 380,
+  "protein_g": 10,
+  "carbs_g": 79,
+  "fat_g": 3
+ },
+ {
+  "id": 997,
+  "name": "Pretzels, soft, salted",
+  "category": "Snacks",
+  "calories": 338,
+  "protein_g": 8,
+  "carbs_g": 65,
+  "fat_g": 3
+ },
+ {
+  "id": 998,
+  "name": "Pretzels, soft, unsalted",
+  "category": "Snacks",
+  "calories": 338,
+  "protein_g": 8,
+  "carbs_g": 65,
+  "fat_g": 3
+ },
+ {
+  "id": 999,
+  "name": "Popcorn, air-popped",
+  "category": "Snacks",
+  "calories": 387,
+  "protein_g": 13,
+  "carbs_g": 78,
+  "fat_g": 4.5
+ },
+ {
+  "id": 1000,
+  "name": "Popcorn, microwave, buttered",
+  "category": "Snacks",
+  "calories": 535,
+  "protein_g": 8,
+  "carbs_g": 58,
+  "fat_g": 31
+ }
+]
